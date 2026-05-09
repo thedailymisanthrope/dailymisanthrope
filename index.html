@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>The Daily Misanthrope</title>
+  <meta name="description" content="A daily curated catalogue of human folly. Because hope is a strategy, and it is failing.">
+  <meta property="og:title" content="The Daily Misanthrope">
+  <meta property="og:description" content="A daily curated catalogue of human folly.">
+  <meta property="og:type" content="website">
+
+  <!-- Fonts -->
+  <link href="https://api.fontshare.com/v2/css?f[]=boska@400,500,700&f[]=satoshi@300,400,500,600,700&display=swap" rel="stylesheet">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="./base.css">
+  <link rel="stylesheet" href="./style.css">
+
+  <!-- Favicon (inline SVG as data URL) -->
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><text y='24' font-size='24'>🤦</text></svg>">
+</head>
+<body>
+  <!-- SVG filter for paper grain texture -->
+  <svg style="position:absolute;width:0;height:0;" aria-hidden="true">
+    <defs>
+      <filter id="paper-grain" x="0%" y="0%" width="100%" height="100%">
+        <feTurbulence type="fractalNoise" baseFrequency="0.65" numOctaves="5" stitchTiles="stitch" result="noise"/>
+        <feColorMatrix type="saturate" values="0" in="noise" result="grainy"/>
+      </filter>
+    </defs>
+  </svg>
+
+  <a href="#main" class="sr-only">Skip to content</a>
+
+  <!-- Frayed top edge -->
+  <div class="frayed-edge-top" aria-hidden="true"></div>
+
+  <div class="parchment-wrapper">
+  <div class="site-container">
+    <!-- MASTHEAD -->
+    <header class="masthead">
+      <span class="masthead-top-rule" aria-hidden="true"></span>
+
+      <div class="masthead-controls">
+        <button class="theme-toggle" data-theme-toggle aria-label="Switch to dark mode">
+          <img src="./assets/clown-md.jpg" alt="" class="clown-spinner" width="40" height="40">
+        </button>
+      </div>
+
+      <!-- Inline SVG Logo -->
+      <div class="masthead-logo" aria-label="The Daily Misanthrope logo">
+        <svg viewBox="0 0 400 60" width="280" height="42" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="The Daily Misanthrope emblem" style="margin: 0 auto var(--space-3);">
+          <!-- Decorative line left -->
+          <line x1="0" y1="30" x2="110" y2="30" stroke="currentColor" stroke-width="1"/>
+          <!-- Eye of disillusionment (stylized open eye / all-seeing) -->
+          <g transform="translate(200, 30)" fill="currentColor">
+            <ellipse cx="0" cy="0" rx="22" ry="12" fill="none" stroke="currentColor" stroke-width="1.5"/>
+            <circle cx="0" cy="0" r="6" fill="currentColor"/>
+            <circle cx="0" cy="0" r="2.5" fill="var(--color-bg, #f5f0e6)"/>
+            <!-- Eyebrow — heavy, disapproving -->
+            <path d="M-18,-16 Q0,-22 18,-16" stroke="currentColor" stroke-width="2" fill="none"/>
+          </g>
+          <!-- Decorative line right -->
+          <line x1="290" y1="30" x2="400" y2="30" stroke="currentColor" stroke-width="1"/>
+        </svg>
+      </div>
+
+      <h1 class="masthead-title">The Daily Misanthrope</h1>
+      <p class="masthead-subtitle">A Catalogue of Human Folly</p>
+      <p class="masthead-edition" id="edition-line"></p>
+    </header>
+
+    <!-- EPIGRAPH -->
+    <section class="epigraph" aria-label="Quote of the day">
+      <img src="./assets/chessman-sm.jpg" alt="The Lewis Chessman queen, lamenting humanity" class="epigraph-mascot" width="90" height="90" loading="eager">
+      <blockquote>
+        <p class="epigraph-text" id="epigraph-text"></p>
+        <footer class="epigraph-attribution" id="epigraph-attr"></footer>
+      </blockquote>
+    </section>
+
+    <!-- MISANTHROPE INDEX -->
+    <section class="misanthrope-index" aria-label="Daily Misanthrope Index">
+      <span class="index-label">Misanthrope Index</span>
+      <div class="index-row">
+        <span class="index-endpoint index-endpoint--low">Disappointing</span>
+        <div class="index-meter">
+          <div class="index-bar-track">
+            <div class="index-bar-fill" id="index-bar" style="width: 0%"></div>
+          </div>
+          <span class="index-value" id="index-value">—</span>
+        </div>
+        <span class="index-endpoint index-endpoint--high">Full Walken</span>
+        <img src="./assets/walken-sm.jpg" alt="Full Walken" class="index-walken" width="49" height="80" loading="eager">
+      </div>
+    </section>
+
+    <!-- MAIN CONTENT -->
+    <main id="main" class="content-grid">
+      <!-- FOLLY OF THE DAY (Left column) -->
+      <article class="folly-section" id="folly-section">
+        <div class="section-header">Folly of the Day</div>
+        <div id="folly-content">
+          <!-- Populated by JS -->
+        </div>
+      </article>
+
+      <!-- HEADLINE WIRE (Right column) -->
+      <aside class="wire-section" aria-label="Today's headlines">
+        <div class="section-header">The Wire</div>
+        <ul class="wire-list" id="wire-list" role="list">
+          <!-- Populated by JS -->
+        </ul>
+      </aside>
+    </main>
+
+    <!-- TREADWELL CORNER -->
+    <section class="treadwell-section" id="treadwell-section" style="display:none" aria-label="The Treadwell Corner">
+      <div class="treadwell-header">
+        <div class="treadwell-header-text">
+          <div class="section-header">The Treadwell Corner</div>
+          <p class="treadwell-tagline">Dedicated to those who approached the wild with open arms and benevolent intentions.<br>The wild was not similarly motivated.</p>
+        </div>
+        <div class="treadwell-portrait">
+          <img src="./assets/treadwell-sm.jpg" alt="Timothy Treadwell, with bear" class="treadwell-img" width="200" height="112" loading="lazy">
+          <p class="treadwell-caption">Timothy Treadwell, 1957–2003<br><em>He loved them. They were hungry.</em></p>
+        </div>
+      </div>
+      <ul class="treadwell-list" id="treadwell-list" role="list">
+        <!-- Populated by JS -->
+      </ul>
+    </section>
+
+    <!-- VIDEO OF THE DAY -->
+    <section class="video-section" id="video-section" style="display:none" aria-label="Video of the Day">
+      <div class="section-header">Video of the Day</div>
+      <div class="video-wrapper">
+        <div class="video-label" id="video-label"></div>
+        <div class="video-embed" id="video-embed"></div>
+        <p class="video-caption" id="video-caption"></p>
+      </div>
+    </section>
+
+    <!-- ORNAMENT -->
+    <div class="divider-ornament" aria-hidden="true">&#x2766; &#x2766; &#x2766;</div>
+
+    <!-- SUBSCRIBE -->
+    <section class="subscribe-section" aria-label="Subscribe to The Daily Misanthrope">
+      <div class="subscribe-inner">
+        <p class="subscribe-heading">Delivered daily to the appropriately jaded.</p>
+        <p class="subscribe-subhead">Essays, commentary, and curated evidence of humanity's enduring mediocrity — from the editor's desk at <em>Exoreality</em>.</p>
+        <a href="https://exoreality.substack.com/subscribe" class="subscribe-btn" target="_blank" rel="noopener">Subscribe Free &rarr;</a>
+        <p class="subscribe-note">No algorithms. No engagement bait. Just the view from the abyss.</p>
+      </div>
+    </section>
+
+    <!-- FOOTER -->
+    <footer class="site-footer">
+      <p class="footer-motto">"I have found little that is good about human beings on the whole."</p>
+      <p class="footer-copy">
+        &copy; <span id="footer-year"></span> The Daily Misanthrope &mdash;
+        Essays &amp; commentary by <a href="https://www.christopherscarson.com" target="_blank" rel="noopener" style="color:inherit;text-decoration:underline;">Christopher S. Carson</a>
+      </p>
+    </footer>
+  </div>
+  </div><!-- end parchment-wrapper -->
+
+  <!-- Frayed bottom edge -->
+  <div class="frayed-edge-bottom" aria-hidden="true"></div>
+
+  <!-- Busey Easter Egg (hidden by default, JS activates randomly) -->
+  <div class="busey-egg" id="busey-egg" aria-hidden="true" hidden>
+    <img src="./assets/busey-sm.jpg" alt="" width="81" height="90">
+  </div>
+
+  <script src="./app.js"></script>
+</body>
+</html>
