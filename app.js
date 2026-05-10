@@ -34,6 +34,7 @@
 
   function render(data) {
     renderTreadwell(data);
+    renderCampusWatch(data);
     renderVideo(data);
     // Edition line
     document.getElementById('edition-line').textContent = data.edition || '';
@@ -96,6 +97,23 @@
     list.innerHTML = data.treadwellCorner.map(item => `
       <li class="treadwell-item">
         <span class="treadwell-bullet" aria-hidden="true">&#x2767;</span>
+        <div>
+          <a href="${item.url}" target="_blank" rel="noopener noreferrer">${escapeHtml(item.headline)}</a>
+          <div class="treadwell-source">${escapeHtml(item.source || '')}</div>
+        </div>
+      </li>
+    `).join('');
+    section.style.display = 'block';
+  }
+
+  // --- Campus Watch ---
+  function renderCampusWatch(data) {
+    if (!data.campusWatch || !data.campusWatch.length) return;
+    const section = document.getElementById('campus-watch-section');
+    const list = document.getElementById('campus-watch-list');
+    list.innerHTML = data.campusWatch.map(item => `
+      <li class="treadwell-item">
+        <span class="treadwell-bullet" aria-hidden="true">&#x2717;</span>
         <div>
           <a href="${item.url}" target="_blank" rel="noopener noreferrer">${escapeHtml(item.headline)}</a>
           <div class="treadwell-source">${escapeHtml(item.source || '')}</div>
