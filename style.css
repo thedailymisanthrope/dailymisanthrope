@@ -1006,8 +1006,8 @@ body {
 
 .busey-egg img {
   display: block;
-  width: 81px;
-  height: 90px;
+  width: 90px;
+  height: 110px;
   object-fit: cover;
   border-radius: var(--radius-sm);
   filter: sepia(0.35) contrast(1.1) brightness(0.9);
@@ -1034,8 +1034,8 @@ body {
 
 @media (max-width: 640px) {
   .busey-egg img {
-    width: 60px;
-    height: 67px;
+    width: 65px;
+    height: 80px;
   }
 }
 
