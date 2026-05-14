@@ -1,88 +1,94 @@
 {
-  "lastUpdated": "2026-05-13T12:52:14.052582Z",
-  "edition": "Vol. I, No. 133 — Wednesday, May 13, 2026",
+  "lastUpdated": "2026-05-14T12:13:09.909101Z",
+  "edition": "Vol. I, No. 134 — Thursday, May 14, 2026",
   "epigraph": {
-    "text": "For every complex problem, there is a solution that is simple, neat, and wrong.",
+    "text": "The most common of all follies is to believe passionately in the palpably not true.",
     "attribution": "H.L. Mencken"
   },
   "follyOfTheDay": {
-    "headline": "Arizona Man Submits Monopoly Money for Mortgage, Calls It 'Performance Art'",
-    "summary": "A Phoenix-area resident, seized by what can only be described as a baroque misunderstanding of currency mechanics, submitted a stack of Monopoly notes—complete with their cheerful pastel aesthetics and cartoon imagery—to his bank as payment on his mortgage. When questioned about this creative interpretation of financial obligation, the gentleman explained that the Federal Reserve was 'too mainstream' and that board game currency possessed superior 'vibes.' The bank, unmoved by this metaphysical argument, has since terminated his accounts and contacted federal authorities. The incident raises important questions about the precise threshold at which confidence becomes delusion, and whether whimsy is a legitimate substitute for solvency.\n\nWhat makes this story transcendent is not merely its surface absurdity, but the underlying logic: a complete inversion of cause and effect, wherein the problem (insufficient funds) was solved not through labor or adjustment of expectations, but through the application of items from a closet shelf. It represents a triumph of creative thinking over practical reality—the very essence of modern American problem-solving.",
-    "source": "Fark",
-    "sourceUrl": "https://www.fark.com/story1",
-    "category": "Financial Innovation",
-    "commentary": "At least he attempted payment. Most would have simply declared themselves too 'emotionally exhausted' to honor their debts."
+    "headline": "Judge Orders Man to Apologize to Pickle Jar",
+    "summary": "In a ruling that transcends conventional jurisprudence, a municipal court judge has mandated that a defendant issue a formal apology to a pickle jar—the erstwhile object of his destructive rage. The defendant, apparently overcome with ire, had committed some manner of affront upon the innocent condiment vessel, prompting the court to intervene with this deliciously absurd remedy. Legal precedent being what it is, the judge deemed simple restitution insufficient; only performative contrition to the inanimate object itself would satisfy justice. The man dutifully appeared and tendered his apologies to the jar, which by all accounts received them with the stoic indifference one might expect from a pickle jar. The ruling stands as yet another monument to the boundless creativity of the American judiciary in manufacturing novel punishments for human stupidity.",
+    "source": "Lowering the Bar",
+    "sourceUrl": "https://loweringthebar.net/1",
+    "category": "Legal Absurdity",
+    "commentary": "The judiciary has spoken, and the pickle jar has witnessed humiliation enough for one lifetime."
   },
   "stories": [
     {
-      "headline": "Shoplifter Runs from Store, Directly into Police Officer",
-      "url": "https://www.reddit.com/r/instantkarma/1",
-      "source": "InstantKarma",
-      "category": "Stupidity in Motion"
+      "headline": "Man arrested after accidentally ordering heroin instead of pizza on delivery app",
+      "url": "https://fark.com/story/1",
+      "source": "Fark",
+      "category": "Stupid Criminals"
     },
     {
-      "headline": "HOA Fines Resident $500 for Having Sunrise at Wrong Angle",
-      "url": "https://news.google.com/2",
-      "source": "GoogleHOA",
-      "category": "Bureaucratic Farce"
+      "headline": "College bans clapping to protect students with anxiety",
+      "url": "https://reddit.com/r/nottheonion/1",
+      "source": "NotTheOnion",
+      "category": "Campus Absurdity"
     },
     {
-      "headline": "BURGLAR LEAVES 5-STAR YELP REVIEW AT CRIME SCENE",
-      "url": "https://news.google.com/1",
+      "headline": "FAILED BANK ROBBER USES HIS OWN NAME ON THE DEMAND NOTE",
+      "url": "https://news.google.com/rss/1",
       "source": "GoogleCriminals",
       "category": "Stupid Criminals"
     },
     {
-      "headline": "Woman Sues Her Gym for 'Making Her Look Bad in Mirror'",
-      "url": "https://www.reddit.com/r/facepalm/1",
+      "headline": "HOA fines elderly couple $15,000 for garden gnome",
+      "url": "https://news.google.com/rss/2",
+      "source": "GoogleHOA",
+      "category": "Bureaucratic Farce"
+    },
+    {
+      "headline": "FLORIDA MAN WRESTLES ALLIGATOR FOR 45 MINUTES TO RETRIEVE LOST PHONE",
+      "url": "https://reddit.com/r/FloridaMan/1",
+      "source": "FloridaMan",
+      "category": "Florida Fever"
+    },
+    {
+      "headline": "Woman sues airline for 'too much legroom' causing discomfort",
+      "url": "https://reddit.com/r/facepalm/1",
       "source": "Facepalm",
       "category": "Legal Absurdity"
     },
     {
-      "headline": "Florida Man Steals Speed Boat to Evade Traffic, Claims Lanes Are 'Suggestions'",
-      "url": "https://www.reddit.com/r/FloridaMan/1",
-      "source": "FloridaMan",
-      "category": "Floridian Innovation"
+      "headline": "SENATOR CONFUSES BASIC GEOGRAPHY DURING INTERNATIONAL TRADE HEARING",
+      "url": "https://news.google.com/rss/3",
+      "source": "GooglePolitician",
+      "category": "Political Gaffe"
     },
     {
-      "headline": "MAN HOT-WIRES HIS OWN RENTAL CAR, FORGETS IT'S HIS",
-      "url": "https://www.reddit.com/r/winstupidprizes/1",
-      "source": "WinStupidPrizes",
-      "category": "Spectacular Self-Sabotage"
-    },
-    {
-      "headline": "Manager's Joke About 'Following Your Bliss' Accidentally Creates Workplace Cult",
-      "url": "https://www.reddit.com/r/tifu/1",
-      "source": "TIFU",
-      "category": "Corporate Culture Gone Wrong"
+      "headline": "Bike thief immediately arrested after stealing from off-duty cop",
+      "url": "https://reddit.com/r/instantkarma/1",
+      "source": "InstantKarma",
+      "category": "Instant Karma"
     }
   ],
   "campusWatch": [
     {
-      "headline": "University Cancels Exam Week, Replaces with 'Feelings Festival'",
-      "url": "https://www.thecollegefix.com/1",
-      "source": "CollegeFix",
-      "category": "Academic Degradation"
+      "headline": "University requires students to submit pronouns before course registration",
+      "url": "https://campusreform.org/1",
+      "source": "CampusReform",
+      "category": "Campus Absurdity"
     },
     {
-      "headline": "UNIVERSITY PROTESTS DESK CHAIRS FOR BEING 'STRUCTURALLY OPPRESSIVE'",
-      "url": "https://news.google.com/3",
-      "source": "GoogleCampus",
-      "category": "Furniture Tyranny"
+      "headline": "Professor loses job over 'offensive' Shakespeare lecture",
+      "url": "https://thecollegefix.com/1",
+      "source": "CollegeFix",
+      "category": "Academic Hysteria"
     }
   ],
   "treadwellCorner": [
     {
-      "headline": "Man Challenges Bear to Arm Wrestling Match, Loses Bet and Arm",
-      "url": "https://news.google.com/4",
+      "headline": "Bear wanders into yoga class, nobody panics",
+      "url": "https://news.google.com/rss/4",
       "source": "GoogleNature",
-      "category": "Nature Prevails"
+      "category": "Nature Encounter"
     }
   ],
   "misanthropeIndex": {
-    "value": 6.8,
+    "value": 7.0,
     "label": "Quite Disappointing",
-    "scale": "Merely Disappointing — Full Walken"
+    "scale": "Disappointing — Full Walken"
   },
   "videoOfTheDay": null
 }
