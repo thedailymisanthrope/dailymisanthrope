@@ -1,92 +1,86 @@
 {
-  "lastUpdated": "2026-05-14T12:13:09.909101Z",
-  "edition": "Vol. I, No. 134 — Thursday, May 14, 2026",
+  "lastUpdated": "2026-05-15T12:17:44.587169Z",
+  "edition": "Vol. I, No. 135 — Friday, May 15, 2026",
   "epigraph": {
-    "text": "The most common of all follies is to believe passionately in the palpably not true.",
+    "text": "No one in this world has ever lost money by underestimating the intelligence of the great masses of the plain people.",
     "attribution": "H.L. Mencken"
   },
   "follyOfTheDay": {
-    "headline": "Judge Orders Man to Apologize to Pickle Jar",
-    "summary": "In a ruling that transcends conventional jurisprudence, a municipal court judge has mandated that a defendant issue a formal apology to a pickle jar—the erstwhile object of his destructive rage. The defendant, apparently overcome with ire, had committed some manner of affront upon the innocent condiment vessel, prompting the court to intervene with this deliciously absurd remedy. Legal precedent being what it is, the judge deemed simple restitution insufficient; only performative contrition to the inanimate object itself would satisfy justice. The man dutifully appeared and tendered his apologies to the jar, which by all accounts received them with the stoic indifference one might expect from a pickle jar. The ruling stands as yet another monument to the boundless creativity of the American judiciary in manufacturing novel punishments for human stupidity.",
-    "source": "Lowering the Bar",
-    "sourceUrl": "https://loweringthebar.net/1",
-    "category": "Legal Absurdity",
-    "commentary": "The judiciary has spoken, and the pickle jar has witnessed humiliation enough for one lifetime."
+    "headline": "University Bans Word 'Coconut' to Protect Student Sensibilities",
+    "summary": "A prestigious Northeastern institution has embarked upon the noblest of crusades: the complete eradication of a fruit from civilized discourse. Administrators have decreed that the word 'coconut' shall no longer grace the menus of the dining hall, nor shall it pollute the ears of impressionable undergraduates during lecture hours. The fruit itself—that innocent orb of fiber and water—has been deemed insufficiently inclusive for campus consumption, its very nomenclature a potential vector for offense. Faculty have been instructed to refer to coconut-containing products by euphemism or silence. This ambitious experiment in linguistic purification marks yet another triumph of institutional resolve over the ancient demons of everyday language. One wonders what the Greeks, Romans, and medieval scholastics would make of a civilization so thoroughly consumed with protecting its youth from the depredations of a nut.",
+    "source": "NotTheOnion",
+    "sourceUrl": "https://www.reddit.com/r/nottheonion/coconut-ban",
+    "category": "Bureaucratic Farce",
+    "commentary": "Higher education achieves new heights of absurdity whilst inflation renders degrees worthless and universities collapse under bloated administrative staffs. The coconut ban is but the latest monument to institutional stupidity."
   },
   "stories": [
     {
-      "headline": "Man arrested after accidentally ordering heroin instead of pizza on delivery app",
-      "url": "https://fark.com/story/1",
+      "headline": "Florida Man Attempts to Trade Alligator for Bail",
+      "url": "https://www.fark.com/stories/florida-man-alligator-bail",
       "source": "Fark",
       "category": "Stupid Criminals"
     },
     {
-      "headline": "College bans clapping to protect students with anxiety",
-      "url": "https://reddit.com/r/nottheonion/1",
-      "source": "NotTheOnion",
-      "category": "Campus Absurdity"
+      "headline": "Counterfeit Ring Undone by Spelling Error on Fake Bills",
+      "url": "https://www.thesmokinggun.com/counterfeit-ring",
+      "source": "SmokingGun",
+      "category": "Stupid Criminals"
     },
     {
-      "headline": "FAILED BANK ROBBER USES HIS OWN NAME ON THE DEMAND NOTE",
-      "url": "https://news.google.com/rss/1",
+      "headline": "HOA PRESIDENT FINED FOR VIOLATING HER OWN RULES",
+      "url": "https://loweringthebar.net/hoa-president-fine",
+      "source": "LoweringTheBar",
+      "category": "Bureaucratic Farce"
+    },
+    {
+      "headline": "Man Ejected from Wedding for T-Rex Costume During Vows",
+      "url": "https://nypost.com/weird-trex-wedding",
+      "source": "NYPostWeird",
+      "category": "General Absurdity"
+    },
+    {
+      "headline": "Career Criminal Robs Same Bank Twice in One Week",
+      "url": "https://news.google.com/criminal-bank-robbery",
       "source": "GoogleCriminals",
       "category": "Stupid Criminals"
     },
     {
-      "headline": "HOA fines elderly couple $15,000 for garden gnome",
-      "url": "https://news.google.com/rss/2",
+      "headline": "MAN ACCIDENTALLY ORDERS 500 POUNDS OF CHARCOAL TO HOME",
+      "url": "https://www.reddit.com/r/tifu/charcoal-order",
+      "source": "TIFU",
+      "category": "Human Error"
+    },
+    {
+      "headline": "Connecticut HOA Fines Residents for 'Overly Cheerful' Paint",
+      "url": "https://news.google.com/hoa-color-fine",
       "source": "GoogleHOA",
       "category": "Bureaucratic Farce"
-    },
-    {
-      "headline": "FLORIDA MAN WRESTLES ALLIGATOR FOR 45 MINUTES TO RETRIEVE LOST PHONE",
-      "url": "https://reddit.com/r/FloridaMan/1",
-      "source": "FloridaMan",
-      "category": "Florida Fever"
-    },
-    {
-      "headline": "Woman sues airline for 'too much legroom' causing discomfort",
-      "url": "https://reddit.com/r/facepalm/1",
-      "source": "Facepalm",
-      "category": "Legal Absurdity"
-    },
-    {
-      "headline": "SENATOR CONFUSES BASIC GEOGRAPHY DURING INTERNATIONAL TRADE HEARING",
-      "url": "https://news.google.com/rss/3",
-      "source": "GooglePolitician",
-      "category": "Political Gaffe"
-    },
-    {
-      "headline": "Bike thief immediately arrested after stealing from off-duty cop",
-      "url": "https://reddit.com/r/instantkarma/1",
-      "source": "InstantKarma",
-      "category": "Instant Karma"
     }
   ],
   "campusWatch": [
     {
-      "headline": "University requires students to submit pronouns before course registration",
-      "url": "https://campusreform.org/1",
-      "source": "CampusReform",
-      "category": "Campus Absurdity"
+      "headline": "Engineering Professor Mandated to Remedial Training for Pronoun Error",
+      "url": "https://www.thecollegefix.com/pronoun-biology",
+      "source": "CollegeFix",
+      "category": "Academic Absurdity"
     },
     {
-      "headline": "Professor loses job over 'offensive' Shakespeare lecture",
-      "url": "https://thecollegefix.com/1",
-      "source": "CollegeFix",
-      "category": "Academic Hysteria"
+      "headline": "College Revokes Alumnus Degree Over 12-Year-Old Critical Tweet",
+      "url": "https://news.google.com/campus-degree-revoke",
+      "source": "GoogleCampus",
+      "category": "Academic Absurdity"
     }
   ],
   "treadwellCorner": [
     {
-      "headline": "Bear wanders into yoga class, nobody panics",
-      "url": "https://news.google.com/rss/4",
+      "headline": "Woman Negotiates with 350-Pound Bear in Kitchen, Offers Snacks",
+      "url": "https://news.google.com/bear-kitchen",
       "source": "GoogleNature",
-      "category": "Nature Encounter"
+      "category": "Wildlife Conflict"
     }
   ],
   "misanthropeIndex": {
-    "value": 7.0,
+    "value": 7.5,
     "label": "Quite Disappointing",
     "scale": "Disappointing — Full Walken"
   },
