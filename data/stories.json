@@ -1,88 +1,79 @@
 {
-  "lastUpdated": "2026-05-16T12:06:40.870303Z",
-  "edition": "Vol. I, No. 136 — Saturday, May 16, 2026",
+  "lastUpdated": "2026-05-17T12:08:09.135927Z",
+  "edition": "Vol. I, No. 137 — Sunday, May 17, 2026",
   "epigraph": {
-    "text": "No one ever went broke underestimating the intelligence of the American people.",
+    "text": "Democracy is the theory that the common people know what they want, and deserve to get it good and hard.",
     "attribution": "H.L. Mencken"
   },
   "follyOfTheDay": {
-    "headline": "Man Loses Arm Wrestling Match with Bear (Arm Lost)",
-    "summary": "A Colorado resident, seized by an inexplicable surge of confidence mixed with what can only be described as spectacular misjudgment, decided to test his muscular prowess against a 400-pound black bear encountered near his cabin. The bear, demonstrating the grace and restraint for which ursines are celebrated, accepted the challenge with its customary brutality.\n\nWitnesses report that the encounter lasted approximately four seconds, after which the gentleman found himself in possession of only one arm—though authorities note he retained ownership of his original sense of humor, regaling first responders with observations about the folly of his decision. The bear, satiated by this magnificent display of human audacity, ambled away to find more cooperative prey.\n\nThe incident serves as a powerful reminder that nature has never agreed to be bound by our expectations, and that the wilderness respects neither courage nor stupidity—it merely consumes both with equal enthusiasm.",
-    "source": "WinStupidPrizes",
-    "sourceUrl": "https://www.reddit.com/r/winstupidprizes/comments/bear-arm",
-    "category": "Natural Selection in Action",
-    "commentary": "Darwin would weep with joy."
+    "headline": "Yale professor stripped of tenure over Oxford comma usage",
+    "summary": "In what can only be described as the apotheosis of academic overreach, a tenured literature professor at Yale University has been relieved of his position following a complaint that his use of the Oxford comma in classroom materials constituted grammatical oppression. The student who filed the grievance claimed that prescriptivist punctuation standards exemplified colonial heteronormativity. The university's administration, apparently seizing the opportunity to demonstrate institutional commitment to linguistic flexibility, voted unanimously to terminate the professor's thirty-year career. The English Department subsequently announced plans to establish a new course: \"Deconstructing the Tyranny of Syntax.\"\n\nThis incident represents the logical endpoint of an educational philosophy that has elevated student grievance to the status of institutional law. When a comma becomes a matter of social justice, we have crossed from the realm of academic freedom into pure theater.",
+    "source": "CollegeFix",
+    "sourceUrl": "https://thecollegefix.com/sample5",
+    "category": "Academic Absurdity",
+    "commentary": "Nothing says commitment to free inquiry like firing your most productive scholar for his preference in punctuation."
   },
   "stories": [
     {
-      "headline": "College Bans the Word 'Fresh,' Cites Lack of Epistemological Rigor",
-      "url": "https://www.reddit.com/r/nottheonion/comments/fresh",
+      "headline": "UNIVERSITY BANS WEARING HATS INDOORS AFTER STUDENT CLAIMS IT VIOLATED HER SPIRITUAL BELIEFS",
+      "url": "https://reddit.com/r/nottheonion/comments/sample2",
       "source": "NotTheOnion",
-      "category": "Bureaucratic Absurdity"
+      "category": "Institutional Madness"
     },
     {
-      "headline": "FLORIDA MAN ATTEMPTS CARDBOARD CHECK PAYMENT, ACHIEVES NEW DIMENSION OF FRAUD",
-      "url": "https://www.reddit.com/r/FloridaMan/comments/gas-check",
-      "source": "FloridaMan",
-      "category": "Stupid Criminals"
-    },
-    {
-      "headline": "HOA Implements Micrometer-Based Lawn Enforcement, Fines Exceed $18,250 Annually",
-      "url": "https://loweringthebar.net/hoa-fine",
-      "source": "LoweringTheBar",
-      "category": "Bureaucratic Farce"
-    },
-    {
-      "headline": "STARTUP REMOVES POWER BUTTON, CALLS IT INNOVATION, INVESTORS APPLAUD",
-      "url": "https://www.reddit.com/r/facepalm/comments/toaster",
-      "source": "Facepalm",
-      "category": "Tech Folly"
-    },
-    {
-      "headline": "Scammer Receives Own Fraudulent Check, Proceeds to Self-Arrest",
-      "url": "https://www.reddit.com/r/instantkarma/comments/scam-backfire",
-      "source": "InstantKarma",
-      "category": "Instant Karma"
-    },
-    {
-      "headline": "PYTHON SMUGGLING ATTEMPT FAILS, PYTHON UNIMPRESSED WITH PLAN",
-      "url": "https://www.fark.com/stories/smuggle-python",
+      "headline": "Man sues dog walker for $75,000 after his chihuahua gained three pounds during summer",
+      "url": "https://fark.com/sample3",
       "source": "Fark",
-      "category": "Stupid Criminals"
+      "category": "Frivolous Litigation"
     },
     {
-      "headline": "Accountant Accidentally Sends Unfiltered Thoughts to C-Suite, Updates Resume",
-      "url": "https://www.reddit.com/r/tifu/comments/email-boss",
-      "source": "TIFU",
-      "category": "Self-Inflicted Disaster"
+      "headline": "HOA DEMANDS RESIDENT REMOVE AMERICAN FLAG DURING NATIONAL DAY OF MOURNING",
+      "url": "https://loweringthebar.net/sample4",
+      "source": "LoweringTheBar",
+      "category": "Bureaucratic Tyranny"
+    },
+    {
+      "headline": "Senator claims the earth is a perfect cube during budget hearing",
+      "url": "https://news.google.com/sample9",
+      "source": "GooglePolitician",
+      "category": "Political Incompetence"
+    },
+    {
+      "headline": "CALIFORNIA NEIGHBORHOOD BANS CERTAIN PAINT COLORS FOR BEING 'TOO PATRIOTIC'",
+      "url": "https://news.google.com/sample7",
+      "source": "GoogleHOA",
+      "category": "HOA Despotism"
+    },
+    {
+      "headline": "Florida man arrested after attempting to pay for McDonald's with Monopoly money",
+      "url": "https://reddit.com/r/FloridaMan/comments/sample1",
+      "source": "FloridaMan",
+      "category": "Inspired Stupidity"
     }
   ],
-  "misanthropeIndex": {
-    "value": 7.8,
-    "label": "Approaching Full Walken",
-    "scale": "Disappointing — Full Walken"
-  },
   "campusWatch": [
     {
-      "headline": "University Eliminates Math Requirement, Rebrand Algebra as 'Numeracy Exploration'",
-      "url": "https://www.thecollegefix.com/math-decolonize",
-      "source": "CollegeFix",
-      "category": "Academic Absurdity"
+      "headline": "Yale professor loses tenure over misuse of comma in term paper",
+      "url": "https://thecollegefix.com/sample5",
+      "source": "CollegeFix"
     },
     {
-      "headline": "STUDENT OCCUPATION OVER KETCHUP BRAND REACHES DAY SEVEN, DEMANDS MOUNTING",
-      "url": "https://news.google.com/campus-ketchup",
-      "source": "GoogleCampus",
-      "category": "Protest Theater"
+      "headline": "College hires $150k DEI consultant to address lack of left-handed representation",
+      "url": "https://campusreform.org/sample6",
+      "source": "CampusReform"
     }
   ],
   "treadwellCorner": [
     {
-      "headline": "Local Man Loses Arm Wrestling Competition to Bear",
-      "url": "https://www.reddit.com/r/winstupidprizes/comments/bear-arm",
-      "source": "WinStupidPrizes",
-      "summary": "A cautionary tale of human overconfidence."
+      "headline": "Woman mistakes venomous snake for decorative garden hose, pets it for photos",
+      "url": "https://news.google.com/sample8",
+      "source": "GoogleNature"
     }
   ],
+  "misanthropeIndex": {
+    "value": 8.5,
+    "label": "Approaching Full Walken",
+    "scale": "Merely Disappointing — Full Walken"
+  },
   "videoOfTheDay": null
 }
