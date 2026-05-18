@@ -1,79 +1,79 @@
 {
-  "lastUpdated": "2026-05-17T12:08:09.135927Z",
-  "edition": "Vol. I, No. 137 — Sunday, May 17, 2026",
+  "lastUpdated": "2026-05-18T12:07:49.821362Z",
+  "edition": "Vol. I, No. 138 — Monday, May 18, 2026",
   "epigraph": {
-    "text": "Democracy is the theory that the common people know what they want, and deserve to get it good and hard.",
+    "text": "The saddest life is that of a political aspirant under democracy. His failure is ignominious and his success is disgraceful.",
     "attribution": "H.L. Mencken"
   },
   "follyOfTheDay": {
-    "headline": "Yale professor stripped of tenure over Oxford comma usage",
-    "summary": "In what can only be described as the apotheosis of academic overreach, a tenured literature professor at Yale University has been relieved of his position following a complaint that his use of the Oxford comma in classroom materials constituted grammatical oppression. The student who filed the grievance claimed that prescriptivist punctuation standards exemplified colonial heteronormativity. The university's administration, apparently seizing the opportunity to demonstrate institutional commitment to linguistic flexibility, voted unanimously to terminate the professor's thirty-year career. The English Department subsequently announced plans to establish a new course: \"Deconstructing the Tyranny of Syntax.\"\n\nThis incident represents the logical endpoint of an educational philosophy that has elevated student grievance to the status of institutional law. When a comma becomes a matter of social justice, we have crossed from the realm of academic freedom into pure theater.",
-    "source": "CollegeFix",
-    "sourceUrl": "https://thecollegefix.com/sample5",
-    "category": "Academic Absurdity",
-    "commentary": "Nothing says commitment to free inquiry like firing your most productive scholar for his preference in punctuation."
+    "headline": "School Carol-ing Goes Rogue: Stripper Steals Spotlight at Kindergarten",
+    "summary": "A well-intentioned parent's misreading of a job posting transformed what should have been a wholesome career day presentation into an educational emergency of the first order. The school had specifically requested 'circus performer' for the kindergarten assembly. What they received was neither circus nor particularly performative in the traditional sense. The incident has spawned three separate committees, a rewrite of school event guidelines, and the parent now permanently volunteers (under supervision) for the PTA sanctions committee—the modern equivalent of institutional penance.\n\nAdministrators have since clarified their definition of 'circus.' Legal counsel is reviewing whether the term itself has become insufficiently precise for institutional use.",
+    "source": "TIFU",
+    "sourceUrl": "https://www.reddit.com/r/tifu/comments/ghi789",
+    "category": "Institutional Absurdity",
+    "commentary": "Only in our era could a misreading of 'circus performer' result in criminal suspicion rather than delighted children."
   },
   "stories": [
     {
-      "headline": "UNIVERSITY BANS WEARING HATS INDOORS AFTER STUDENT CLAIMS IT VIOLATED HER SPIRITUAL BELIEFS",
-      "url": "https://reddit.com/r/nottheonion/comments/sample2",
-      "source": "NotTheOnion",
-      "category": "Institutional Madness"
-    },
-    {
-      "headline": "Man sues dog walker for $75,000 after his chihuahua gained three pounds during summer",
-      "url": "https://fark.com/sample3",
+      "headline": "Woman Fights HOA Over 'Emotional Support' Ferret",
+      "url": "https://www.fark.com/story/1234567",
       "source": "Fark",
-      "category": "Frivolous Litigation"
+      "category": "Bureaucratic Farce"
     },
     {
-      "headline": "HOA DEMANDS RESIDENT REMOVE AMERICAN FLAG DURING NATIONAL DAY OF MOURNING",
-      "url": "https://loweringthebar.net/sample4",
-      "source": "LoweringTheBar",
-      "category": "Bureaucratic Tyranny"
+      "headline": "CITY COUNCIL OFFICIALLY BANS THE WORD 'CRAZY'",
+      "url": "https://www.thesmokinggun.com/story/456",
+      "source": "SmokingGun",
+      "category": "Bureaucratic Absurdity"
     },
     {
-      "headline": "Senator claims the earth is a perfect cube during budget hearing",
-      "url": "https://news.google.com/sample9",
-      "source": "GooglePolitician",
-      "category": "Political Incompetence"
-    },
-    {
-      "headline": "CALIFORNIA NEIGHBORHOOD BANS CERTAIN PAINT COLORS FOR BEING 'TOO PATRIOTIC'",
-      "url": "https://news.google.com/sample7",
-      "source": "GoogleHOA",
-      "category": "HOA Despotism"
-    },
-    {
-      "headline": "Florida man arrested after attempting to pay for McDonald's with Monopoly money",
-      "url": "https://reddit.com/r/FloridaMan/comments/sample1",
+      "headline": "Florida man navigates freeway in golf cart",
+      "url": "https://www.reddit.com/r/FloridaMan/comments/def456",
       "source": "FloridaMan",
-      "category": "Inspired Stupidity"
+      "category": "Stupid Criminals"
+    },
+    {
+      "headline": "MAN ACCIDENTALLY SOLVES PORCH PIRACY RING WHILE FACING CHARGES",
+      "url": "https://www.reddit.com/r/nottheonion/comments/abc123",
+      "source": "NotTheOnion",
+      "category": "Ironic Justice"
+    },
+    {
+      "headline": "Burglar Calls Mother for Pickup After Getting Locked In Store",
+      "url": "https://news.google.com/example1",
+      "source": "GoogleCriminals",
+      "category": "Stupid Criminals"
+    },
+    {
+      "headline": "YOGA INSTRUCTOR SUED FOR 'AGGRESSIVE' EYE CONTACT",
+      "url": "https://nypost.com/weird/article",
+      "source": "NYPostWeird",
+      "category": "Legal Absurdity"
+    },
+    {
+      "headline": "College Fires Professor for Traditional Teaching Method: Homework",
+      "url": "https://loweringthebar.net/story/789",
+      "source": "LoweringTheBar",
+      "category": "Academic Farce"
     }
   ],
   "campusWatch": [
     {
-      "headline": "Yale professor loses tenure over misuse of comma in term paper",
-      "url": "https://thecollegefix.com/sample5",
+      "headline": "University Mandates 40-Hour Apology Certification Course for All Students",
+      "url": "https://www.thecollegefix.com/story/123",
       "source": "CollegeFix"
     },
     {
-      "headline": "College hires $150k DEI consultant to address lack of left-handed representation",
-      "url": "https://campusreform.org/sample6",
+      "headline": "Student Petitions University to Ban Laughter in Library",
+      "url": "https://www.campusreform.org/story/456",
       "source": "CampusReform"
     }
   ],
-  "treadwellCorner": [
-    {
-      "headline": "Woman mistakes venomous snake for decorative garden hose, pets it for photos",
-      "url": "https://news.google.com/sample8",
-      "source": "GoogleNature"
-    }
-  ],
   "misanthropeIndex": {
-    "value": 8.5,
+    "value": 8.0,
     "label": "Approaching Full Walken",
     "scale": "Merely Disappointing — Full Walken"
   },
+  "treadwellCorner": [],
   "videoOfTheDay": null
 }
