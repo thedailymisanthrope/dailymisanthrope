@@ -1,62 +1,60 @@
 {
-  "lastUpdated": "2026-05-19T12:05:46.504640Z",
-  "edition": "Vol. I, No. 139 — Tuesday, May 19, 2026",
+  "lastUpdated": "2026-05-20T12:08:09.251443Z",
+  "edition": "Vol. I, No. 140 — Wednesday, May 20, 2026",
   "epigraph": {
-    "text": "Absurdity, n.: A statement or belief manifestly inconsistent with one's own opinion.",
-    "attribution": "Ambrose Bierce"
+    "text": "If you don't read the newspaper, you're uninformed; if you do read the newspaper, you're misinformed.",
+    "attribution": "Mark Twain"
   },
   "follyOfTheDay": {
-    "headline": "HOA Fines Homeowner $50K for Wrong Shade of White",
-    "summary": "An Illinois homeowners association has entered the annals of bureaucratic overreach by levying a five-figure fine against a resident who dared to paint his home Benjamin Moore 'Cloud White' instead of the meticulously approved Sherwin-Williams 'Pure White.'\n\nThe association's architectural committee determined, after exhaustive deliberation, that the deviation constituted a material violation of community standards. The resident's attempts to argue that the human eye cannot distinguish between the two shades were dismissed as irrelevant to the covenant's strict literalism.\n\nLawyers are now preparing for what is expected to be a decade-long litigation odyssey, with settlement discussions tentatively scheduled for 2029.",
-    "source": "GoogleHOA",
-    "sourceUrl": "https://news.google.com/articles/hoa-paint",
-    "category": "Bureaucratic Absurdity",
-    "commentary": "Nothing says 'community values' like five figures of legal fees over paint chips. The gutter will arrive eventually."
+    "headline": "Ivy League spends $47K to advocate for rocks' rights",
+    "summary": "In a stunning testament to the entropy consuming American higher education, an Ivy League institution has allocated nearly fifty thousand dollars annually for a full-time administrator tasked with promoting geological diversity and inclusion—a position bearing the Orwellian title 'DEI Coordinator for Rocks.' The university's commitment to ensuring that sedimentary formations are not marginalized demonstrates a bureaucratic acumen so breathtakingly divorced from reality that even Kafka would blush. One might inquire whether the institution's geology department had been abolished or if its faculty deemed themselves incapable of discussing rocks without institutional mediation. The coordinator's mandate remains deliberately vague, suggesting the university itself is uncertain what the role entails—a fitting metaphor for contemporary academia's relationship with purpose itself.",
+    "source": "NotTheOnion",
+    "sourceUrl": "https://reddit.com/r/nottheonion/sample2",
+    "category": "Academic Absurdity",
+    "commentary": "At last, rocks finally have representation in the halls of power."
   },
   "stories": [
     {
-      "headline": "Burglar arrested after leaving detailed Yelp review at crime scene",
-      "url": "https://news.google.com/articles/yelp-burglar",
-      "source": "GoogleCriminals",
-      "category": "Stupid Criminals"
+      "headline": "HOA fines resident $500/day for painting mailbox unapproved shade of beige",
+      "url": "https://news.google.com/sample4",
+      "source": "GoogleHOA",
+      "category": "Bureaucratic Farce"
     },
     {
-      "headline": "Man attempts to rob bank with note written on receipt",
-      "url": "https://www.fark.com/articles/12345",
+      "headline": "Man saws through power line while trimming trees, causes neighborhood blackout",
+      "url": "https://reddit.com/r/winstupidprizes/sample3",
+      "source": "WinStupidPrizes",
+      "category": "DIY Disasters"
+    },
+    {
+      "headline": "CAMPUS BANS CLAPPING, INSTITUTES MANDATORY SILENCE DURING PERFORMANCES",
+      "url": "https://thecollegefix.com/sample5",
+      "source": "CollegeFix",
+      "category": "Campus Absurdity"
+    },
+    {
+      "headline": "Luxury car owner demands city move fire hydrant to accommodate parking spot",
+      "url": "https://reddit.com/r/facepalm/sample6",
+      "source": "Facepalm",
+      "category": "Peak Entitlement"
+    },
+    {
+      "headline": "Florida man arrested after attempting to pay for Burger King with Monopoly money",
+      "url": "https://www.fark.com/sample1",
       "source": "Fark",
       "category": "Stupid Criminals"
     },
     {
-      "headline": "FLORIDA MAN CORRALS WAYWARD ALLIGATOR WITH POOL NOODLE",
-      "url": "https://reddit.com/r/FloridaMan/abc456",
-      "source": "FloridaMan",
-      "category": "Florida Man"
-    },
-    {
-      "headline": "Man sued for $100K after sneezing during silent meditation class",
-      "url": "https://loweringthebar.net/meditation-lawsuit",
-      "source": "LoweringTheBar",
-      "category": "Legal Absurdity"
-    },
-    {
-      "headline": "Scammer's bitcoin wallet frozen by ex-girlfriend's algorithm",
-      "url": "https://reddit.com/r/instantkarma/karma123",
-      "source": "InstantKarma",
-      "category": "Instant Karma"
-    },
-    {
-      "headline": "COMPANY FINED $2M FOR HIRING TOO MANY QUALIFIED CANDIDATES",
-      "url": "https://reddit.com/r/nottheonion/xyz123",
-      "source": "NotTheOnion",
-      "category": "Corporate Folly"
-    }
-  ],
-  "campusWatch": [
-    {
-      "headline": "University bans the word 'debate' from rhetoric class",
-      "url": "https://www.campusreform.org/debate-ban",
+      "headline": "PROFESSOR ASSIGNS HOMEWORK: 'DESTROY YOUR PRIVILEGE' ESSAY CONTROVERSIAL",
+      "url": "https://campusreform.org/sample7",
       "source": "CampusReform",
-      "summary": "Eastern State University's department of public speaking has quietly removed the term 'debate' from its curriculum, replacing it with the more soothing 'structured dialogue.' The stated rationale: student anxiety reduction. Faculty input: solicited never, ignored always."
+      "category": "Campus Ideology"
+    },
+    {
+      "headline": "Alligator interrupts golf tournament, declares water hazard as personal territory",
+      "url": "https://news.google.com/sample8",
+      "source": "GoogleNature",
+      "category": "Nature's Verdict"
     }
   ],
   "misanthropeIndex": {
@@ -64,6 +62,24 @@
     "label": "Quite Disappointing",
     "scale": "Disappointing — Full Walken"
   },
-  "treadwellCorner": [],
+  "campusWatch": [
+    {
+      "headline": "Campus bans clapping, institutes mandatory silence during performances",
+      "url": "https://thecollegefix.com/sample5",
+      "source": "CollegeFix"
+    },
+    {
+      "headline": "Professor assigns homework: 'destroy your privilege' essay controversial",
+      "url": "https://campusreform.org/sample7",
+      "source": "CampusReform"
+    }
+  ],
+  "treadwellCorner": [
+    {
+      "headline": "Alligator interrupts golf tournament, declares water hazard as personal territory",
+      "url": "https://news.google.com/sample8",
+      "source": "GoogleNature"
+    }
+  ],
   "videoOfTheDay": null
 }
