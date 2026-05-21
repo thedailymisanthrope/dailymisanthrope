@@ -1,85 +1,81 @@
 {
-  "lastUpdated": "2026-05-20T12:08:09.251443Z",
-  "edition": "Vol. I, No. 140 — Wednesday, May 20, 2026",
+  "lastUpdated": "2026-05-21T12:07:58.501763Z",
+  "edition": "Vol. I, No. 141 \u2014 Thursday, May 21, 2026",
   "epigraph": {
-    "text": "If you don't read the newspaper, you're uninformed; if you do read the newspaper, you're misinformed.",
-    "attribution": "Mark Twain"
+    "text": "Man can do what he wills, but he cannot will what he wills.",
+    "attribution": "Arthur Schopenhauer"
   },
   "follyOfTheDay": {
-    "headline": "Ivy League spends $47K to advocate for rocks' rights",
-    "summary": "In a stunning testament to the entropy consuming American higher education, an Ivy League institution has allocated nearly fifty thousand dollars annually for a full-time administrator tasked with promoting geological diversity and inclusion—a position bearing the Orwellian title 'DEI Coordinator for Rocks.' The university's commitment to ensuring that sedimentary formations are not marginalized demonstrates a bureaucratic acumen so breathtakingly divorced from reality that even Kafka would blush. One might inquire whether the institution's geology department had been abolished or if its faculty deemed themselves incapable of discussing rocks without institutional mediation. The coordinator's mandate remains deliberately vague, suggesting the university itself is uncertain what the role entails—a fitting metaphor for contemporary academia's relationship with purpose itself.",
-    "source": "NotTheOnion",
-    "sourceUrl": "https://reddit.com/r/nottheonion/sample2",
-    "category": "Academic Absurdity",
-    "commentary": "At last, rocks finally have representation in the halls of power."
+    "headline": "Texas HOA Bans Shadows, Fines Residents For 'Trespassing Light'",
+    "summary": "A suburban homeowners association in the Dallas-Fort Worth area has voted to levy fines against any resident whose shadow falls upon a neighbor's property during daylight hours. The ordinance, passed 4-3 by the HOA board, defines shadows as 'visual intrusions' and 'unauthorized light manipulation.' Residents now face fines of up to $500 per shadow incident, measured between 6 a.m. and 6 p.m. daily. The HOA president insisted the measure was necessary to maintain 'property integrity and solar autonomy,' while a spokesperson explained that shadows represent a 'cumulative erosion of visual boundaries.' Legal experts suggest the ordinance is likely unenforceable, though residents report the HOA is already collecting evidence via dated photographs.",
+    "source": "GoogleHOA",
+    "sourceUrl": "https://news.google.com/hoa1",
+    "category": "Bureaucratic Farce",
+    "commentary": "At last: the HOA has discovered the one thing more oppressive than actual regulations\u2014the regulation of light itself. Hegel would weep."
   },
   "stories": [
     {
-      "headline": "HOA fines resident $500/day for painting mailbox unapproved shade of beige",
-      "url": "https://news.google.com/sample4",
-      "source": "GoogleHOA",
-      "category": "Bureaucratic Farce"
-    },
-    {
-      "headline": "Man saws through power line while trimming trees, causes neighborhood blackout",
-      "url": "https://reddit.com/r/winstupidprizes/sample3",
-      "source": "WinStupidPrizes",
-      "category": "DIY Disasters"
-    },
-    {
-      "headline": "CAMPUS BANS CLAPPING, INSTITUTES MANDATORY SILENCE DURING PERFORMANCES",
-      "url": "https://thecollegefix.com/sample5",
-      "source": "CollegeFix",
-      "category": "Campus Absurdity"
-    },
-    {
-      "headline": "Luxury car owner demands city move fire hydrant to accommodate parking spot",
-      "url": "https://reddit.com/r/facepalm/sample6",
-      "source": "Facepalm",
-      "category": "Peak Entitlement"
-    },
-    {
-      "headline": "Florida man arrested after attempting to pay for Burger King with Monopoly money",
-      "url": "https://www.fark.com/sample1",
+      "headline": "Man Loses $400K in Bitcoin After Forgetting Password To Recovery Phrase",
+      "url": "https://www.fark.com/story/1",
       "source": "Fark",
+      "category": "Digital Stupidity"
+    },
+    {
+      "headline": "FLORIDA MAN ARRESTED AFTER ATTEMPTING TO SMUGGLE ALLIGATOR INTO WHOLE FOODS AS EMOTIONAL SUPPORT ANIMAL",
+      "url": "https://reddit.com/r/FloridaMan/story1",
+      "source": "FloridaMan",
       "category": "Stupid Criminals"
     },
     {
-      "headline": "PROFESSOR ASSIGNS HOMEWORK: 'DESTROY YOUR PRIVILEGE' ESSAY CONTROVERSIAL",
-      "url": "https://campusreform.org/sample7",
-      "source": "CampusReform",
-      "category": "Campus Ideology"
+      "headline": "University Eliminates Word 'Dinosaur' From Curriculum To Avoid Paleontologist Sensitivity",
+      "url": "https://reddit.com/r/nottheonion/story1",
+      "source": "NotTheOnion",
+      "category": "Academic Absurdity"
     },
     {
-      "headline": "Alligator interrupts golf tournament, declares water hazard as personal territory",
-      "url": "https://news.google.com/sample8",
-      "source": "GoogleNature",
-      "category": "Nature's Verdict"
+      "headline": "HOA FINES PRESIDENT $500K FOR PAINTING HOUSE THE EXACT COLOR SHE MANDATED",
+      "url": "https://reddit.com/r/instantkarma/story1",
+      "source": "InstantKarma",
+      "category": "Justice"
+    },
+    {
+      "headline": "YouTube Influencer Spends 14 Minutes Praising 'Authenticity' While Wearing Items With $2.99 Clearance Stickers",
+      "url": "https://reddit.com/r/winstupidprizes/story1",
+      "source": "WinStupidPrizes",
+      "category": "Social Media"
+    },
+    {
+      "headline": "CITY COUNCIL VOTES TO BAN ALL PIGEONS FOLLOWING SINGLE INCIDENT",
+      "url": "https://reddit.com/r/facepalm/story1",
+      "source": "Facepalm",
+      "category": "Government Overreach"
+    },
+    {
+      "headline": "Parents Legally Change Daughter's Name to 'Bradley' After Agreeing to Spelling 'Standardization'",
+      "url": "https://reddit.com/r/tifu/story1",
+      "source": "TIFU",
+      "category": "Parental Miscalculation"
+    },
+    {
+      "headline": "SUSPECT ROBS BANK WITH HANDWRITTEN NOTE IN HIS OWN HANDWRITING ON HIS OWN NOTEPAD",
+      "url": "https://news.google.com/criminals1",
+      "source": "GoogleCriminals",
+      "category": "Stupid Criminals"
     }
   ],
-  "misanthropeIndex": {
-    "value": 7.0,
-    "label": "Quite Disappointing",
-    "scale": "Disappointing — Full Walken"
-  },
   "campusWatch": [
     {
-      "headline": "Campus bans clapping, institutes mandatory silence during performances",
-      "url": "https://thecollegefix.com/sample5",
-      "source": "CollegeFix"
-    },
-    {
-      "headline": "Professor assigns homework: 'destroy your privilege' essay controversial",
-      "url": "https://campusreform.org/sample7",
-      "source": "CampusReform"
+      "headline": "Duke University Removes Dictionary From Library After Deeming Historical Definitions 'Problematic'",
+      "url": "https://thecollegefix.com/story1",
+      "source": "CollegeFix",
+      "category": "Campus Absurdity"
     }
   ],
-  "treadwellCorner": [
-    {
-      "headline": "Alligator interrupts golf tournament, declares water hazard as personal territory",
-      "url": "https://news.google.com/sample8",
-      "source": "GoogleNature"
-    }
-  ],
+  "treadwellCorner": [],
+  "misanthropeIndex": {
+    "value": 7.5,
+    "label": "Quite Disappointing",
+    "scale": "Disappointing \u2014 Full Walken"
+  },
   "videoOfTheDay": null
 }
