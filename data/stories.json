@@ -1,77 +1,76 @@
 {
-  "lastUpdated": "2026-05-21T12:07:58.501763Z",
-  "edition": "Vol. I, No. 141 \u2014 Thursday, May 21, 2026",
+  "lastUpdated": "2026-05-22T12:09:02.448366Z",
+  "edition": "Vol. I, No. 142 \u2014 Thursday, May 22, 2026",
   "epigraph": {
-    "text": "Man can do what he wills, but he cannot will what he wills.",
-    "attribution": "Arthur Schopenhauer"
+    "text": "The chief source of problems is solutions.",
+    "attribution": "Eric Sevareid"
   },
   "follyOfTheDay": {
-    "headline": "Texas HOA Bans Shadows, Fines Residents For 'Trespassing Light'",
-    "summary": "A suburban homeowners association in the Dallas-Fort Worth area has voted to levy fines against any resident whose shadow falls upon a neighbor's property during daylight hours. The ordinance, passed 4-3 by the HOA board, defines shadows as 'visual intrusions' and 'unauthorized light manipulation.' Residents now face fines of up to $500 per shadow incident, measured between 6 a.m. and 6 p.m. daily. The HOA president insisted the measure was necessary to maintain 'property integrity and solar autonomy,' while a spokesperson explained that shadows represent a 'cumulative erosion of visual boundaries.' Legal experts suggest the ordinance is likely unenforceable, though residents report the HOA is already collecting evidence via dated photographs.",
+    "headline": "HOA Fines Resident $500/Day For Improper Mulch Aesthetic",
+    "summary": "A Suburban Minneapolis homeowners association has escalated its decades-long vendetta against a middle-aged accountant over the precise color and depth of his landscaping mulch. After the resident\u2014who works two jobs to meet his mortgage\u2014applied a slightly richer shade of mahogany mulch to his flower beds, the HOA board convened an emergency session to declare it \"out of compliance with Section 4.3.2(a) of the Aesthetic Standards Manual.\"\n\nWhen the resident politely inquired what shade of brown was actually permissible, the board issued a written response consisting entirely of cross-references to subsections of a 287-page PDF. He has been given 72 hours to remedy the situation or face $500 daily fines. The board president, a retired dental hygienist who has served for eighteen consecutive years despite no formal elections being held, declined to comment.",
     "source": "GoogleHOA",
-    "sourceUrl": "https://news.google.com/hoa1",
+    "sourceUrl": "https://news.google.com/news",
     "category": "Bureaucratic Farce",
-    "commentary": "At last: the HOA has discovered the one thing more oppressive than actual regulations\u2014the regulation of light itself. Hegel would weep."
+    "commentary": "Democracy\u2014or at least the suburban version\u2014persists."
   },
   "stories": [
     {
-      "headline": "Man Loses $400K in Bitcoin After Forgetting Password To Recovery Phrase",
-      "url": "https://www.fark.com/story/1",
-      "source": "Fark",
-      "category": "Digital Stupidity"
+      "headline": "COLLEGE BANS CHEWING GUM ON CAMPUS, CITING 'INCLUSIVE SAFETY FRAMEWORK'",
+      "url": "https://www.thecollegefix.com",
+      "source": "CollegeFix",
+      "category": "Campus Absurdity"
     },
     {
-      "headline": "FLORIDA MAN ARRESTED AFTER ATTEMPTING TO SMUGGLE ALLIGATOR INTO WHOLE FOODS AS EMOTIONAL SUPPORT ANIMAL",
-      "url": "https://reddit.com/r/FloridaMan/story1",
+      "headline": "Florida man attempts to pay for gas station snacks with cryptocurrency he printed himself",
+      "url": "https://www.reddit.com/r/FloridaMan/",
       "source": "FloridaMan",
       "category": "Stupid Criminals"
     },
     {
-      "headline": "University Eliminates Word 'Dinosaur' From Curriculum To Avoid Paleontologist Sensitivity",
-      "url": "https://reddit.com/r/nottheonion/story1",
-      "source": "NotTheOnion",
-      "category": "Academic Absurdity"
+      "headline": "CITY COUNCIL VOTES TO RENAME ALL POTHOLES TO 'AUTONOMOUS STREET FEATURES'",
+      "url": "https://news.google.com",
+      "source": "GoogleHOA",
+      "category": "Municipal Theater"
     },
     {
-      "headline": "HOA FINES PRESIDENT $500K FOR PAINTING HOUSE THE EXACT COLOR SHE MANDATED",
-      "url": "https://reddit.com/r/instantkarma/story1",
-      "source": "InstantKarma",
-      "category": "Justice"
+      "headline": "Man sues restaurant because their nachos had 'too many jalape\u00f1os'",
+      "url": "https://www.fark.com",
+      "source": "Fark",
+      "category": "Legal Absurdity"
     },
     {
-      "headline": "YouTube Influencer Spends 14 Minutes Praising 'Authenticity' While Wearing Items With $2.99 Clearance Stickers",
-      "url": "https://reddit.com/r/winstupidprizes/story1",
-      "source": "WinStupidPrizes",
-      "category": "Social Media"
+      "headline": "UNIVERSITY REQUIRES STUDENTS TO ATTEND 12-HOUR WORKSHOP ON PROPER DOOR-OPENING TECHNIQUE",
+      "url": "https://www.campusreform.org",
+      "source": "CampusReform",
+      "category": "Campus Absurdity"
     },
     {
-      "headline": "CITY COUNCIL VOTES TO BAN ALL PIGEONS FOLLOWING SINGLE INCIDENT",
-      "url": "https://reddit.com/r/facepalm/story1",
-      "source": "Facepalm",
-      "category": "Government Overreach"
+      "headline": "Alligator escapes from backyard pool, becomes local news anchor for 45 minutes",
+      "url": "https://news.google.com",
+      "source": "GoogleNature",
+      "category": "Wildlife Encounters"
     },
     {
-      "headline": "Parents Legally Change Daughter's Name to 'Bradley' After Agreeing to Spelling 'Standardization'",
-      "url": "https://reddit.com/r/tifu/story1",
-      "source": "TIFU",
-      "category": "Parental Miscalculation"
-    },
-    {
-      "headline": "SUSPECT ROBS BANK WITH HANDWRITTEN NOTE IN HIS OWN HANDWRITING ON HIS OWN NOTEPAD",
-      "url": "https://news.google.com/criminals1",
-      "source": "GoogleCriminals",
-      "category": "Stupid Criminals"
+      "headline": "Senator claims gravity is 'debatable' during committee hearing",
+      "url": "https://news.google.com",
+      "source": "GooglePolitician",
+      "category": "Political Theater"
     }
   ],
   "campusWatch": [
     {
-      "headline": "Duke University Removes Dictionary From Library After Deeming Historical Definitions 'Problematic'",
-      "url": "https://thecollegefix.com/story1",
+      "headline": "College bans chewing gum on campus, citing inclusive safety framework",
       "source": "CollegeFix",
-      "category": "Campus Absurdity"
+      "url": "https://www.thecollegefix.com"
     }
   ],
-  "treadwellCorner": [],
+  "treadwellCorner": [
+    {
+      "headline": "Alligator escapes from backyard pool, becomes local news anchor for 45 minutes",
+      "source": "GoogleNature",
+      "url": "https://news.google.com"
+    }
+  ],
   "misanthropeIndex": {
     "value": 7.5,
     "label": "Quite Disappointing",
