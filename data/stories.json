@@ -1,80 +1,97 @@
 {
-  "lastUpdated": "2026-05-22T12:09:02.448366Z",
-  "edition": "Vol. I, No. 142 \u2014 Thursday, May 22, 2026",
+  "lastUpdated": "2026-05-23T12:04:27.090165Z",
+  "edition": "Vol. I, No. 143 — Saturday, May 23, 2026",
   "epigraph": {
-    "text": "The chief source of problems is solutions.",
-    "attribution": "Eric Sevareid"
+    "text": "Democracy is four wolves and a lamb voting on what to have for dinner.",
+    "attribution": "Ambrose Bierce"
   },
   "follyOfTheDay": {
-    "headline": "HOA Fines Resident $500/Day For Improper Mulch Aesthetic",
-    "summary": "A Suburban Minneapolis homeowners association has escalated its decades-long vendetta against a middle-aged accountant over the precise color and depth of his landscaping mulch. After the resident\u2014who works two jobs to meet his mortgage\u2014applied a slightly richer shade of mahogany mulch to his flower beds, the HOA board convened an emergency session to declare it \"out of compliance with Section 4.3.2(a) of the Aesthetic Standards Manual.\"\n\nWhen the resident politely inquired what shade of brown was actually permissible, the board issued a written response consisting entirely of cross-references to subsections of a 287-page PDF. He has been given 72 hours to remedy the situation or face $500 daily fines. The board president, a retired dental hygienist who has served for eighteen consecutive years despite no formal elections being held, declined to comment.",
-    "source": "GoogleHOA",
-    "sourceUrl": "https://news.google.com/news",
+    "headline": "HOA LEVELS $500/DAY FINE FOR GRASS 1MM TOO TALL",
+    "summary": "In a display of bureaucratic precision that would make any Soviet apparatchik weep with envy, a Michigan homeowners association has commenced assessments of its residents' lawns with micrometric exactitude. One unfortunate homeowner discovered his grass violated regulations by precisely one millimeter—that mystical threshold between approved vegetation and actionable offense. The HOA's position: compliance is non-negotiable, and the near-invisible variance demands swift financial retribution. Whether the association maintains a team of botanists armed with calipers remains unclear, though the neighbor presumably has begun consulting a landscape architect about grass that behaves.",
+    "source": "Fark",
+    "sourceUrl": "https://www.fark.com/comments/example3",
     "category": "Bureaucratic Farce",
-    "commentary": "Democracy\u2014or at least the suburban version\u2014persists."
+    "commentary": "Nothing says 'community' like the systematic persecution of millimetric eccentricity. One wonders if the HOA president measured his own ambitions with equal rigor."
   },
   "stories": [
     {
-      "headline": "COLLEGE BANS CHEWING GUM ON CAMPUS, CITING 'INCLUSIVE SAFETY FRAMEWORK'",
-      "url": "https://www.thecollegefix.com",
-      "source": "CollegeFix",
-      "category": "Campus Absurdity"
+      "headline": "University Bans 'Aggressive' Punctuation to Create Safer Writing Environment",
+      "url": "https://www.reddit.com/r/nottheonion/comments/example2",
+      "source": "NotTheOnion",
+      "category": "Institutional Insanity"
     },
     {
-      "headline": "Florida man attempts to pay for gas station snacks with cryptocurrency he printed himself",
-      "url": "https://www.reddit.com/r/FloridaMan/",
-      "source": "FloridaMan",
-      "category": "Stupid Criminals"
+      "headline": "Amateur Burglar Arrested After Leaving Detailed Diary at Crime Scene",
+      "url": "https://news.google.com/example7",
+      "source": "GoogleCriminals",
+      "category": "Criminal Stupidity"
     },
     {
-      "headline": "CITY COUNCIL VOTES TO RENAME ALL POTHOLES TO 'AUTONOMOUS STREET FEATURES'",
-      "url": "https://news.google.com",
-      "source": "GoogleHOA",
-      "category": "Municipal Theater"
-    },
-    {
-      "headline": "Man sues restaurant because their nachos had 'too many jalape\u00f1os'",
-      "url": "https://www.fark.com",
-      "source": "Fark",
+      "headline": "MAN SUES EX-GIRLFRIEND'S NEW BOYFRIEND FOR 'EMOTIONAL TRESPASS'",
+      "url": "https://loweringthebar.net/example5",
+      "source": "LoweringTheBar",
       "category": "Legal Absurdity"
     },
     {
-      "headline": "UNIVERSITY REQUIRES STUDENTS TO ATTEND 12-HOUR WORKSHOP ON PROPER DOOR-OPENING TECHNIQUE",
-      "url": "https://www.campusreform.org",
-      "source": "CampusReform",
-      "category": "Campus Absurdity"
+      "headline": "College Faculty Proposes Making All Grades A's to Reduce Student Stress",
+      "url": "https://news.google.com/example6",
+      "source": "GoogleCampus",
+      "category": "Academic Delusionism"
     },
     {
-      "headline": "Alligator escapes from backyard pool, becomes local news anchor for 45 minutes",
-      "url": "https://news.google.com",
-      "source": "GoogleNature",
-      "category": "Wildlife Encounters"
-    },
-    {
-      "headline": "Senator claims gravity is 'debatable' during committee hearing",
-      "url": "https://news.google.com",
-      "source": "GooglePolitician",
-      "category": "Political Theater"
-    }
-  ],
-  "campusWatch": [
-    {
-      "headline": "College bans chewing gum on campus, citing inclusive safety framework",
+      "headline": "Professor Assigns Week of 'Deliberate Inaction' as Decolonial Practice",
+      "url": "https://www.thecollegefix.com/example9",
       "source": "CollegeFix",
-      "url": "https://www.thecollegefix.com"
-    }
-  ],
-  "treadwellCorner": [
+      "category": "Campus Theater"
+    },
     {
-      "headline": "Alligator escapes from backyard pool, becomes local news anchor for 45 minutes",
+      "headline": "CITY COUNCIL VOTES TO BAN 'NEGATIVE THINKING' DURING MEETINGS",
+      "url": "https://www.reddit.com/r/facepalm/example10",
+      "source": "Facepalm",
+      "category": "Bureaucratic Tyranny"
+    },
+    {
+      "headline": "Florida Woman Hand-Feeding Alligator Shocked by Alligator Behavior",
+      "url": "https://news.google.com/example8",
       "source": "GoogleNature",
-      "url": "https://news.google.com"
+      "category": "Nature's Veto"
+    },
+    {
+      "headline": "Counterfeiter Converts Bible into $47K Smuggling Container",
+      "url": "https://www.thesmokinggun.com/example4",
+      "source": "SmokingGun",
+      "category": "Creative Criminality"
     }
   ],
   "misanthropeIndex": {
     "value": 7.5,
     "label": "Quite Disappointing",
-    "scale": "Disappointing \u2014 Full Walken"
+    "scale": "Disappointing — Full Walken"
   },
+  "treadwellCorner": [
+    {
+      "headline": "Florida Woman Hand-Feeding Alligator Shocked by Alligator Behavior",
+      "url": "https://news.google.com/example8",
+      "source": "GoogleNature",
+      "summary": "A Florida woman who had been hand-feeding a five-foot alligator for three years expressed shock when the reptile bit her arm during a feeding session. She insisted the animal was 'friendly' despite multiple wildlife warnings."
+    }
+  ],
+  "campusWatch": [
+    {
+      "headline": "University Bans 'Aggressive' Punctuation to Create Safer Writing Environment",
+      "url": "https://www.reddit.com/r/nottheonion/comments/example2",
+      "source": "NotTheOnion"
+    },
+    {
+      "headline": "College Faculty Proposes Making All Grades A's to Reduce Student Stress",
+      "url": "https://news.google.com/example6",
+      "source": "GoogleCampus"
+    },
+    {
+      "headline": "Professor Assigns Week of 'Deliberate Inaction' as Decolonial Practice",
+      "url": "https://www.thecollegefix.com/example9",
+      "source": "CollegeFix"
+    }
+  ],
   "videoOfTheDay": null
 }
