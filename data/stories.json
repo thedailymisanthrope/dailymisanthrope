@@ -1,82 +1,88 @@
 {
-  "lastUpdated": "2026-05-24T12:03:39.138727Z",
-  "edition": "Vol. I, No. 144 — Sunday, May 24, 2026",
+  "lastUpdated": "2026-05-25T12:16:37.197728Z",
+  "edition": "Vol. I, No. 145 — Monday, May 25, 2026",
   "epigraph": {
-    "text": "If you tell the truth, you don't have to remember anything.",
-    "attribution": "Mark Twain"
+    "text": "The truth is rarely pure and never simple",
+    "attribution": "Oscar Wilde"
   },
   "follyOfTheDay": {
-    "headline": "HOA Fines Resident $5,000 for Painting Fence 'Wrong' Gray",
-    "summary": "A Midwestern homeowners association exercised the full destructive capacity of its authority this week by imposing a maximum $5,000 fine on a resident for committing the cardinal sin of aesthetic deviation: selecting Sherwin-Williams 'Storm Cloud' gray for a fence that was supposed to be Benjamin Moore 'Thunder Cloud' gray. To the human eye, these colors are indistinguishable. To the HOA's enforcement committee, this represents a brazen violation of community standards demanding immediate legal retaliation.\n\nThe homeowner has filed a counter-suit, though the precise legal theory—arguing that colors cannot be simultaneously distinct yet identical—has yet to be articulated by counsel. The HOA promises to pursue the matter 'vigorously,' a promise that requires no translation: they will spend more money on lawyers than they will ever recover, because principle is a luxury item available only to entities with endless resources and no accountability.\n\nA spokeswoman for the association declined to comment beyond stating that 'standards matter,' a sentiment that rings somewhat hollow when applied to the distinction between two grays that could only be differentiated by a color-blind person's fever dream.",
-    "source": "SmokingGun",
-    "sourceUrl": "https://thesmokinggun.com/example6",
-    "category": "Bureaucratic Farce",
-    "commentary": "Democracy in action: three people with laminating machines and access to an attorney's retainer can bend the will of an entire neighborhood. The Founders would be proud."
+    "headline": "Robber's Banana Gambit: Crime or Performance?",
+    "summary": "In a remarkable confluence of criminal enterprise and artistic pretension, a 28-year-old gentleman from the greater metropolitan area conducted what may well be the finest conceptual art piece of our generation—a full-service robbery of a convenience store, executed with a single piece of fruit. Armed with naught but a handwritten note and a peeled banana, our protagonist presented his improvised credentials to the clerking staff, who, displaying the wisdom of professionals accustomed to the peculiar, dutifully complied with the request for cash.\n\nOur aspiring conceptualist later explained to law enforcement that the entire enterprise was intended as a 'performance art commentary on American commerce and late-stage capitalism,' a defense that unfortunately does not appear in the criminal code, at least not in ways favorable to defendants. The philosophical implications are staggering: by what metric does one distinguish robbery from art? A banana, after all, is but a statement rendered in fruit. That the artist himself apparently did not consider the commercial transaction's conclusion to involve a private meeting with the criminal justice system suggests either a failure of artistic vision or a triumph of suburban ennui.",
+    "source": "GoogleCriminals",
+    "sourceUrl": "https://news.google.com/articles/fake7",
+    "category": "Stupid Criminals",
+    "commentary": "The maestro of the banana heist joins a hallowed pantheon of criminals who misunderstand the relationship between artistic merit and felony charges. One hopes his future gallery will feature better fruit."
   },
   "stories": [
     {
-      "headline": "HOA Fines Resident $5,000 for Painting Fence Gray Instead of Approved Gray",
-      "url": "https://thesmokinggun.com/example6",
-      "source": "SmokingGun",
-      "category": "Bureaucratic Farce"
+      "headline": "University Bans Pronouns, Students Now Addressed by Student ID Numbers",
+      "url": "https://reddit.com/r/nottheonion/comments/fake2",
+      "source": "NotTheOnion",
+      "category": "Academic Absurdity"
     },
     {
-      "headline": "Woman Loses Arm Wrestling Match to Very Determined Peacock",
-      "url": "https://news.google.com/example8",
-      "source": "GoogleNature",
-      "category": "Nature"
-    },
-    {
-      "headline": "TIFU BY MICROWAVE-NUKING MY ANTIQUE POCKET WATCH TO 'CHARGE' IT",
-      "url": "https://reddit.com/r/tifu/example9",
-      "source": "TIFU",
-      "category": "Stupid Prizes"
-    },
-    {
-      "headline": "Man Tries to Pay for Gas with Counterfeit Monopoly Money",
-      "url": "https://reddit.com/r/FloridaMan/example2",
-      "source": "FloridaMan",
-      "category": "Stupid Criminals"
-    },
-    {
-      "headline": "Woman Who Called 911 on Neighbor's Compost Pile Arrested for Wasting Emergency Services",
-      "url": "https://reddit.com/r/instantkarma/example5",
+      "headline": "Man Who Threw Drinks at Barista Immediately Slips in His Own Spilled Coffee",
+      "url": "https://reddit.com/r/instantkarma/comments/fake3",
       "source": "InstantKarma",
       "category": "Instant Karma"
     },
     {
-      "headline": "CITY COUNCIL BANS BACKYARD CHICKEN COOPS CITING 'AGGRESSIVE ROOSTERS'",
-      "url": "https://reddit.com/r/nottheonion/example1",
-      "source": "NotTheOnion",
+      "headline": "WOULD-BE PIZZA THEFT FOILED BY GREASE TRAP PLUNGE",
+      "url": "https://reddit.com/r/winstupidprizes/comments/fake4",
+      "source": "WinStupidPrizes",
+      "category": "Stupid Criminals"
+    },
+    {
+      "headline": "HOA Fines Resident $500 for 'Excessive Green' — Grass Too Lush",
+      "url": "https://reddit.com/r/facepalm/comments/fake5",
+      "source": "Facepalm",
       "category": "Bureaucratic Farce"
     },
     {
-      "headline": "University Installs 'Vegan-Only' Refrigerator That Only Non-Vegans Actually Use",
-      "url": "https://news.google.com/example10",
-      "source": "GoogleCampus",
-      "category": "Campus Absurdity"
+      "headline": "TIFU by Teaching My Dog to Recognize Dollar Bills and He Ate $3,400 from My Safe",
+      "url": "https://reddit.com/r/tifu/comments/fake8",
+      "source": "TIFU",
+      "category": "Poetic Justice"
+    },
+    {
+      "headline": "JUDGE RULES MAN MUST WEAR 'I AM STUPID' T-SHIRT TO WORK FOR ONE MONTH",
+      "url": "https://loweringthebar.net/articles/fake9",
+      "source": "LoweringTheBar",
+      "category": "Legal Absurdity"
+    },
+    {
+      "headline": "Florida Man Attempts to Trade Methamphetamine for Alligator",
+      "url": "https://reddit.com/r/FloridaMan/comments/fake1",
+      "source": "FloridaMan",
+      "category": "Stupid Criminals"
     }
   ],
   "campusWatch": [
     {
-      "headline": "University Installs 'Vegan-Only' Refrigerator That Only Non-Vegans Actually Use",
-      "url": "https://news.google.com/example10",
-      "source": "GoogleCampus",
-      "category": "Campus Absurdity"
+      "headline": "College Offers New Degree: Bachelor's in Decolonial Aesthetics",
+      "url": "https://campusreform.org/article/fake6",
+      "source": "CampusReform",
+      "category": "Higher Education"
+    },
+    {
+      "headline": "State University Eliminates Math Requirement, Claims Numbers Are 'Colonialist'",
+      "url": "https://thecollegefix.com/article/fake10",
+      "source": "CollegeFix",
+      "category": "Academic Lunacy"
     }
   ],
   "treadwellCorner": [
     {
-      "headline": "Woman Loses Arm Wrestling Match to Very Determined Peacock",
-      "url": "https://news.google.com/example8",
+      "headline": "Florida Panther Found In Retirement Community Hot Tub—Second Time This Month",
+      "url": "https://news.google.com/articles/fake11",
       "source": "GoogleNature",
-      "category": "Nature"
+      "category": "Nature Strikes Back"
     }
   ],
   "misanthropeIndex": {
-    "value": 6.5,
+    "value": 7.0,
     "label": "Quite Disappointing",
-    "scale": "Merely Disappointing — Full Walken"
+    "scale": "Disappointing — Full Walken"
   },
   "videoOfTheDay": null
 }
