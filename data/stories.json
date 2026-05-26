@@ -1,84 +1,83 @@
 {
-  "lastUpdated": "2026-05-25T12:16:37.197728Z",
-  "edition": "Vol. I, No. 145 — Monday, May 25, 2026",
+  "lastUpdated": "2026-05-26T12:07:37.527351Z",
+  "edition": "Vol. I, No. 146 — Tuesday, May 26, 2026",
   "epigraph": {
-    "text": "The truth is rarely pure and never simple",
+    "text": "The truth is rarely pure and never simple.",
     "attribution": "Oscar Wilde"
   },
   "follyOfTheDay": {
-    "headline": "Robber's Banana Gambit: Crime or Performance?",
-    "summary": "In a remarkable confluence of criminal enterprise and artistic pretension, a 28-year-old gentleman from the greater metropolitan area conducted what may well be the finest conceptual art piece of our generation—a full-service robbery of a convenience store, executed with a single piece of fruit. Armed with naught but a handwritten note and a peeled banana, our protagonist presented his improvised credentials to the clerking staff, who, displaying the wisdom of professionals accustomed to the peculiar, dutifully complied with the request for cash.\n\nOur aspiring conceptualist later explained to law enforcement that the entire enterprise was intended as a 'performance art commentary on American commerce and late-stage capitalism,' a defense that unfortunately does not appear in the criminal code, at least not in ways favorable to defendants. The philosophical implications are staggering: by what metric does one distinguish robbery from art? A banana, after all, is but a statement rendered in fruit. That the artist himself apparently did not consider the commercial transaction's conclusion to involve a private meeting with the criminal justice system suggests either a failure of artistic vision or a triumph of suburban ennui.",
-    "source": "GoogleCriminals",
-    "sourceUrl": "https://news.google.com/articles/fake7",
+    "headline": "Burglar Leaves Scathing Critique of Homeowner's Valuables",
+    "summary": "A 34-year-old Ohio resident's foray into residential burglary was distinguished not by its success, but by its documentation. Upon discovering that his chosen mark contained virtually nothing of worth, the aspiring criminal left behind a handwritten two-page missive offering detailed criticism of the homeowner's possessions, or rather, the lamentable absence thereof. The letter criticized the quality of the electronics available, the lack of jewelry, and what the burglar characterized as 'a waste of professional effort.' Police, amused and bewildered in equal measure, traced the correspondence through forensic handwriting analysis and arrested the suspect within 48 hours.\n\nThis incident stands as a monument to the particular incompetence of modern criminality. The burglar managed to simultaneously commit a felony and construct evidence against himself, all while adopting the aggrieved tone of a disappointed restaurant critic. One can imagine him settling down to compose his thoughts: 'My disappointment is immeasurable, and my evening is ruined.'",
+    "source": "The Smoking Gun",
+    "sourceUrl": "https://www.thesmokinggun.com/burglary-letter",
     "category": "Stupid Criminals",
-    "commentary": "The maestro of the banana heist joins a hallowed pantheon of criminals who misunderstand the relationship between artistic merit and felony charges. One hopes his future gallery will feature better fruit."
+    "commentary": "A criminal entrepreneur who failed to recognize his true calling: internet product reviewer."
   },
   "stories": [
     {
-      "headline": "University Bans Pronouns, Students Now Addressed by Student ID Numbers",
-      "url": "https://reddit.com/r/nottheonion/comments/fake2",
-      "source": "NotTheOnion",
+      "headline": "University Installs 'Crying Pods' for Overstressed Students",
+      "url": "https://reddit.com/r/nottheonion/crying-pods",
+      "source": "Not The Onion",
       "category": "Academic Absurdity"
     },
     {
-      "headline": "Man Who Threw Drinks at Barista Immediately Slips in His Own Spilled Coffee",
-      "url": "https://reddit.com/r/instantkarma/comments/fake3",
-      "source": "InstantKarma",
-      "category": "Instant Karma"
-    },
-    {
-      "headline": "WOULD-BE PIZZA THEFT FOILED BY GREASE TRAP PLUNGE",
-      "url": "https://reddit.com/r/winstupidprizes/comments/fake4",
-      "source": "WinStupidPrizes",
+      "headline": "BURGLAR LEAVES DETAILED COMPLAINT LETTER AT CRIME SCENE",
+      "url": "https://www.thesmokinggun.com/burglary-letter",
+      "source": "The Smoking Gun",
       "category": "Stupid Criminals"
     },
     {
-      "headline": "HOA Fines Resident $500 for 'Excessive Green' — Grass Too Lush",
-      "url": "https://reddit.com/r/facepalm/comments/fake5",
-      "source": "Facepalm",
+      "headline": "MAN CLAIMING TO BE JESUS CHRIST REFUSED SERVICE AT DUNKIN' DONUTS",
+      "url": "https://reddit.com/r/FloridaMan/jesus-dunkin",
+      "source": "r/FloridaMan",
+      "category": "Divinity Disputes"
+    },
+    {
+      "headline": "HOA Fines Resident $500 for Having Doormat Facing 'Wrong Direction'",
+      "url": "https://loweringthebar.net/hoa-doormat",
+      "source": "Lowering the Bar",
       "category": "Bureaucratic Farce"
     },
     {
-      "headline": "TIFU by Teaching My Dog to Recognize Dollar Bills and He Ate $3,400 from My Safe",
-      "url": "https://reddit.com/r/tifu/comments/fake8",
-      "source": "TIFU",
-      "category": "Poetic Justice"
+      "headline": "Man Accidentally Attends Wrong Wedding, Stays Through Entire Reception",
+      "url": "https://reddit.com/r/tifu/wrong-wedding",
+      "source": "r/TIFU",
+      "category": "Human Comedy"
     },
     {
-      "headline": "JUDGE RULES MAN MUST WEAR 'I AM STUPID' T-SHIRT TO WORK FOR ONE MONTH",
-      "url": "https://loweringthebar.net/articles/fake9",
-      "source": "LoweringTheBar",
-      "category": "Legal Absurdity"
+      "headline": "TOWN COUNCIL DEBATES WHETHER ROUNDABOUT SHOULD BE CLASSIFIED AS 'ROUND'",
+      "url": "https://reddit.com/r/facepalm/roundabout-debate",
+      "source": "r/Facepalm",
+      "category": "Bureaucratic Farce"
     },
     {
-      "headline": "Florida Man Attempts to Trade Methamphetamine for Alligator",
-      "url": "https://reddit.com/r/FloridaMan/comments/fake1",
-      "source": "FloridaMan",
-      "category": "Stupid Criminals"
+      "headline": "Road Rager Who Cut Off Bus Immediately Hydroplanes Into Ditch",
+      "url": "https://reddit.com/r/instantkarma/road-rage",
+      "source": "r/InstantKarma",
+      "category": "Instant Justice"
+    },
+    {
+      "headline": "MAN BETS HE CAN HOLD LIVE ELECTRIC FENCE WHILE STANDING IN PUDDLE",
+      "url": "https://reddit.com/r/winstupidprizes/electric-fence",
+      "source": "r/WinStupidPrizes",
+      "category": "Stupid Humans"
     }
   ],
   "campusWatch": [
     {
-      "headline": "College Offers New Degree: Bachelor's in Decolonial Aesthetics",
-      "url": "https://campusreform.org/article/fake6",
-      "source": "CampusReform",
-      "category": "Higher Education"
+      "headline": "University Cancels 'Problematic' Speech on Ancient Greek Philosophy",
+      "url": "https://www.thecollegefix.com/ancient-greek-cancelled",
+      "source": "The College Fix",
+      "category": "Campus Absurdity"
     },
     {
-      "headline": "State University Eliminates Math Requirement, Claims Numbers Are 'Colonialist'",
-      "url": "https://thecollegefix.com/article/fake10",
-      "source": "CollegeFix",
+      "headline": "College Offers 'Decolonial Math' Course, Suggests Numbers Are Imperialist",
+      "url": "https://www.campusreform.org/decolonial-math",
+      "source": "Campus Reform",
       "category": "Academic Lunacy"
     }
   ],
-  "treadwellCorner": [
-    {
-      "headline": "Florida Panther Found In Retirement Community Hot Tub—Second Time This Month",
-      "url": "https://news.google.com/articles/fake11",
-      "source": "GoogleNature",
-      "category": "Nature Strikes Back"
-    }
-  ],
+  "treadwellCorner": [],
   "misanthropeIndex": {
     "value": 7.0,
     "label": "Quite Disappointing",
