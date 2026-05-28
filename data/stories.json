@@ -1,87 +1,76 @@
 {
-  "lastUpdated": "2026-05-26T12:07:37.527351Z",
-  "edition": "Vol. I, No. 146 — Tuesday, May 26, 2026",
+  "lastUpdated": "2026-05-28T12:03:42.174082Z",
+  "edition": "Vol. I, No. 148 — Thursday, May 28, 2026",
   "epigraph": {
-    "text": "The truth is rarely pure and never simple.",
-    "attribution": "Oscar Wilde"
+    "text": "The average man does not want to be free. He simply wants to be safe.",
+    "attribution": "H.L. Mencken"
   },
   "follyOfTheDay": {
-    "headline": "Burglar Leaves Scathing Critique of Homeowner's Valuables",
-    "summary": "A 34-year-old Ohio resident's foray into residential burglary was distinguished not by its success, but by its documentation. Upon discovering that his chosen mark contained virtually nothing of worth, the aspiring criminal left behind a handwritten two-page missive offering detailed criticism of the homeowner's possessions, or rather, the lamentable absence thereof. The letter criticized the quality of the electronics available, the lack of jewelry, and what the burglar characterized as 'a waste of professional effort.' Police, amused and bewildered in equal measure, traced the correspondence through forensic handwriting analysis and arrested the suspect within 48 hours.\n\nThis incident stands as a monument to the particular incompetence of modern criminality. The burglar managed to simultaneously commit a felony and construct evidence against himself, all while adopting the aggrieved tone of a disappointed restaurant critic. One can imagine him settling down to compose his thoughts: 'My disappointment is immeasurable, and my evening is ruined.'",
-    "source": "The Smoking Gun",
-    "sourceUrl": "https://www.thesmokinggun.com/burglary-letter",
-    "category": "Stupid Criminals",
-    "commentary": "A criminal entrepreneur who failed to recognize his true calling: internet product reviewer."
+    "headline": "Town Council Bans Grass Color, Mandates Exact 2.3-Inch Height",
+    "summary": "A suburban municipality in Ohio has enacted a new ordinance that specifies the precise acceptable shade of lawn green, measured against Pantone color charts, with fines of $500 per day for deviations. The regulation emerged after a heated city council meeting where residents debated whether Kentucky bluegrass was \"too blue\" and argued that perennial ryegrass presented an \"optical assault\" on the neighborhood aesthetic.\n\nThe ordinance's 47-page enforcement manual includes a standardized measuring device that residents must allow inspectors to use on their lawns weekly. Violations have already been issued to three homeowners whose grass allegedly measured 2.7 inches—a 0.4-inch overstep that the municipality deems a public nuisance.",
+    "source": "GoogleHOA",
+    "sourceUrl": "https://example.com/grass-ordinance",
+    "category": "Bureaucratic Farce",
+    "commentary": "Democracy, it turns out, is two wolves and a lawn. The wolves won."
   },
   "stories": [
     {
-      "headline": "University Installs 'Crying Pods' for Overstressed Students",
-      "url": "https://reddit.com/r/nottheonion/crying-pods",
-      "source": "Not The Onion",
-      "category": "Academic Absurdity"
+      "headline": "FLORIDA MAN TEACHES ALLIGATOR TO USE DOORBELL, SHOCKED BY RESULTS",
+      "url": "https://example.com/florida-alligator",
+      "source": "FloridaMan",
+      "category": "Natural Selection in Progress"
     },
     {
-      "headline": "BURGLAR LEAVES DETAILED COMPLAINT LETTER AT CRIME SCENE",
-      "url": "https://www.thesmokinggun.com/burglary-letter",
-      "source": "The Smoking Gun",
-      "category": "Stupid Criminals"
+      "headline": "College bans offensive words including 'brain,' 'leadership,' 'honest'",
+      "url": "https://example.com/college-word-ban",
+      "source": "CollegeFix",
+      "category": "Campus Watch"
     },
     {
-      "headline": "MAN CLAIMING TO BE JESUS CHRIST REFUSED SERVICE AT DUNKIN' DONUTS",
-      "url": "https://reddit.com/r/FloridaMan/jesus-dunkin",
-      "source": "r/FloridaMan",
-      "category": "Divinity Disputes"
+      "headline": "INSURANCE COMPANY DENIES CLAIM BECAUSE CUSTOMER 'TECHNICALLY STILL ALIVE'",
+      "url": "https://example.com/insurance-denial",
+      "source": "NotTheOnion",
+      "category": "Corporate Absurdity"
     },
     {
-      "headline": "HOA Fines Resident $500 for Having Doormat Facing 'Wrong Direction'",
-      "url": "https://loweringthebar.net/hoa-doormat",
-      "source": "Lowering the Bar",
-      "category": "Bureaucratic Farce"
+      "headline": "Man arrested for returning library books too early, triggering system flags",
+      "url": "https://example.com/library-arrest",
+      "source": "Fark",
+      "category": "Legal Absurdity"
     },
     {
-      "headline": "Man Accidentally Attends Wrong Wedding, Stays Through Entire Reception",
-      "url": "https://reddit.com/r/tifu/wrong-wedding",
-      "source": "r/TIFU",
-      "category": "Human Comedy"
+      "headline": "CONGRESS PROPOSES BILL TO REGULATE BICYCLES AS 'MOTOR VEHICLES'",
+      "url": "https://example.com/bicycle-bill",
+      "source": "GooglePolitician",
+      "category": "Legislative Comedy"
     },
     {
-      "headline": "TOWN COUNCIL DEBATES WHETHER ROUNDABOUT SHOULD BE CLASSIFIED AS 'ROUND'",
-      "url": "https://reddit.com/r/facepalm/roundabout-debate",
-      "source": "r/Facepalm",
-      "category": "Bureaucratic Farce"
-    },
+      "headline": "Woman sues weather service for 'broken' umbrella that failed in rainstorm",
+      "url": "https://example.com/umbrella-lawsuit",
+      "source": "SmokingGun",
+      "category": "Legal Absurdity"
+    }
+  ],
+  "misanthropeIndex": {
+    "value": 8.2,
+    "label": "Approaching Full Walken",
+    "scale": "Disappointing — Full Walken"
+  },
+  "treadwellCorner": [
     {
-      "headline": "Road Rager Who Cut Off Bus Immediately Hydroplanes Into Ditch",
-      "url": "https://reddit.com/r/instantkarma/road-rage",
-      "source": "r/InstantKarma",
-      "category": "Instant Justice"
-    },
-    {
-      "headline": "MAN BETS HE CAN HOLD LIVE ELECTRIC FENCE WHILE STANDING IN PUDDLE",
-      "url": "https://reddit.com/r/winstupidprizes/electric-fence",
-      "source": "r/WinStupidPrizes",
-      "category": "Stupid Humans"
+      "headline": "Biker ignores bear warnings, approaches cub for 'close-up photo'",
+      "url": "https://example.com/bear-encounter",
+      "source": "GoogleNature",
+      "category": "Humans vs. Nature"
     }
   ],
   "campusWatch": [
     {
-      "headline": "University Cancels 'Problematic' Speech on Ancient Greek Philosophy",
-      "url": "https://www.thecollegefix.com/ancient-greek-cancelled",
-      "source": "The College Fix",
-      "category": "Campus Absurdity"
-    },
-    {
-      "headline": "College Offers 'Decolonial Math' Course, Suggests Numbers Are Imperialist",
-      "url": "https://www.campusreform.org/decolonial-math",
-      "source": "Campus Reform",
-      "category": "Academic Lunacy"
+      "headline": "College bans offensive words including 'brain,' 'leadership,' 'honest'",
+      "url": "https://example.com/college-word-ban",
+      "source": "CollegeFix",
+      "category": "Campus Watch"
     }
   ],
-  "treadwellCorner": [],
-  "misanthropeIndex": {
-    "value": 7.0,
-    "label": "Quite Disappointing",
-    "scale": "Disappointing — Full Walken"
-  },
   "videoOfTheDay": null
 }
