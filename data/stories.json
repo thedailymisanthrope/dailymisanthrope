@@ -1,76 +1,90 @@
 {
-  "lastUpdated": "2026-05-28T12:03:42.174082Z",
-  "edition": "Vol. I, No. 148 — Thursday, May 28, 2026",
+  "lastUpdated": "2026-05-29T15:42:00Z",
+  "edition": "Vol. I, No. 150 \u2014 Thursday, May 29, 2026",
   "epigraph": {
     "text": "The average man does not want to be free. He simply wants to be safe.",
     "attribution": "H.L. Mencken"
   },
   "follyOfTheDay": {
-    "headline": "Town Council Bans Grass Color, Mandates Exact 2.3-Inch Height",
-    "summary": "A suburban municipality in Ohio has enacted a new ordinance that specifies the precise acceptable shade of lawn green, measured against Pantone color charts, with fines of $500 per day for deviations. The regulation emerged after a heated city council meeting where residents debated whether Kentucky bluegrass was \"too blue\" and argued that perennial ryegrass presented an \"optical assault\" on the neighborhood aesthetic.\n\nThe ordinance's 47-page enforcement manual includes a standardized measuring device that residents must allow inspectors to use on their lawns weekly. Violations have already been issued to three homeowners whose grass allegedly measured 2.7 inches—a 0.4-inch overstep that the municipality deems a public nuisance.",
-    "source": "GoogleHOA",
-    "sourceUrl": "https://example.com/grass-ordinance",
+    "headline": "Politician's dinosaur workplace proposal narrowly rejected",
+    "summary": "In a moment that crystallizes the peculiar degradation of modern civic deliberation, alderman Robert Peterson of an unnamed municipality stood before city council and proposed designating the first Friday of July as 'Bring Your Dinosaur to Work Day.' What should have been immediately laughed out of chambers instead received serious consideration\u2014a 6-5 vote to reject the measure was narrow enough that it nearly achieved institutional legitimacy. Peterson's office released a statement expressing profound disappointment at the council's 'lack of forward-thinking' and 'catastrophic failure for civic engagement.' The proposal included a three-page explanation of 'taxonomy-neutral workplace inclusivity,' suggesting that the good alderman had invested non-trivial intellectual labor into making dinosaurs a mandatory part of employment infrastructure.",
+    "source": "SmokingGun",
+    "sourceUrl": "https://thesmokinggun.com/xyz3",
     "category": "Bureaucratic Farce",
-    "commentary": "Democracy, it turns out, is two wolves and a lawn. The wolves won."
+    "commentary": "That it came *this close* is somehow worse than if it had been unanimously dismissed. Democracy is merely the tyranny of the mediocre, formally organized."
   },
   "stories": [
     {
-      "headline": "FLORIDA MAN TEACHES ALLIGATOR TO USE DOORBELL, SHOCKED BY RESULTS",
-      "url": "https://example.com/florida-alligator",
-      "source": "FloridaMan",
-      "category": "Natural Selection in Progress"
-    },
-    {
-      "headline": "College bans offensive words including 'brain,' 'leadership,' 'honest'",
-      "url": "https://example.com/college-word-ban",
-      "source": "CollegeFix",
-      "category": "Campus Watch"
-    },
-    {
-      "headline": "INSURANCE COMPANY DENIES CLAIM BECAUSE CUSTOMER 'TECHNICALLY STILL ALIVE'",
-      "url": "https://example.com/insurance-denial",
-      "source": "NotTheOnion",
-      "category": "Corporate Absurdity"
-    },
-    {
-      "headline": "Man arrested for returning library books too early, triggering system flags",
-      "url": "https://example.com/library-arrest",
+      "headline": "Man attempts to teach behavioral correction to 9-foot alligator",
+      "url": "https://fark.com/story/123456",
       "source": "Fark",
+      "category": "Treadwell Moments"
+    },
+    {
+      "headline": "Woman files $87,000 lawsuit against neighbor for excessive Rogers & Hammerstein whistling",
+      "url": "https://nypost.com/weird/xyz4",
+      "source": "NYPostWeird",
       "category": "Legal Absurdity"
     },
     {
-      "headline": "CONGRESS PROPOSES BILL TO REGULATE BICYCLES AS 'MOTOR VEHICLES'",
-      "url": "https://example.com/bicycle-bill",
-      "source": "GooglePolitician",
-      "category": "Legislative Comedy"
+      "headline": "HOA FINES RESIDENT $50,000 FOR WRONG SHADE OF BEIGE",
+      "url": "https://fark.com/story/123457",
+      "source": "Fark",
+      "category": "Bureaucratic Farce"
     },
     {
-      "headline": "Woman sues weather service for 'broken' umbrella that failed in rainstorm",
-      "url": "https://example.com/umbrella-lawsuit",
-      "source": "SmokingGun",
-      "category": "Legal Absurdity"
-    }
-  ],
-  "misanthropeIndex": {
-    "value": 8.2,
-    "label": "Approaching Full Walken",
-    "scale": "Disappointing — Full Walken"
-  },
-  "treadwellCorner": [
+      "headline": "Florida man attempts to purchase groceries using laminated crayon drawing of currency",
+      "url": "https://reddit.com/r/floridaman/xyz2",
+      "source": "FloridaMan",
+      "category": "Stupid Criminals"
+    },
     {
-      "headline": "Biker ignores bear warnings, approaches cub for 'close-up photo'",
-      "url": "https://example.com/bear-encounter",
-      "source": "GoogleNature",
-      "category": "Humans vs. Nature"
+      "headline": "Kentucky inventor patents 'the wheel, but slightly oval'",
+      "url": "https://loweringthebar.net/xyz5",
+      "source": "LoweringTheBar",
+      "category": "Innovation"
+    },
+    {
+      "headline": "PERSON ARGUES WITH METEOROLOGIST THAT RAIN IS FAKE CGI",
+      "url": "https://reddit.com/r/facepalm/xyz9",
+      "source": "Facepalm",
+      "category": "Stupid Humans"
+    },
+    {
+      "headline": "Man loses staring contest with goose; loses possessions as well",
+      "url": "https://reddit.com/r/winstupidprizes/xyz10",
+      "source": "WinStupidPrizes",
+      "category": "Treadwell Moments"
     }
   ],
   "campusWatch": [
     {
-      "headline": "College bans offensive words including 'brain,' 'leadership,' 'honest'",
-      "url": "https://example.com/college-word-ban",
+      "headline": "Ivy League school adds emotional support peacock to mental health program",
+      "url": "https://thecollegefix.com/xyz6",
       "source": "CollegeFix",
-      "category": "Campus Watch"
+      "summary": "An unnamed prestigious university announced Gerald, a 6-year-old peacock, as the newest member of its mental health initiative. Students may pet Gerald during exam season, though he has bitten three students and destroyed $4,000 in textbooks."
+    },
+    {
+      "headline": "UC Berkeley eliminates pronouns to reduce cognitive load",
+      "url": "https://campusreform.org/xyz7",
+      "source": "CampusReform",
+      "summary": "A new campus-wide protocol requires all written communication to eliminate pronouns entirely, replaced by students' complete legal names. A 4,000-word essay assignment expanded to 8,000 words as a result."
     }
   ],
+  "treadwellCorner": [
+    {
+      "headline": "Florida man's attempt to educate alligator ends predictably",
+      "summary": "A 34-year-old Brevard County man discovered that a 9-foot alligator near a golf course 7th hole would not be receptive to behavioral correction, even when armed with a pool noodle. He was detained by authorities."
+    },
+    {
+      "headline": "Goose victorious in unexpected dominance contest",
+      "summary": "A public park visitor challenged a goose to a staring contest, believing himself superior in willpower. The encounter lasted 23 seconds and cost him three possessions and his dignity."
+    }
+  ],
+  "misanthropeIndex": {
+    "value": 7.5,
+    "label": "Quite Disappointing",
+    "scale": "Disappointing \u2014 Full Walken"
+  },
   "videoOfTheDay": null
 }
