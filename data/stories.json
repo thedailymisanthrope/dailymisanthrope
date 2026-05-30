@@ -1,88 +1,73 @@
 {
-  "lastUpdated": "2026-05-29T15:42:00Z",
-  "edition": "Vol. I, No. 150 \u2014 Thursday, May 29, 2026",
+  "lastUpdated": "2026-05-30T12:04:25.673303Z",
+  "edition": "Vol. I, No. 150 \u2014 Saturday, May 30, 2026",
   "epigraph": {
-    "text": "The average man does not want to be free. He simply wants to be safe.",
-    "attribution": "H.L. Mencken"
+    "text": "Against stupidity, the gods themselves contend in vain",
+    "attribution": "Arthur Schopenhauer"
   },
   "follyOfTheDay": {
-    "headline": "Politician's dinosaur workplace proposal narrowly rejected",
-    "summary": "In a moment that crystallizes the peculiar degradation of modern civic deliberation, alderman Robert Peterson of an unnamed municipality stood before city council and proposed designating the first Friday of July as 'Bring Your Dinosaur to Work Day.' What should have been immediately laughed out of chambers instead received serious consideration\u2014a 6-5 vote to reject the measure was narrow enough that it nearly achieved institutional legitimacy. Peterson's office released a statement expressing profound disappointment at the council's 'lack of forward-thinking' and 'catastrophic failure for civic engagement.' The proposal included a three-page explanation of 'taxonomy-neutral workplace inclusivity,' suggesting that the good alderman had invested non-trivial intellectual labor into making dinosaurs a mandatory part of employment infrastructure.",
-    "source": "SmokingGun",
-    "sourceUrl": "https://thesmokinggun.com/xyz3",
-    "category": "Bureaucratic Farce",
-    "commentary": "That it came *this close* is somehow worse than if it had been unanimously dismissed. Democracy is merely the tyranny of the mediocre, formally organized."
+    "headline": "Florida Man's Monopoly Gambit: A Currency of Questionable Legal Standing",
+    "summary": "In a display of economic acumen that would make Adam Smith weep, a 52-year-old Sarasota resident attempted to fuel his 1997 Honda Civic using five hundred dollars in counterfeit Monopoly money. The gentleman in question presented this vibrant, orange-backed currency with what witnesses describe as complete confidence in its legitimacy\u2014apparently laboring under the impression that Hasbro's play money enjoys the same legal standing as Federal Reserve notes.\n\nWhen the service station attendant expressed skepticism about the transaction, our intrepid motorist escalated into argumentation, insisting with remarkable resolve that the coins bearing cartoon images were 'perfectly legal tender.' The situation devolved into a standoff that ultimately required law enforcement intervention. Authorities charged him with fraud and conspiracy to defraud, crimes for which ignorance of currency law provides no recognized defense.\n\nThe incident raises profound questions about American civics education and the psychological distance some citizens maintain from empirical reality.",
+    "source": "FloridaMan",
+    "sourceUrl": "https://reddit.com/r/FloridaMan/xyz123",
+    "category": "Stupid Criminals",
+    "commentary": "A bold gambit, but the house always wins. Game over."
   },
   "stories": [
     {
-      "headline": "Man attempts to teach behavioral correction to 9-foot alligator",
-      "url": "https://fark.com/story/123456",
-      "source": "Fark",
-      "category": "Treadwell Moments"
-    },
-    {
-      "headline": "Woman files $87,000 lawsuit against neighbor for excessive Rogers & Hammerstein whistling",
-      "url": "https://nypost.com/weird/xyz4",
-      "source": "NYPostWeird",
-      "category": "Legal Absurdity"
-    },
-    {
-      "headline": "HOA FINES RESIDENT $50,000 FOR WRONG SHADE OF BEIGE",
-      "url": "https://fark.com/story/123457",
-      "source": "Fark",
-      "category": "Bureaucratic Farce"
-    },
-    {
-      "headline": "Florida man attempts to purchase groceries using laminated crayon drawing of currency",
-      "url": "https://reddit.com/r/floridaman/xyz2",
+      "headline": "Florida Man Attempts to Pay for Gas with Counterfeit Monopoly Money",
+      "url": "https://reddit.com/r/FloridaMan/xyz123",
       "source": "FloridaMan",
       "category": "Stupid Criminals"
     },
     {
-      "headline": "Kentucky inventor patents 'the wheel, but slightly oval'",
-      "url": "https://loweringthebar.net/xyz5",
-      "source": "LoweringTheBar",
-      "category": "Innovation"
+      "headline": "HOA Fines Family $10,000 for Painting House Two Shades Too Light",
+      "url": "https://fark.com/xyz125",
+      "source": "Fark",
+      "category": "Bureaucratic Farce"
     },
     {
-      "headline": "PERSON ARGUES WITH METEOROLOGIST THAT RAIN IS FAKE CGI",
-      "url": "https://reddit.com/r/facepalm/xyz9",
-      "source": "Facepalm",
-      "category": "Stupid Humans"
-    },
-    {
-      "headline": "Man loses staring contest with goose; loses possessions as well",
-      "url": "https://reddit.com/r/winstupidprizes/xyz10",
+      "headline": "MAN TRIES TO TEST GAS LEAK WITH LIT CIGARETTE",
+      "url": "https://reddit.com/r/winstupidprizes/xyz126",
       "source": "WinStupidPrizes",
-      "category": "Treadwell Moments"
+      "category": "Stupidity"
+    },
+    {
+      "headline": "Road Rage Driver Cuts Off Truck, Immediately Regrets Decision",
+      "url": "https://reddit.com/r/instantkarma/xyz127",
+      "source": "InstantKarma",
+      "category": "Instant Karma"
+    },
+    {
+      "headline": "Man Claims Einstein Was Wrong, Proposes Revolutionary Physics Theory via Reddit",
+      "url": "https://reddit.com/r/facepalm/xyz130",
+      "source": "Facepalm",
+      "category": "Dunning-Kruger"
+    },
+    {
+      "headline": "UNIVERSITY BANS SQUARE CUTTING OF SANDWICHES, REQUIRES DIAGONAL APPROACH",
+      "url": "https://reddit.com/r/nottheonion/xyz124",
+      "source": "NotTheOnion",
+      "category": "Bureaucratic Farce"
     }
   ],
   "campusWatch": [
     {
-      "headline": "Ivy League school adds emotional support peacock to mental health program",
-      "url": "https://thecollegefix.com/xyz6",
+      "headline": "Campus Bans Phrase 'Long Time' Due to Perceived Temporal Insensitivity",
+      "url": "https://thecollegefix.com/xyz128",
       "source": "CollegeFix",
-      "summary": "An unnamed prestigious university announced Gerald, a 6-year-old peacock, as the newest member of its mental health initiative. Students may pet Gerald during exam season, though he has bitten three students and destroyed $4,000 in textbooks."
+      "category": "Campus Absurdity"
     },
     {
-      "headline": "UC Berkeley eliminates pronouns to reduce cognitive load",
-      "url": "https://campusreform.org/xyz7",
+      "headline": "Diversity Hire Protests Create Campus Chaos, Demand 'More Diverse Hiring'",
+      "url": "https://campusreform.org/xyz129",
       "source": "CampusReform",
-      "summary": "A new campus-wide protocol requires all written communication to eliminate pronouns entirely, replaced by students' complete legal names. A 4,000-word essay assignment expanded to 8,000 words as a result."
+      "category": "Campus Politics"
     }
   ],
-  "treadwellCorner": [
-    {
-      "headline": "Florida man's attempt to educate alligator ends predictably",
-      "summary": "A 34-year-old Brevard County man discovered that a 9-foot alligator near a golf course 7th hole would not be receptive to behavioral correction, even when armed with a pool noodle. He was detained by authorities."
-    },
-    {
-      "headline": "Goose victorious in unexpected dominance contest",
-      "summary": "A public park visitor challenged a goose to a staring contest, believing himself superior in willpower. The encounter lasted 23 seconds and cost him three possessions and his dignity."
-    }
-  ],
+  "treadwellCorner": [],
   "misanthropeIndex": {
-    "value": 7.5,
+    "value": 7.0,
     "label": "Quite Disappointing",
     "scale": "Disappointing \u2014 Full Walken"
   },
