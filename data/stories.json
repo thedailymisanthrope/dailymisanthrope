@@ -1,75 +1,94 @@
 {
-  "lastUpdated": "2026-05-30T12:04:25.673303Z",
-  "edition": "Vol. I, No. 150 \u2014 Saturday, May 30, 2026",
+  "lastUpdated": "2026-05-31T12:03:32.452071Z",
+  "edition": "Vol. I, No. 151 — Sunday, May 31, 2026",
   "epigraph": {
-    "text": "Against stupidity, the gods themselves contend in vain",
-    "attribution": "Arthur Schopenhauer"
+    "text": "For every complex problem there is an answer that is clear, simple, and wrong.",
+    "attribution": "H.L. Mencken"
   },
   "follyOfTheDay": {
-    "headline": "Florida Man's Monopoly Gambit: A Currency of Questionable Legal Standing",
-    "summary": "In a display of economic acumen that would make Adam Smith weep, a 52-year-old Sarasota resident attempted to fuel his 1997 Honda Civic using five hundred dollars in counterfeit Monopoly money. The gentleman in question presented this vibrant, orange-backed currency with what witnesses describe as complete confidence in its legitimacy\u2014apparently laboring under the impression that Hasbro's play money enjoys the same legal standing as Federal Reserve notes.\n\nWhen the service station attendant expressed skepticism about the transaction, our intrepid motorist escalated into argumentation, insisting with remarkable resolve that the coins bearing cartoon images were 'perfectly legal tender.' The situation devolved into a standoff that ultimately required law enforcement intervention. Authorities charged him with fraud and conspiracy to defraud, crimes for which ignorance of currency law provides no recognized defense.\n\nThe incident raises profound questions about American civics education and the psychological distance some citizens maintain from empirical reality.",
-    "source": "FloridaMan",
-    "sourceUrl": "https://reddit.com/r/FloridaMan/xyz123",
+    "headline": "Robber's Incriminating Headwear Enables Hour-Long Manhunt",
+    "summary": "In a demonstration of criminal ingenuity so spectacularly compromised it borders on the theatrical, a Michigan convenience store robber selected the establishment's own security camera as his preferred haberdashery. Security footage documents his acquisition of several hundred dollars—and comprehensive photographic documentation of his every move—before his rapid apprehension. Police expressed bewilderment at the suspect's apparent belief that wearing the very technology designed to capture his likeness would somehow shield his identity. The camera, mounted securely atop his head in what witnesses described as a \"jaunty fashion,\" provided law enforcement with both angle and temporal data. The suspect was located and arrested within one hour of the incident. Store management confirmed all footage was recoverable.",
+    "source": "GoogleCriminals",
+    "sourceUrl": "https://example.com/3",
     "category": "Stupid Criminals",
-    "commentary": "A bold gambit, but the house always wins. Game over."
+    "commentary": "In the annals of criminal stupidity, few achievements rival the suspect who volunteered to document his own malfeasance with broadcast-quality resolution."
   },
   "stories": [
     {
-      "headline": "Florida Man Attempts to Pay for Gas with Counterfeit Monopoly Money",
-      "url": "https://reddit.com/r/FloridaMan/xyz123",
-      "source": "FloridaMan",
+      "headline": "Florida Man's Target Refund Gambit: The Alligator Gambit Fails",
+      "url": "https://example.com/1",
+      "source": "Fark",
       "category": "Stupid Criminals"
     },
     {
-      "headline": "HOA Fines Family $10,000 for Painting House Two Shades Too Light",
-      "url": "https://fark.com/xyz125",
-      "source": "Fark",
+      "headline": "CITY COUNCIL OUTLAWS BIRDS FROM PARKS, CITING NOISE AND DEFACEMENT",
+      "url": "https://example.com/7",
+      "source": "SmokingGun",
       "category": "Bureaucratic Farce"
     },
     {
-      "headline": "MAN TRIES TO TEST GAS LEAK WITH LIT CIGARETTE",
-      "url": "https://reddit.com/r/winstupidprizes/xyz126",
-      "source": "WinStupidPrizes",
-      "category": "Stupidity"
+      "headline": "Woman Seeks Damages from Starbucks for Coffee's Excessive Thermodynamic Enthusiasm",
+      "url": "https://example.com/8",
+      "source": "NYPostWeird",
+      "category": "Legal Absurdity"
     },
     {
-      "headline": "Road Rage Driver Cuts Off Truck, Immediately Regrets Decision",
-      "url": "https://reddit.com/r/instantkarma/xyz127",
+      "headline": "HOA IMPOSES $5,000 FINE FOR GRASS SURPASSING APPROVED VIRIDESCENCE QUOTA",
+      "url": "https://example.com/11",
+      "source": "GoogleHOA",
+      "category": "Bureaucratic Farce"
+    },
+    {
+      "headline": "Road Rage Incident Resolved When Aggressor Demonstrates Poor Curb Negotiation Skills",
+      "url": "https://example.com/12",
       "source": "InstantKarma",
-      "category": "Instant Karma"
+      "category": "Instant Justice"
     },
     {
-      "headline": "Man Claims Einstein Was Wrong, Proposes Revolutionary Physics Theory via Reddit",
-      "url": "https://reddit.com/r/facepalm/xyz130",
-      "source": "Facepalm",
-      "category": "Dunning-Kruger"
+      "headline": "Woman's Roadside Marsupial Acquisition Proves Biologically and Domestically Problematic",
+      "url": "https://example.com/14",
+      "source": "GoogleNature",
+      "category": "Treadwell Corner"
     },
     {
-      "headline": "UNIVERSITY BANS SQUARE CUTTING OF SANDWICHES, REQUIRES DIAGONAL APPROACH",
-      "url": "https://reddit.com/r/nottheonion/xyz124",
-      "source": "NotTheOnion",
+      "headline": "SENATOR ADVOCATES GASLIT GOVERNMENT: LIGHTBULBS BLAMED FOR ELECTROMAGNETIC MIND CONTROL",
+      "url": "https://example.com/15",
+      "source": "GooglePolitician",
       "category": "Bureaucratic Farce"
     }
   ],
   "campusWatch": [
     {
-      "headline": "Campus Bans Phrase 'Long Time' Due to Perceived Temporal Insensitivity",
-      "url": "https://thecollegefix.com/xyz128",
+      "headline": "UC Berkeley Bans Word 'Chief' From Campus Communications—Including Medical Terminology",
+      "url": "https://example.com/4",
       "source": "CollegeFix",
-      "category": "Campus Absurdity"
+      "category": "Academic Absurdity"
     },
     {
-      "headline": "Diversity Hire Protests Create Campus Chaos, Demand 'More Diverse Hiring'",
-      "url": "https://campusreform.org/xyz129",
+      "headline": "Duke University Replaces Thanksgiving with 'Ethically-Neutral Reciprocal Meal Experiences'",
+      "url": "https://example.com/5",
       "source": "CampusReform",
-      "category": "Campus Politics"
+      "category": "Academic Absurdity"
     }
   ],
-  "treadwellCorner": [],
+  "treadwellCorner": [
+    {
+      "headline": "Man Challenges Bear to Speed Competition at Yellowstone, Loses Decisively",
+      "url": "https://example.com/13",
+      "source": "WinStupidPrizes",
+      "category": "Nature's Verdict"
+    },
+    {
+      "headline": "Woman Adopts 'Cute Baby Kangaroo,' Discovers Wallaby Has Different Temperament",
+      "url": "https://example.com/14",
+      "source": "GoogleNature",
+      "category": "Nature's Verdict"
+    }
+  ],
   "misanthropeIndex": {
     "value": 7.0,
     "label": "Quite Disappointing",
-    "scale": "Disappointing \u2014 Full Walken"
+    "scale": "Disappointing — Full Walken"
   },
   "videoOfTheDay": null
 }
