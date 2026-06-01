@@ -1,94 +1,81 @@
 {
-  "lastUpdated": "2026-05-31T12:03:32.452071Z",
-  "edition": "Vol. I, No. 151 — Sunday, May 31, 2026",
+  "lastUpdated": "2026-06-01T12:04:24.393043Z",
+  "edition": "Vol. I, No. 152 — Monday, June 1, 2026",
   "epigraph": {
-    "text": "For every complex problem there is an answer that is clear, simple, and wrong.",
-    "attribution": "H.L. Mencken"
+    "text": "Cauliflower is nothing but cabbage with a college education.",
+    "attribution": "Mark Twain"
   },
   "follyOfTheDay": {
-    "headline": "Robber's Incriminating Headwear Enables Hour-Long Manhunt",
-    "summary": "In a demonstration of criminal ingenuity so spectacularly compromised it borders on the theatrical, a Michigan convenience store robber selected the establishment's own security camera as his preferred haberdashery. Security footage documents his acquisition of several hundred dollars—and comprehensive photographic documentation of his every move—before his rapid apprehension. Police expressed bewilderment at the suspect's apparent belief that wearing the very technology designed to capture his likeness would somehow shield his identity. The camera, mounted securely atop his head in what witnesses described as a \"jaunty fashion,\" provided law enforcement with both angle and temporal data. The suspect was located and arrested within one hour of the incident. Store management confirmed all footage was recoverable.",
-    "source": "GoogleCriminals",
-    "sourceUrl": "https://example.com/3",
-    "category": "Stupid Criminals",
-    "commentary": "In the annals of criminal stupidity, few achievements rival the suspect who volunteered to document his own malfeasance with broadcast-quality resolution."
+    "headline": "HOA Fines Homeowner $500 for Shadow That Wasn't Pre-Approved",
+    "summary": "A homeowners association in California has assessed a $500 fine against a resident for the shadow cast by his mailbox—a shadow which, according to board minutes, had not been submitted for aesthetic approval. The decision reflects a broader philosophy among HOA leadership that all shadows, being visible alterations to the community's visual landscape, require advance architectural review and directional certification. The board noted in its ruling that while the homeowner had permission to install the mailbox itself, he had failed to account for the photometric consequences of that installation. When the resident inquired whether he should also seek approval for his own shadow, he was told to \"not be difficult.\"",
+    "source": "GoogleHOA",
+    "sourceUrl": "https://news.google.com/hoa",
+    "category": "Bureaucratic Farce",
+    "commentary": "That the HOA was entirely serious, and that the resident paid, suggests both parties have given up on the concept of proportionality."
   },
   "stories": [
     {
-      "headline": "Florida Man's Target Refund Gambit: The Alligator Gambit Fails",
-      "url": "https://example.com/1",
-      "source": "Fark",
-      "category": "Stupid Criminals"
-    },
-    {
-      "headline": "CITY COUNCIL OUTLAWS BIRDS FROM PARKS, CITING NOISE AND DEFACEMENT",
-      "url": "https://example.com/7",
-      "source": "SmokingGun",
-      "category": "Bureaucratic Farce"
-    },
-    {
-      "headline": "Woman Seeks Damages from Starbucks for Coffee's Excessive Thermodynamic Enthusiasm",
-      "url": "https://example.com/8",
-      "source": "NYPostWeird",
+      "headline": "Woman Sues Neighbor for $50,000 Over 'Contemptuous Waving'",
+      "url": "https://reddit.com/r/nottheonion/wave",
+      "source": "NotTheOnion",
       "category": "Legal Absurdity"
     },
     {
-      "headline": "HOA IMPOSES $5,000 FINE FOR GRASS SURPASSING APPROVED VIRIDESCENCE QUOTA",
-      "url": "https://example.com/11",
+      "headline": "Man Files Noise Complaint Against His Own Wind Chimes",
+      "url": "https://www.fark.com/stories/1234567/man-files-noise-complaint",
+      "source": "Fark",
+      "category": "Bureaucratic Farce"
+    },
+    {
+      "headline": "BANK ROBBER LEAVES DETAILED INSTRUCTIONS FOR AUTHORITIES ON HOW TO CATCH HIM",
+      "url": "https://news.google.com/criminals",
+      "source": "GoogleCriminals",
+      "category": "Stupid Criminals"
+    },
+    {
+      "headline": "College Bans Students From Using the Word 'Unfortunately' in Campus Emails",
+      "url": "https://news.google.com/campus",
+      "source": "GoogleCampus",
+      "category": "Campus Watch"
+    },
+    {
+      "headline": "Counterfeiter Spends Six Months Perfecting Fake Bills, Uses Wrong Paper",
+      "url": "https://reddit.com/r/instantkarma/counterfeiter",
+      "source": "InstantKarma",
+      "category": "Stupid Criminals"
+    },
+    {
+      "headline": "HOA DEMANDS RESIDENT PAINT HER DOG TO MATCH NEIGHBORHOOD COLOR SCHEME",
+      "url": "https://news.google.com/hoa2",
       "source": "GoogleHOA",
       "category": "Bureaucratic Farce"
     },
     {
-      "headline": "Road Rage Incident Resolved When Aggressor Demonstrates Poor Curb Negotiation Skills",
-      "url": "https://example.com/12",
-      "source": "InstantKarma",
-      "category": "Instant Justice"
-    },
-    {
-      "headline": "Woman's Roadside Marsupial Acquisition Proves Biologically and Domestically Problematic",
-      "url": "https://example.com/14",
-      "source": "GoogleNature",
-      "category": "Treadwell Corner"
-    },
-    {
-      "headline": "SENATOR ADVOCATES GASLIT GOVERNMENT: LIGHTBULBS BLAMED FOR ELECTROMAGNETIC MIND CONTROL",
-      "url": "https://example.com/15",
-      "source": "GooglePolitician",
-      "category": "Bureaucratic Farce"
-    }
-  ],
-  "campusWatch": [
-    {
-      "headline": "UC Berkeley Bans Word 'Chief' From Campus Communications—Including Medical Terminology",
-      "url": "https://example.com/4",
-      "source": "CollegeFix",
-      "category": "Academic Absurdity"
-    },
-    {
-      "headline": "Duke University Replaces Thanksgiving with 'Ethically-Neutral Reciprocal Meal Experiences'",
-      "url": "https://example.com/5",
-      "source": "CampusReform",
-      "category": "Academic Absurdity"
-    }
-  ],
-  "treadwellCorner": [
-    {
-      "headline": "Man Challenges Bear to Speed Competition at Yellowstone, Loses Decisively",
-      "url": "https://example.com/13",
-      "source": "WinStupidPrizes",
-      "category": "Nature's Verdict"
-    },
-    {
-      "headline": "Woman Adopts 'Cute Baby Kangaroo,' Discovers Wallaby Has Different Temperament",
-      "url": "https://example.com/14",
-      "source": "GoogleNature",
-      "category": "Nature's Verdict"
+      "headline": "Florida man arrested after attempting to pay for groceries with Monopoly money",
+      "url": "https://reddit.com/r/FloridaMan/monopoly",
+      "source": "FloridaMan",
+      "category": "Stupid Criminals"
     }
   ],
   "misanthropeIndex": {
-    "value": 7.0,
-    "label": "Quite Disappointing",
-    "scale": "Disappointing — Full Walken"
+    "value": 8.0,
+    "label": "Approaching Full Walken",
+    "scale": "Merely Disappointing — Full Walken"
   },
+  "treadwellCorner": [],
+  "campusWatch": [
+    {
+      "headline": "University Creates 'Mandatory Joy' Workshop for Faculty Compliance Training",
+      "url": "https://thecollegefix.com/joy",
+      "source": "CollegeFix",
+      "category": "Campus Watch"
+    },
+    {
+      "headline": "Student Protests Mandatory Zoom Backgrounds as 'Oppressive Aesthetic Colonialism'",
+      "url": "https://news.google.com/campus2",
+      "source": "GoogleCampus",
+      "category": "Campus Watch"
+    }
+  ],
   "videoOfTheDay": null
 }
