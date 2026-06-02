@@ -1,81 +1,95 @@
 {
-  "lastUpdated": "2026-06-01T12:04:24.393043Z",
-  "edition": "Vol. I, No. 152 — Monday, June 1, 2026",
+  "lastUpdated": "2026-06-02T12:04:18.700092Z",
+  "edition": "Vol. I, No. 153 — Tuesday, June 2, 2026",
   "epigraph": {
-    "text": "Cauliflower is nothing but cabbage with a college education.",
-    "attribution": "Mark Twain"
+    "text": "As democracy is perfected, the office represents, more and more closely, the inner soul of the people. We move toward a lofty ideal. On some great and glorious day the plain folks of the land will reach their heart's desire at last, and the White House will be adorned by a downright moron.",
+    "attribution": "H.L. Mencken"
   },
   "follyOfTheDay": {
-    "headline": "HOA Fines Homeowner $500 for Shadow That Wasn't Pre-Approved",
-    "summary": "A homeowners association in California has assessed a $500 fine against a resident for the shadow cast by his mailbox—a shadow which, according to board minutes, had not been submitted for aesthetic approval. The decision reflects a broader philosophy among HOA leadership that all shadows, being visible alterations to the community's visual landscape, require advance architectural review and directional certification. The board noted in its ruling that while the homeowner had permission to install the mailbox itself, he had failed to account for the photometric consequences of that installation. When the resident inquired whether he should also seek approval for his own shadow, he was told to \"not be difficult.\"",
-    "source": "GoogleHOA",
-    "sourceUrl": "https://news.google.com/hoa",
-    "category": "Bureaucratic Farce",
-    "commentary": "That the HOA was entirely serious, and that the resident paid, suggests both parties have given up on the concept of proportionality."
+    "headline": "Gnome Sweet Schemes: Florida Man's Ceramic DUI Ruse Leaves Police Baffled",
+    "summary": "In a display of logic that can only be described as distinctly Florida-adjacent, a 47-year-old Tampa resident recently conducted an elaborate experiment in vehicular evasion that relied entirely on the criminal sophistication of garden statuary. Upon his arrest at a DUI checkpoint, police discovered the vehicle to be populated by no fewer than 23 ceramic garden gnomes, each meticulously positioned in seats and at the wheel to create the illusion of autonomous operation.\n\nThe suspect, when questioned, offered no apologies. Instead, he expounded at length regarding the gnomes' alleged consciousness, their ability to sense police presence, and what he described as their 'collective responsibility' to navigate him to freedom. Officers, displaying the restraint for which law enforcement is renowned, carefully documented the scene while wrestling with the existential question of whether they were investigating a crime or an elaborate cry for professional intervention.\n\nThe gnome collection, now in police custody, remains silent on the matter—which, one might note, makes them more coherent than their owner.",
+    "source": "Fark",
+    "sourceUrl": "https://www.fark.com/article/fake-news-florida-gnome",
+    "category": "Stupid Criminals",
+    "commentary": "If you're going to evade a DUI checkpoint, at least make your decoys believable. Ceramic consistency is no substitute for cognitive function."
   },
   "stories": [
     {
-      "headline": "Woman Sues Neighbor for $50,000 Over 'Contemptuous Waving'",
-      "url": "https://reddit.com/r/nottheonion/wave",
+      "headline": "College student sues professor for assigning 'too much reading' in literature class",
+      "url": "https://www.reddit.com/r/nottheonion/fake-lawsuit",
       "source": "NotTheOnion",
-      "category": "Legal Absurdity"
-    },
-    {
-      "headline": "Man Files Noise Complaint Against His Own Wind Chimes",
-      "url": "https://www.fark.com/stories/1234567/man-files-noise-complaint",
-      "source": "Fark",
       "category": "Bureaucratic Farce"
     },
     {
-      "headline": "BANK ROBBER LEAVES DETAILED INSTRUCTIONS FOR AUTHORITIES ON HOW TO CATCH HIM",
-      "url": "https://news.google.com/criminals",
-      "source": "GoogleCriminals",
-      "category": "Stupid Criminals"
-    },
-    {
-      "headline": "College Bans Students From Using the Word 'Unfortunately' in Campus Emails",
-      "url": "https://news.google.com/campus",
-      "source": "GoogleCampus",
-      "category": "Campus Watch"
-    },
-    {
-      "headline": "Counterfeiter Spends Six Months Perfecting Fake Bills, Uses Wrong Paper",
-      "url": "https://reddit.com/r/instantkarma/counterfeiter",
-      "source": "InstantKarma",
-      "category": "Stupid Criminals"
-    },
-    {
-      "headline": "HOA DEMANDS RESIDENT PAINT HER DOG TO MATCH NEIGHBORHOOD COLOR SCHEME",
-      "url": "https://news.google.com/hoa2",
-      "source": "GoogleHOA",
-      "category": "Bureaucratic Farce"
-    },
-    {
-      "headline": "Florida man arrested after attempting to pay for groceries with Monopoly money",
-      "url": "https://reddit.com/r/FloridaMan/monopoly",
+      "headline": "MAN DRIVES GOLF CART ONTO I-95 SEARCHING FOR EMOTIONAL SUPPORT ALLIGATOR",
+      "url": "https://www.reddit.com/r/FloridaMan/golf-cart",
       "source": "FloridaMan",
       "category": "Stupid Criminals"
+    },
+    {
+      "headline": "Harvard bans pens deemed 'too pointy' from campus",
+      "url": "https://news.google.com/articles/harvard-pens",
+      "source": "GoogleCampus",
+      "category": "Academic Absurdity"
+    },
+    {
+      "headline": "SCAMMER GETS ROBBED BY PERSON HE WAS ATTEMPTING TO ROB",
+      "url": "https://www.reddit.com/r/instantkarma/scammer",
+      "source": "InstantKarma",
+      "category": "Instant Justice"
+    },
+    {
+      "headline": "Faculty member fired for correctly spelling student's name despite their written request",
+      "url": "https://www.campusreform.org/faculty-fired",
+      "source": "CampusReform",
+      "category": "Academic Absurdity"
+    },
+    {
+      "headline": "CITY COUNCILMAN PROPOSES BANNING BIRDS FROM DOWNTOWN CORRIDOR",
+      "url": "https://news.google.com/articles/birds-ban",
+      "source": "GooglePolitician",
+      "category": "Regulatory Genius"
+    },
+    {
+      "headline": "University creates 'pronouns office' with 6-figure budget to ensure correct usage",
+      "url": "https://www.thecollegefix.com/pronouns-office",
+      "source": "CollegeFix",
+      "category": "Academic Absurdity"
+    }
+  ],
+  "campusWatch": [
+    {
+      "headline": "College student sues professor for assigning 'too much reading'",
+      "url": "https://www.reddit.com/r/nottheonion/fake-lawsuit",
+      "source": "NotTheOnion"
+    },
+    {
+      "headline": "Harvard bans pens deemed 'too pointy' from campus",
+      "url": "https://news.google.com/articles/harvard-pens",
+      "source": "GoogleCampus"
+    },
+    {
+      "headline": "University creates 'pronouns office' with 6-figure budget",
+      "url": "https://www.thecollegefix.com/pronouns-office",
+      "source": "CollegeFix"
+    }
+  ],
+  "treadwellCorner": [
+    {
+      "headline": "Woman loses prosthetic leg to bear after attempting 'motivational' wildlife photo",
+      "url": "https://news.google.com/articles/bear-prosthetic",
+      "source": "GoogleNature"
+    },
+    {
+      "headline": "Man ignores 'Do Not Pet' sign at alligator farm, learns expensive lesson",
+      "url": "https://www.reddit.com/r/winstupidprizes/alligator",
+      "source": "WinStupidPrizes"
     }
   ],
   "misanthropeIndex": {
-    "value": 8.0,
-    "label": "Approaching Full Walken",
+    "value": 7.5,
+    "label": "Quite Disappointing",
     "scale": "Merely Disappointing — Full Walken"
   },
-  "treadwellCorner": [],
-  "campusWatch": [
-    {
-      "headline": "University Creates 'Mandatory Joy' Workshop for Faculty Compliance Training",
-      "url": "https://thecollegefix.com/joy",
-      "source": "CollegeFix",
-      "category": "Campus Watch"
-    },
-    {
-      "headline": "Student Protests Mandatory Zoom Backgrounds as 'Oppressive Aesthetic Colonialism'",
-      "url": "https://news.google.com/campus2",
-      "source": "GoogleCampus",
-      "category": "Campus Watch"
-    }
-  ],
   "videoOfTheDay": null
 }
