@@ -1,86 +1,84 @@
 {
-  "lastUpdated": "2026-06-03T12:04:32.952542Z",
-  "edition": "Vol. I, No. 154 — Wednesday, June 3, 2026",
+  "lastUpdated": "2026-06-04T12:04:10.525748Z",
+  "edition": "Vol. I, No. 155 \u2014 Thursday, June 4, 2026",
   "epigraph": {
     "text": "Democracy is the theory that the common people know what they want, and deserve to get it good and hard.",
     "attribution": "H.L. Mencken"
   },
   "follyOfTheDay": {
-    "headline": "City Council Votes to Ban the Color Beige",
-    "summary": "In what can only be described as an assault on chromatic freedom, a California city council voted unanimously to prohibit the use of beige paint on all commercial storefronts, threatening $500 daily fines for violations. The measure was sponsored by a council member who characterized the color as 'an affront to urban aesthetics and a gateway hue to mediocrity.' Local business owners, many of whom have invested considerable sums in existing beige facades, were given thirty days to repaint or face citation. The mayor declared the ordinance 'a bold statement about what we, as a community, will and will not tolerate'—a sentiment that might be more compelling were it directed toward issues of material consequence.",
-    "source": "SmokingGun",
-    "sourceUrl": "https://example.com/beige-ban",
+    "headline": "HOA Fines Resident $1000/Day for Taupe Betrayal",
+    "summary": "What began as a simple desire to repaint one's domicile in beige\u2014a color roughly as adventurous as oatmeal\u2014has blossomed into a monetary hemorrhage of apocalyptic proportions. A homeowners' association in an undisclosed subdivision has levied fines of one thousand dollars per diem upon a hapless resident whose choice of exterior paint strayed from the officially sanctioned taupe. The resident, faced with geometrically increasing debt and armed only with the knowledge that beige and taupe are, to the human eye, essentially indistinguishable, has taken their tormentors to court. This represents the apotheosis of suburban governance: the transformation of paint swatches into instruments of financial ruin. The HOA's response remains unmoved\u2014their bylaws, they insist, are unambiguous, however much natural human perception might suggest otherwise.",
+    "source": "Fark",
+    "sourceUrl": "https://www.fark.com/example4",
     "category": "Bureaucratic Farce",
-    "commentary": "Nothing says civilizational progress like municipal color-policing. One wonders what hue they'll criminalize next."
+    "commentary": "When homeowners' associations begin waging economic warfare over paint nomenclature, one must wonder if democracy itself has simply lost interest in the proceedings."
   },
   "stories": [
     {
-      "headline": "Florida man cited for attempting to fish with fireworks",
-      "url": "https://example.com/florida-fish",
-      "source": "FloridaMan",
-      "category": "Stupid Criminals"
+      "headline": "Florida Man Arrested After Attempting to Pay for McDonald's with Bag of Weed",
+      "url": "https://www.reddit.com/r/nottheonion/example2",
+      "source": "NotTheOnion",
+      "category": "Monetary Innovation"
     },
     {
-      "headline": "Woman sues her cat for emotional damages after week of silence",
-      "url": "https://example.com/cat-lawsuit",
+      "headline": "Squirrel Heists Pizza from Delivery Driver in Central Park",
+      "url": "https://nypost.com/example5",
       "source": "NYPostWeird",
+      "category": "Wildlife Intervention"
+    },
+    {
+      "headline": "JUDGE ORDERS DEFENDANT TO STOP USING INTERNET SLANG IN COURT FILINGS",
+      "url": "https://loweringthebar.net/example6",
+      "source": "LoweringTheBar",
       "category": "Legal Absurdity"
     },
     {
-      "headline": "MAN ARRESTED AFTER ATTEMPTING TO PAY FOR MCDONALD'S WITH HAND-DRAWN CHECK",
-      "url": "https://example.com/mcdonalds-check",
-      "source": "Fark",
-      "category": "Stupid Criminals"
+      "headline": "Cyclist runs red light, immediately regrets his choices",
+      "url": "https://www.reddit.com/r/instantkarma/example9",
+      "source": "InstantKarma",
+      "category": "Instant Consequences"
     },
     {
-      "headline": "University bans the word 'illegal' from all campus communications",
-      "url": "https://example.com/university-ban",
-      "source": "NotTheOnion",
-      "category": "Campus Absurdity"
+      "headline": "Man demands refund on 'broken' sunglasses because they don't work at night",
+      "url": "https://www.reddit.com/r/facepalm/example8",
+      "source": "Facepalm",
+      "category": "Physics Denial"
     },
     {
-      "headline": "HOA fines family $50 daily for maintaining lawn in wrong shade of green",
-      "url": "https://example.com/hoa-green",
-      "source": "LoweringTheBar",
-      "category": "Bureaucratic Farce"
-    },
-    {
-      "headline": "UNIVERSITY CREATES DEDICATED 'MICROAGGRESSION RESPONSE TEAM' TO PATROL CAMPUS",
-      "url": "https://example.com/microagg-team",
-      "source": "CampusReform",
-      "category": "Campus Absurdity"
-    },
-    {
-      "headline": "Content creator hospitalized after botched freeway overpass jump for TikTok",
-      "url": "https://example.com/tiktok-jump",
+      "headline": "MAN TRIES TO PROVE HE CAN'T BE HURT BY LIGHTNING, BECOMES PRIZE WINNER",
+      "url": "https://www.reddit.com/r/winstupidprizes/example10",
       "source": "WinStupidPrizes",
-      "category": "Stupid Humans"
+      "category": "Hubris Award"
     },
     {
-      "headline": "Man accidentally hires chicken as company social media manager via autocomplete error",
-      "url": "https://example.com/chicken-manager",
-      "source": "TIFU",
-      "category": "Stupid Humans"
+      "headline": "Woman Rides Alligator for Instagram Photos",
+      "url": "https://www.reddit.com/r/FloridaMan/example3",
+      "source": "FloridaMan",
+      "category": "Content Creator Ambition"
     }
   ],
   "misanthropeIndex": {
-    "value": 7.0,
+    "value": 7.5,
     "label": "Quite Disappointing",
-    "scale": "Disappointing — Full Walken"
+    "scale": "Disappointing \u2014 Full Walken"
   },
-  "treadwellCorner": [],
   "campusWatch": [
     {
-      "headline": "College removes all chairs from library to promote standing",
-      "url": "https://example.com/no-chairs",
-      "source": "CollegeFix",
-      "category": "Campus Absurdity"
+      "headline": "University Eliminates Midterms to Reduce Student Stress",
+      "url": "https://www.thecollegefix.com/example11",
+      "source": "CollegeFix"
     },
     {
-      "headline": "UNIVERSITY CREATES DEDICATED 'MICROAGGRESSION RESPONSE TEAM' TO PATROL CAMPUS",
-      "url": "https://example.com/microagg-team",
-      "source": "CampusReform",
-      "category": "Campus Absurdity"
+      "headline": "Student Protests Mandatory Diversity Training, Files Lawsuit",
+      "url": "https://www.campusreform.org/example12",
+      "source": "CampusReform"
+    }
+  ],
+  "treadwellCorner": [
+    {
+      "headline": "Squirrel Makes Off with Pizza in Bold Daylight Heist",
+      "url": "https://nypost.com/example5",
+      "source": "NYPostWeird"
     }
   ],
   "videoOfTheDay": null
