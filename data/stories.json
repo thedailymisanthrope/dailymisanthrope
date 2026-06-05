@@ -1,85 +1,82 @@
 {
-  "lastUpdated": "2026-06-04T12:04:10.525748Z",
-  "edition": "Vol. I, No. 155 \u2014 Thursday, June 4, 2026",
+  "lastUpdated": "2026-06-05T12:04:18.415555Z",
+  "edition": "Vol. I, No. 156 — Friday, June 5, 2026",
   "epigraph": {
-    "text": "Democracy is the theory that the common people know what they want, and deserve to get it good and hard.",
-    "attribution": "H.L. Mencken"
+    "text": "The truth is rarely pure and never simple.",
+    "attribution": "Oscar Wilde"
   },
   "follyOfTheDay": {
-    "headline": "HOA Fines Resident $1000/Day for Taupe Betrayal",
-    "summary": "What began as a simple desire to repaint one's domicile in beige\u2014a color roughly as adventurous as oatmeal\u2014has blossomed into a monetary hemorrhage of apocalyptic proportions. A homeowners' association in an undisclosed subdivision has levied fines of one thousand dollars per diem upon a hapless resident whose choice of exterior paint strayed from the officially sanctioned taupe. The resident, faced with geometrically increasing debt and armed only with the knowledge that beige and taupe are, to the human eye, essentially indistinguishable, has taken their tormentors to court. This represents the apotheosis of suburban governance: the transformation of paint swatches into instruments of financial ruin. The HOA's response remains unmoved\u2014their bylaws, they insist, are unambiguous, however much natural human perception might suggest otherwise.",
-    "source": "Fark",
-    "sourceUrl": "https://www.fark.com/example4",
+    "headline": "HOA Fine: $15,000 for 'Excessively Yellow' Beige",
+    "summary": "A Florida homeowners association has levied a five-figure fine against a resident whose choice of door paint—Sherwin-Williams 'Accessible Beige'—deviated from community standards by what the standards committee determined to be an intolerable 47 shades in the wrong direction. The defendant, armed with expert testimony that the colors were, to the naked eye, identical, was nevertheless overruled. The association's legal representative maintained that the distinction was 'perfectly obvious to anyone with functioning taste and a spectrometer.' The case is pending appeal, which the HOA has already begun charging compound interest upon.\n\nThis incident stands as a monument to the principle that in bureaucratic disputes, the preponderance of evidence matters less than the preponderance of self-righteousness. The homeowner now understands what philosophers have long suspected: that the law, in its majesty, protects neither the rich nor the poor equally, but rather those with the most time to attend monthly meetings.",
+    "source": "NotTheOnion",
+    "sourceUrl": "https://reddit.com/r/nottheonion/hoa-beige",
     "category": "Bureaucratic Farce",
-    "commentary": "When homeowners' associations begin waging economic warfare over paint nomenclature, one must wonder if democracy itself has simply lost interest in the proceedings."
+    "commentary": "Democracy dies not with a bang, but with a paint swatch."
   },
   "stories": [
     {
-      "headline": "Florida Man Arrested After Attempting to Pay for McDonald's with Bag of Weed",
-      "url": "https://www.reddit.com/r/nottheonion/example2",
-      "source": "NotTheOnion",
-      "category": "Monetary Innovation"
+      "headline": "Man Robs Gas Station With Spatula, Insists on Pancakes",
+      "url": "https://news.google.com/spatula-robbery",
+      "source": "GoogleCriminals",
+      "category": "Stupid Criminals"
     },
     {
-      "headline": "Squirrel Heists Pizza from Delivery Driver in Central Park",
-      "url": "https://nypost.com/example5",
-      "source": "NYPostWeird",
-      "category": "Wildlife Intervention"
+      "headline": "HOA President Escalates War on Grass, Demands Pantone Compliance",
+      "url": "https://news.google.com/hoa-grass",
+      "source": "GoogleHOA",
+      "category": "Bureaucratic Farce"
     },
     {
-      "headline": "JUDGE ORDERS DEFENDANT TO STOP USING INTERNET SLANG IN COURT FILINGS",
-      "url": "https://loweringthebar.net/example6",
-      "source": "LoweringTheBar",
+      "headline": "MAN ATTEMPTS TO PAY TRAFFIC TICKET WITH MONOPOLY MONEY",
+      "url": "https://reddit.com/r/FloridaMan/monopoly",
+      "source": "FloridaMan",
       "category": "Legal Absurdity"
     },
     {
-      "headline": "Cyclist runs red light, immediately regrets his choices",
-      "url": "https://www.reddit.com/r/instantkarma/example9",
-      "source": "InstantKarma",
-      "category": "Instant Consequences"
-    },
-    {
-      "headline": "Man demands refund on 'broken' sunglasses because they don't work at night",
-      "url": "https://www.reddit.com/r/facepalm/example8",
+      "headline": "Investor Loses $3,200 on 'NFT' That Is Literally a Screenshot",
+      "url": "https://reddit.com/r/facepalm/nft",
       "source": "Facepalm",
-      "category": "Physics Denial"
+      "category": "Financial Stupidity"
     },
     {
-      "headline": "MAN TRIES TO PROVE HE CAN'T BE HURT BY LIGHTNING, BECOMES PRIZE WINNER",
-      "url": "https://www.reddit.com/r/winstupidprizes/example10",
-      "source": "WinStupidPrizes",
-      "category": "Hubris Award"
+      "headline": "Man Attempts Restaurant Kitchen Seduction, Summons Hazmat Team",
+      "url": "https://reddit.com/r/tifu/cooking",
+      "source": "TIFU",
+      "category": "Personal Disaster"
     },
     {
-      "headline": "Woman Rides Alligator for Instagram Photos",
-      "url": "https://www.reddit.com/r/FloridaMan/example3",
-      "source": "FloridaMan",
-      "category": "Content Creator Ambition"
+      "headline": "FLORIDA MAN ORDERS PIZZA TO POLICE STATION, GETS ARRESTED INSTEAD",
+      "url": "https://www.fark.com/pizza-arrest",
+      "source": "Fark",
+      "category": "Criminal Logic"
     }
   ],
-  "misanthropeIndex": {
-    "value": 7.5,
-    "label": "Quite Disappointing",
-    "scale": "Disappointing \u2014 Full Walken"
-  },
   "campusWatch": [
     {
-      "headline": "University Eliminates Midterms to Reduce Student Stress",
-      "url": "https://www.thecollegefix.com/example11",
-      "source": "CollegeFix"
+      "headline": "University Bans 'Crazy,' Approves 'Unhinged' as Inclusive Alternative",
+      "url": "https://thecollegefix.com/crazy-ban",
+      "source": "CollegeFix",
+      "category": "Campus Absurdity"
     },
     {
-      "headline": "Student Protests Mandatory Diversity Training, Files Lawsuit",
-      "url": "https://www.campusreform.org/example12",
-      "source": "CampusReform"
+      "headline": "COLLEGE MANDATES PRONOUNS FOR INANIMATE DORM FURNITURE",
+      "url": "https://campusreform.org/furniture-pronouns",
+      "source": "CampusReform",
+      "category": "Campus Absurdity"
     }
   ],
   "treadwellCorner": [
     {
-      "headline": "Squirrel Makes Off with Pizza in Bold Daylight Heist",
-      "url": "https://nypost.com/example5",
-      "source": "NYPostWeird"
+      "headline": "Alligator Defeats Luxury Vehicle in Game of Chicken on I-95",
+      "url": "https://news.google.com/alligator-car",
+      "source": "GoogleNature",
+      "category": "Nature Wins"
     }
   ],
+  "misanthropeIndex": {
+    "value": 7.2,
+    "label": "Quite Disappointing",
+    "scale": "Merely Disappointing — Full Walken"
+  },
   "videoOfTheDay": null
 }
