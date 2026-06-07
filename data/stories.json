@@ -1,82 +1,69 @@
 {
-  "lastUpdated": "2026-06-05T12:04:18.415555Z",
-  "edition": "Vol. I, No. 156 — Friday, June 5, 2026",
+  "lastUpdated": "2026-06-07T12:04:55.492920Z",
+  "edition": "Vol. I, No. 158 — Sunday, June 7, 2026",
   "epigraph": {
-    "text": "The truth is rarely pure and never simple.",
-    "attribution": "Oscar Wilde"
+    "text": "No one ever went broke underestimating the intelligence of the American public.",
+    "attribution": "H.L. Mencken"
   },
   "follyOfTheDay": {
-    "headline": "HOA Fine: $15,000 for 'Excessively Yellow' Beige",
-    "summary": "A Florida homeowners association has levied a five-figure fine against a resident whose choice of door paint—Sherwin-Williams 'Accessible Beige'—deviated from community standards by what the standards committee determined to be an intolerable 47 shades in the wrong direction. The defendant, armed with expert testimony that the colors were, to the naked eye, identical, was nevertheless overruled. The association's legal representative maintained that the distinction was 'perfectly obvious to anyone with functioning taste and a spectrometer.' The case is pending appeal, which the HOA has already begun charging compound interest upon.\n\nThis incident stands as a monument to the principle that in bureaucratic disputes, the preponderance of evidence matters less than the preponderance of self-righteousness. The homeowner now understands what philosophers have long suspected: that the law, in its majesty, protects neither the rich nor the poor equally, but rather those with the most time to attend monthly meetings.",
-    "source": "NotTheOnion",
-    "sourceUrl": "https://reddit.com/r/nottheonion/hoa-beige",
-    "category": "Bureaucratic Farce",
-    "commentary": "Democracy dies not with a bang, but with a paint swatch."
+    "headline": "Golden Retriever Runs Up $847 Amazon Tab on Alexa",
+    "summary": "A Colorado dog owner awoke to discover his golden retriever had been channeling his inner-consumer, utilizing voice-activated Amazon shopping to accumulate premium dog food, organic biscuits, and what can only be described as luxury pet bedding. The canine entrepreneur, whose methods remain inscrutable to behavioral science, had apparently developed an affinity for the Alexa voice command interface with the sophistication of a four-year-old with access to a credit card.\n\nPet behaviorists have been consulted. They offer no explanation. Amazon has declined to comment on whether this represents a new market demographic. The dog continues to listen for Alexa with what witnesses describe as a disturbing level of intent.",
+    "source": "Fark",
+    "sourceUrl": "https://www.fark.com/example",
+    "category": "Domestic Absurdity",
+    "commentary": "Amazon's algorithm has finally found its most reliable customer: one with no impulse control and a tail."
   },
   "stories": [
     {
-      "headline": "Man Robs Gas Station With Spatula, Insists on Pancakes",
-      "url": "https://news.google.com/spatula-robbery",
+      "headline": "Florida Woman Attempts to Pay Speeding Ticket with Homemade Moonshine",
+      "url": "https://reddit.com/r/nottheonion/example1",
+      "source": "NotTheOnion",
+      "category": "Legal Absurdity"
+    },
+    {
+      "headline": "MAN ROBS GAS STATION USING ONLY A PRINTED SCREENSHOT OF A GUN",
+      "url": "https://news.google.com/example",
       "source": "GoogleCriminals",
       "category": "Stupid Criminals"
     },
     {
-      "headline": "HOA President Escalates War on Grass, Demands Pantone Compliance",
-      "url": "https://news.google.com/hoa-grass",
-      "source": "GoogleHOA",
-      "category": "Bureaucratic Farce"
+      "headline": "CEO Accidentally Sends Company-Wide Email Calling Board Members 'Incompetent Fossils'",
+      "url": "https://reddit.com/r/facepalm/example",
+      "source": "Facepalm",
+      "category": "Corporate Farce"
     },
     {
-      "headline": "MAN ATTEMPTS TO PAY TRAFFIC TICKET WITH MONOPOLY MONEY",
-      "url": "https://reddit.com/r/FloridaMan/monopoly",
-      "source": "FloridaMan",
+      "headline": "Man Sues Airline for $5M Over Alleged Psychic Reading Damage",
+      "url": "https://loweringthebar.net/example",
+      "source": "LoweringTheBar",
       "category": "Legal Absurdity"
     },
     {
-      "headline": "Investor Loses $3,200 on 'NFT' That Is Literally a Screenshot",
-      "url": "https://reddit.com/r/facepalm/nft",
-      "source": "Facepalm",
-      "category": "Financial Stupidity"
-    },
-    {
-      "headline": "Man Attempts Restaurant Kitchen Seduction, Summons Hazmat Team",
-      "url": "https://reddit.com/r/tifu/cooking",
+      "headline": "I ACCIDENTALLY BOUGHT A LLAMA AT AN AUCTION MEANT FOR APPLIANCES",
+      "url": "https://reddit.com/r/tifu/example",
       "source": "TIFU",
-      "category": "Personal Disaster"
+      "category": "Personal Catastrophe"
     },
     {
-      "headline": "FLORIDA MAN ORDERS PIZZA TO POLICE STATION, GETS ARRESTED INSTEAD",
-      "url": "https://www.fark.com/pizza-arrest",
-      "source": "Fark",
-      "category": "Criminal Logic"
-    }
-  ],
-  "campusWatch": [
-    {
-      "headline": "University Bans 'Crazy,' Approves 'Unhinged' as Inclusive Alternative",
-      "url": "https://thecollegefix.com/crazy-ban",
-      "source": "CollegeFix",
-      "category": "Campus Absurdity"
-    },
-    {
-      "headline": "COLLEGE MANDATES PRONOUNS FOR INANIMATE DORM FURNITURE",
-      "url": "https://campusreform.org/furniture-pronouns",
-      "source": "CampusReform",
-      "category": "Campus Absurdity"
-    }
-  ],
-  "treadwellCorner": [
-    {
-      "headline": "Alligator Defeats Luxury Vehicle in Game of Chicken on I-95",
-      "url": "https://news.google.com/alligator-car",
-      "source": "GoogleNature",
-      "category": "Nature Wins"
+      "headline": "Man Challenges Stranger to See Who Can Drink Paint Thinner Longer",
+      "url": "https://reddit.com/r/winstupidprizes/example",
+      "source": "WinStupidPrizes",
+      "category": "Stupid Bets"
     }
   ],
   "misanthropeIndex": {
-    "value": 7.2,
+    "value": 7.5,
     "label": "Quite Disappointing",
     "scale": "Merely Disappointing — Full Walken"
   },
+  "treadwellCorner": [],
+  "campusWatch": [
+    {
+      "headline": "University Bans Unisex Bathroom, Students Demand Administrative Scalp",
+      "url": "https://thecollegefix.com/example",
+      "source": "CollegeFix",
+      "category": "Campus Absurdity"
+    }
+  ],
   "videoOfTheDay": null
 }
