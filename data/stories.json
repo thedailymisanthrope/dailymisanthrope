@@ -1,69 +1,75 @@
 {
-  "lastUpdated": "2026-06-07T12:04:55.492920Z",
-  "edition": "Vol. I, No. 158 — Sunday, June 7, 2026",
+  "lastUpdated": "2026-06-08T12:06:04.483329Z",
+  "edition": "Vol. I, No. 159 — Monday, June 8, 2026",
   "epigraph": {
-    "text": "No one ever went broke underestimating the intelligence of the American public.",
+    "text": "For every problem there is a solution that is simple, neat, and wrong.",
     "attribution": "H.L. Mencken"
   },
   "follyOfTheDay": {
-    "headline": "Golden Retriever Runs Up $847 Amazon Tab on Alexa",
-    "summary": "A Colorado dog owner awoke to discover his golden retriever had been channeling his inner-consumer, utilizing voice-activated Amazon shopping to accumulate premium dog food, organic biscuits, and what can only be described as luxury pet bedding. The canine entrepreneur, whose methods remain inscrutable to behavioral science, had apparently developed an affinity for the Alexa voice command interface with the sophistication of a four-year-old with access to a credit card.\n\nPet behaviorists have been consulted. They offer no explanation. Amazon has declined to comment on whether this represents a new market demographic. The dog continues to listen for Alexa with what witnesses describe as a disturbing level of intent.",
-    "source": "Fark",
-    "sourceUrl": "https://www.fark.com/example",
-    "category": "Domestic Absurdity",
-    "commentary": "Amazon's algorithm has finally found its most reliable customer: one with no impulse control and a tail."
+    "headline": "Lawyer Sues Gravity for $8 Million in Damages",
+    "summary": "A personal injury attorney in Albuquerque filed suit against gravity itself, alleging negligent design and reckless disregard for human safety. The complaint, spanning forty-seven pages and citing Newton's work as evidence of the defendant's \"dangerous and outdated\" operational model, seeks damages including medical expenses, lost wages, and punitive damages for \"persistent and malicious downward acceleration.\"\n\nThe court has not yet determined whether to serve the defendant, though legal scholars note that gravity's presence everywhere may constitute adequate notice. A spokesperson for the defendant—if gravity could be said to have a spokesperson—could not be reached for comment.",
+    "source": "Facepalm",
+    "sourceUrl": "https://example.com/gravity",
+    "category": "Legal Absurdity",
+    "commentary": "When Nature becomes a tort defendant, the judicial system has achieved true comedy."
   },
   "stories": [
     {
-      "headline": "Florida Woman Attempts to Pay Speeding Ticket with Homemade Moonshine",
-      "url": "https://reddit.com/r/nottheonion/example1",
-      "source": "NotTheOnion",
-      "category": "Legal Absurdity"
+      "headline": "Man Attempts to Trade Alligator for Lottery Ticket",
+      "url": "https://example.com/gator",
+      "source": "FloridaMan",
+      "category": "Stupid Criminals"
     },
     {
-      "headline": "MAN ROBS GAS STATION USING ONLY A PRINTED SCREENSHOT OF A GUN",
-      "url": "https://news.google.com/example",
+      "headline": "Instagram Influencer Discovers Cliff During Live Stream",
+      "url": "https://example.com/cliff",
+      "source": "WinStupidPrizes",
+      "category": "Digital Age Stupidity"
+    },
+    {
+      "headline": "BURGLAR ARRESTED AFTER LEAVING DETAILED NOTES FOR HOMEOWNER",
+      "url": "https://example.com/notes",
       "source": "GoogleCriminals",
       "category": "Stupid Criminals"
     },
     {
-      "headline": "CEO Accidentally Sends Company-Wide Email Calling Board Members 'Incompetent Fossils'",
-      "url": "https://reddit.com/r/facepalm/example",
-      "source": "Facepalm",
-      "category": "Corporate Farce"
+      "headline": "Road Rage Driver's Brake Failure Perfectly Timed",
+      "url": "https://example.com/brakes",
+      "source": "InstantKarma",
+      "category": "Poetic Justice"
     },
     {
-      "headline": "Man Sues Airline for $5M Over Alleged Psychic Reading Damage",
-      "url": "https://loweringthebar.net/example",
-      "source": "LoweringTheBar",
-      "category": "Legal Absurdity"
+      "headline": "HOA PRESIDENT DEMANDS NEIGHBORS PAINT GRASS DARKER GREEN",
+      "url": "https://example.com/grass",
+      "source": "GoogleHOA",
+      "category": "Bureaucratic Farce"
     },
     {
-      "headline": "I ACCIDENTALLY BOUGHT A LLAMA AT AN AUCTION MEANT FOR APPLIANCES",
-      "url": "https://reddit.com/r/tifu/example",
-      "source": "TIFU",
-      "category": "Personal Catastrophe"
+      "headline": "Woman Teaches Dog to File Tax Returns",
+      "url": "https://example.com/taxes",
+      "source": "NYPostWeird",
+      "category": "Absurdist Living"
     },
     {
-      "headline": "Man Challenges Stranger to See Who Can Drink Paint Thinner Longer",
-      "url": "https://reddit.com/r/winstupidprizes/example",
-      "source": "WinStupidPrizes",
-      "category": "Stupid Bets"
+      "headline": "City Council Debates Whether Pigeons Have Right to Vote",
+      "url": "https://example.com/pigeons",
+      "source": "NotTheOnion",
+      "category": "Bureaucratic Farce"
     }
   ],
+  "campusWatch": [
+    {
+      "headline": "University Creates Department to Study the Department of Department Studies",
+      "url": "https://example.com/dept",
+      "source": "CollegeFix",
+      "category": "Higher Education Dysfunction"
+    }
+  ],
+  "treadwellCorner": [],
   "misanthropeIndex": {
     "value": 7.5,
     "label": "Quite Disappointing",
     "scale": "Merely Disappointing — Full Walken"
   },
-  "treadwellCorner": [],
-  "campusWatch": [
-    {
-      "headline": "University Bans Unisex Bathroom, Students Demand Administrative Scalp",
-      "url": "https://thecollegefix.com/example",
-      "source": "CollegeFix",
-      "category": "Campus Absurdity"
-    }
-  ],
   "videoOfTheDay": null
 }
