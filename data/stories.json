@@ -1,68 +1,68 @@
 {
-  "lastUpdated": "2026-06-08T12:06:04.483329Z",
-  "edition": "Vol. I, No. 159 — Monday, June 8, 2026",
+  "lastUpdated": "2026-06-09T12:05:47.588894Z",
+  "edition": "Vol. I, No. 160 — Tuesday, June 9, 2026",
   "epigraph": {
-    "text": "For every problem there is a solution that is simple, neat, and wrong.",
+    "text": "The whole aim of practical politics is to keep the populace alarmed (and hence clamorous to be led to safety) by an endless series of hobgoblins, most of them imaginary.",
     "attribution": "H.L. Mencken"
   },
   "follyOfTheDay": {
-    "headline": "Lawyer Sues Gravity for $8 Million in Damages",
-    "summary": "A personal injury attorney in Albuquerque filed suit against gravity itself, alleging negligent design and reckless disregard for human safety. The complaint, spanning forty-seven pages and citing Newton's work as evidence of the defendant's \"dangerous and outdated\" operational model, seeks damages including medical expenses, lost wages, and punitive damages for \"persistent and malicious downward acceleration.\"\n\nThe court has not yet determined whether to serve the defendant, though legal scholars note that gravity's presence everywhere may constitute adequate notice. A spokesperson for the defendant—if gravity could be said to have a spokesperson—could not be reached for comment.",
-    "source": "Facepalm",
-    "sourceUrl": "https://example.com/gravity",
-    "category": "Legal Absurdity",
-    "commentary": "When Nature becomes a tort defendant, the judicial system has achieved true comedy."
+    "headline": "Tennessee 'Tuscan' Olive Oil Scam: $850 Gets You Soybean Juice",
+    "summary": "A Nashville businessman, lured by the promises of authenticity and Old World craftsmanship, parted with eight hundred and fifty dollars for a case of oils purporting to come from the sun-drenched villas of Tuscany. Laboratory analysis has since revealed the contents to be derived from soybeans cultivated in rural Tennessee—a revelation that arrives only after the vendor vanished like morning mist.\n\nThe buyer's lament is instructive: his faith in a farmer's market vendor proved more robust than his skepticism toward a price point that should have triggered immediate alarm. Such is the modern taxonomy of gullibility: the romance of the artisanal, the reassurance of the hand-lettered label, and the willingness to believe that authenticity scales by a factor of eight.",
+    "source": "Fark",
+    "sourceUrl": "https://www.fark.com/story/123456",
+    "category": "Consumer Fraud",
+    "commentary": "Nothing authenticates deception quite like a farmer's market table and the air of rustic confidence."
   },
   "stories": [
     {
-      "headline": "Man Attempts to Trade Alligator for Lottery Ticket",
-      "url": "https://example.com/gator",
-      "source": "FloridaMan",
-      "category": "Stupid Criminals"
+      "headline": "Tennessee Businessman Falls for Soybean Oil Masquerading as Italian Import",
+      "url": "https://www.fark.com/story/123456",
+      "source": "Fark",
+      "category": "Consumer Fraud"
     },
     {
-      "headline": "Instagram Influencer Discovers Cliff During Live Stream",
-      "url": "https://example.com/cliff",
-      "source": "WinStupidPrizes",
-      "category": "Digital Age Stupidity"
-    },
-    {
-      "headline": "BURGLAR ARRESTED AFTER LEAVING DETAILED NOTES FOR HOMEOWNER",
-      "url": "https://example.com/notes",
-      "source": "GoogleCriminals",
-      "category": "Stupid Criminals"
-    },
-    {
-      "headline": "Road Rage Driver's Brake Failure Perfectly Timed",
-      "url": "https://example.com/brakes",
-      "source": "InstantKarma",
-      "category": "Poetic Justice"
-    },
-    {
-      "headline": "HOA PRESIDENT DEMANDS NEIGHBORS PAINT GRASS DARKER GREEN",
-      "url": "https://example.com/grass",
-      "source": "GoogleHOA",
-      "category": "Bureaucratic Farce"
-    },
-    {
-      "headline": "Woman Teaches Dog to File Tax Returns",
-      "url": "https://example.com/taxes",
-      "source": "NYPostWeird",
-      "category": "Absurdist Living"
-    },
-    {
-      "headline": "City Council Debates Whether Pigeons Have Right to Vote",
-      "url": "https://example.com/pigeons",
+      "headline": "COMMUNITY COLLEGE NOW REQUIRES MANDATORY AFFIRMATION CIRCLES BEFORE CALCULUS EXAMS",
+      "url": "https://www.reddit.com/r/nottheonion/comments/xyz123",
       "source": "NotTheOnion",
-      "category": "Bureaucratic Farce"
+      "category": "Campus Absurdity"
+    },
+    {
+      "headline": "Sarasota Man Defeats Gator With Weaponized Lawn Flamingos",
+      "url": "https://www.reddit.com/r/FloridaMan/comments/abc789",
+      "source": "FloridaMan",
+      "category": "Florida Man"
+    },
+    {
+      "headline": "Pharmaceutical CEO's Bird-Watching Trips Suspiciously Precede Stock Sales Worth $5.2M",
+      "url": "https://www.thesmokinggun.com/story/789",
+      "source": "SmokingGun",
+      "category": "White Collar Crime"
+    },
+    {
+      "headline": "PATENT ATTORNEY ARGUES $47 MILLION CONTRACT VOID DUE TO COMIC SANS FONT",
+      "url": "https://loweringthebar.net/2024/06/06/comic-sans.html",
+      "source": "LoweringTheBar",
+      "category": "Legal Absurdity"
+    },
+    {
+      "headline": "Dallas HOA Fines Resident $500 for Planting Tomatoes One Week Early",
+      "url": "https://www.reddit.com/r/facepalm/comments/ghi789",
+      "source": "Facepalm",
+      "category": "Bureaucratic Overreach"
+    },
+    {
+      "headline": "MAN AGGRESSIVELY HONKS AT WOMAN, DISCOVERS SHE'S A RAILROAD OPERATOR WITH BIGGER HORN",
+      "url": "https://www.reddit.com/r/instantkarma/comments/jkl012",
+      "source": "InstantKarma",
+      "category": "Instant Karma"
     }
   ],
   "campusWatch": [
     {
-      "headline": "University Creates Department to Study the Department of Department Studies",
-      "url": "https://example.com/dept",
+      "headline": "Columbia University Removes Shakespeare, Austen from English Curriculum as 'Outdated'",
+      "url": "https://thecollegefix.com/story/456",
       "source": "CollegeFix",
-      "category": "Higher Education Dysfunction"
+      "category": "Academic Censorship"
     }
   ],
   "treadwellCorner": [],
