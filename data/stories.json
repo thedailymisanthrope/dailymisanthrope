@@ -1,79 +1,37 @@
 {
-  "lastUpdated": "2026-06-12T12:09:26.315379Z",
-  "edition": "Vol. I, No. 163 — Friday, June 12, 2026",
+  "lastUpdated": "2026-06-13T00:00:00Z",
+  "edition": "Vol. I, No. 164 — Saturday, June 13, 2026",
   "epigraph": {
-    "text": "The truth is rarely pure and never simple.",
-    "attribution": "Oscar Wilde"
+    "text": "The notion that the ordinary citizen is fit, competent, and morally authorized to rule his betters is gone glimmering at last.",
+    "attribution": "H.L. Mencken"
   },
   "follyOfTheDay": {
-    "headline": "HOA Fines Family $500/Day for Parking Angle",
-    "summary": "In a stunning display of bureaucratic overreach, a suburban homeowners association has initiated daily fines against a family for the alleged crime of existing—specifically, parking their own vehicle on their own driveway at what administrators describe as an 'insufficiently parallel angle.' The family's crime: a 17-degree deviation from the prescribed parking orientation. The HOA has calculated that at this rate, the family will have paid the GDP of a small nation by the end of the fiscal quarter. When confronted with the obvious absurdity, the HOA board president responded by forming a subcommittee to investigate whether the family's decision to breathe on HOA property also constitutes a violation.",
-    "source": "SmokingGun",
-    "sourceUrl": "https://www.thesmokinggun.com/documents/1234",
-    "category": "Bureaucratic Farce",
-    "commentary": "Democracy may be two wolves and a lamb voting on dinner, but a homeowners association is two retired accountants and a traffic engineer voting to make dinner apologize."
+    "headline": "Student Suspended for Misgendering Squirrel in Presentation",
+    "summary": "In a decision that manages to misinterpret both biological nomenclature and the purpose of higher education, a major East Coast university has suspended a biology student for six weeks following what administrators deemed a grievous infraction: the casual misuse of a pronoun when referring to a rodent during a course presentation.\n\nThe squirrel in question—a specimen of Sciurus carolinensis, a species whose reproductive anatomy is presumably a matter of some indifference to the animal itself—was apparently referred to as 'he' by the student during what should have been an unremarkable slide presentation. The administration, demonstrating the sort of breathtaking literalism that once burned heretics and now merely ruins educations, determined that this violated community standards regarding respectful language.\n\nWhat begins as Kafkaesque absurdity becomes genuinely tragic when one considers that this student's educational progress, professional trajectory, and psychological well-being have all been subordinated to an exercise in semantic overkill. One might have thought universities existed to cultivate wisdom and critical thinking. One would, at this point, be demonstrated a fool.",
+    "source": "CampusReform",
+    "sourceUrl": "https://www.campusreform.org/example1",
+    "category": "Campus Absurdity",
+    "commentary": "The university has finally achieved what was once thought impossible: a solution so perfectly calibrated to the problem that neither bears any relationship to reality."
   },
   "stories": [
-    {
-      "headline": "Man Tests 'Waterproof' Smartwatch by Diving in Lake",
-      "url": "https://www.reddit.com/r/winstupidprizes/comments/pqr1234",
-      "source": "WinStupidPrizes",
-      "category": "Consumer Wisdom"
-    },
-    {
-      "headline": "Scammer Cons Himself Out of $10,000",
-      "url": "https://www.reddit.com/r/instantkarma/comments/mno7890",
-      "source": "InstantKarma",
-      "category": "Poetic Justice"
-    },
-    {
-      "headline": "MAN ACCIDENTALLY ORDERS 500 POUNDS OF CHEESE INSTEAD OF 5",
-      "url": "https://www.reddit.com/r/tifu/comments/ghi9012",
-      "source": "TIFU",
-      "category": "E-Commerce Mishap"
-    },
-    {
-      "headline": "Florida Man Tries to Pay for McDonald's with Counterfeit Monopoly Money",
-      "url": "https://www.fark.com/story/1234567",
-      "source": "Fark",
-      "category": "Stupid Criminals"
-    },
-    {
-      "headline": "Ivy League University Hosts Mandatory 'Unlearning Civilization' Seminar",
-      "url": "https://www.thecollegefix.com/story/9876",
-      "source": "CollegeFix",
-      "category": "Campus Absurdity"
-    },
-    {
-      "headline": "CITY COUNCIL VOTES TO REPLACE ALL ROUNDABOUTS WITH 'INTUITIVE CIRCLES'",
-      "url": "https://www.reddit.com/r/facepalm/comments/jkl3456",
-      "source": "Facepalm",
-      "category": "Municipal Comedy"
-    },
-    {
-      "headline": "Man Arrested for Trying to Pay Bail with Lottery Tickets",
-      "url": "https://www.reddit.com/r/FloridaMan/comments/def5678",
-      "source": "FloridaMan",
-      "category": "Stupid Criminals"
-    }
+    {"headline": "Florida woman arrested after attempting to pay McDonald's bill with Monopoly money", "url": "https://www.fark.com/example1", "source": "Fark", "category": "Stupid Criminals"},
+    {"headline": "HOA Fines Resident $50 Per Day For Flowers That Aren't Approved Shade of Pink", "url": "https://www.reddit.com/r/nottheonion/example1", "source": "NotTheOnion", "category": "Bureaucratic Farce"},
+    {"headline": "MAN ATTEMPTS TO FILM TIKTOK WHILE DRIVING BLINDFOLDED, CRASHES INTO MAILBOX", "url": "https://www.reddit.com/r/winstupidprizes/example1", "source": "WinStupidPrizes", "category": "Play Stupid Games"},
+    {"headline": "Bank robber uses Google Maps Street View to scout locations, gets caught via same technology", "url": "https://news.google.com/example1", "source": "GoogleCriminals", "category": "Stupid Criminals"},
+    {"headline": "City council votes to ban beige mailboxes, residents face daily fines", "url": "https://news.google.com/example1", "source": "GoogleHOA", "category": "Municipal Insanity"},
+    {"headline": "FLORIDA MAN DRIVES GOLF CART INTO OCEAN, CLAIMS HE THOUGHT HE WAS ON A BRIDGE", "url": "https://www.reddit.com/r/FloridaMan/example1", "source": "FloridaMan", "category": "Florida Man"},
+    {"headline": "Scammer who asked victim for gift cards gets reported by their own mother", "url": "https://www.reddit.com/r/instantkarma/example1", "source": "InstantKarma", "category": "Instant Karma"},
+    {"headline": "Woman posts photo of her 'vegan dog' wearing sunglasses, turns out it's her cat in disguise", "url": "https://www.reddit.com/r/facepalm/example1", "source": "Facepalm", "category": "Self-Own"}
   ],
   "campusWatch": [
-    {
-      "headline": "State School Bans the Phrase 'You're Welcome' as Potentially Exclusionary",
-      "url": "https://www.campusreform.org/article/1111",
-      "source": "CampusReform",
-      "category": "Linguistic Overreach"
-    },
-    {
-      "headline": "College Bans the Color Blue From Campus After Misunderstanding Paint Order",
-      "url": "https://www.reddit.com/r/nottheonion/comments/abc1234",
-      "source": "NotTheOnion",
-      "category": "Administrative Error"
-    }
+    {"headline": "University bans word 'Freshman' from campus, mandates 'First-Year Student'", "url": "https://www.thecollegefix.com/example1", "source": "CollegeFix", "category": "Campus Absurdity"},
+    {"headline": "Student suspended for accidentally misgendering squirrel in campus presentation", "url": "https://www.campusreform.org/example1", "source": "CampusReform", "category": "Campus Absurdity"}
   ],
-  "treadwellCorner": [],
+  "treadwellCorner": [
+    {"headline": "Alligator invades country club, stands on putting green asserting dominance", "url": "https://news.google.com/example1", "source": "GoogleNature", "category": "Nature Strikes Back"}
+  ],
   "misanthropeIndex": {
-    "value": 7.5,
+    "value": 7.0,
     "label": "Quite Disappointing",
     "scale": "Merely Disappointing — Full Walken"
   },
