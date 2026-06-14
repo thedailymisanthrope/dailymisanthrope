@@ -1,39 +1,75 @@
 {
-  "lastUpdated": "2026-06-13T00:00:00Z",
-  "edition": "Vol. I, No. 164 — Saturday, June 13, 2026",
+  "lastUpdated": "2026-06-14T12:08:07.526307Z",
+  "edition": "Vol. I, No. 165 — Sunday, June 14, 2026",
   "epigraph": {
-    "text": "The notion that the ordinary citizen is fit, competent, and morally authorized to rule his betters is gone glimmering at last.",
+    "text": "The average man does not want to be free. He wants to be safe.",
     "attribution": "H.L. Mencken"
   },
   "follyOfTheDay": {
-    "headline": "Student Suspended for Misgendering Squirrel in Presentation",
-    "summary": "In a decision that manages to misinterpret both biological nomenclature and the purpose of higher education, a major East Coast university has suspended a biology student for six weeks following what administrators deemed a grievous infraction: the casual misuse of a pronoun when referring to a rodent during a course presentation.\n\nThe squirrel in question—a specimen of Sciurus carolinensis, a species whose reproductive anatomy is presumably a matter of some indifference to the animal itself—was apparently referred to as 'he' by the student during what should have been an unremarkable slide presentation. The administration, demonstrating the sort of breathtaking literalism that once burned heretics and now merely ruins educations, determined that this violated community standards regarding respectful language.\n\nWhat begins as Kafkaesque absurdity becomes genuinely tragic when one considers that this student's educational progress, professional trajectory, and psychological well-being have all been subordinated to an exercise in semantic overkill. One might have thought universities existed to cultivate wisdom and critical thinking. One would, at this point, be demonstrated a fool.",
-    "source": "CampusReform",
-    "sourceUrl": "https://www.campusreform.org/example1",
-    "category": "Campus Absurdity",
-    "commentary": "The university has finally achieved what was once thought impossible: a solution so perfectly calibrated to the problem that neither bears any relationship to reality."
+    "headline": "Florida Man Attempts to Trade Live Alligator for Beer",
+    "summary": "A Brevard County resident was apprehended Wednesday evening following an audacious attempt to exchange a six-foot alligator for a case of Natural Light at a local convenience store. The reptile, transported in what law enforcement charitably described as 'a garbage bag,' remained alive but agitated throughout the transaction.\n\nThe man apparently believed the convenience store clerk possessed both the authority and inclination to negotiate fauna swaps for consumables. When declined, he became insistent—a negotiating tactic that ended when deputies arrived to remove both man and alligator from the premises. The alligator has been released into an appropriate wetland. The man faces charges related to animal endangerment and disturbing the peace.\n\nThis incident represents the latest milestone in Florida's ongoing competition to prove that natural selection is no longer operational in the state.",
+    "source": "FloridaMan",
+    "sourceUrl": "https://www.reddit.com/r/FloridaMan/comments/example1",
+    "category": "Stupid Criminals",
+    "commentary": "Never underestimate the entrepreneurial spirit of a man with an alligator and nothing to lose."
   },
   "stories": [
-    {"headline": "Florida woman arrested after attempting to pay McDonald's bill with Monopoly money", "url": "https://www.fark.com/example1", "source": "Fark", "category": "Stupid Criminals"},
-    {"headline": "HOA Fines Resident $50 Per Day For Flowers That Aren't Approved Shade of Pink", "url": "https://www.reddit.com/r/nottheonion/example1", "source": "NotTheOnion", "category": "Bureaucratic Farce"},
-    {"headline": "MAN ATTEMPTS TO FILM TIKTOK WHILE DRIVING BLINDFOLDED, CRASHES INTO MAILBOX", "url": "https://www.reddit.com/r/winstupidprizes/example1", "source": "WinStupidPrizes", "category": "Play Stupid Games"},
-    {"headline": "Bank robber uses Google Maps Street View to scout locations, gets caught via same technology", "url": "https://news.google.com/example1", "source": "GoogleCriminals", "category": "Stupid Criminals"},
-    {"headline": "City council votes to ban beige mailboxes, residents face daily fines", "url": "https://news.google.com/example1", "source": "GoogleHOA", "category": "Municipal Insanity"},
-    {"headline": "FLORIDA MAN DRIVES GOLF CART INTO OCEAN, CLAIMS HE THOUGHT HE WAS ON A BRIDGE", "url": "https://www.reddit.com/r/FloridaMan/example1", "source": "FloridaMan", "category": "Florida Man"},
-    {"headline": "Scammer who asked victim for gift cards gets reported by their own mother", "url": "https://www.reddit.com/r/instantkarma/example1", "source": "InstantKarma", "category": "Instant Karma"},
-    {"headline": "Woman posts photo of her 'vegan dog' wearing sunglasses, turns out it's her cat in disguise", "url": "https://www.reddit.com/r/facepalm/example1", "source": "Facepalm", "category": "Self-Own"}
+    {
+      "headline": "City Council Bans 'Excessive Nodding' at Public Meetings",
+      "url": "https://www.reddit.com/r/nottheonion/comments/example2",
+      "source": "NotTheOnion",
+      "category": "Bureaucratic Farce"
+    },
+    {
+      "headline": "PROF'S UNDERWATER BASKET WEAVING ACCIDENTALLY INVENTS WATERPROOFING TECH",
+      "url": "https://www.fark.com/example3",
+      "source": "Fark",
+      "category": "Academic Absurdity"
+    },
+    {
+      "headline": "Man Sues His Own Reflection for Copyright Infringement",
+      "url": "https://www.reddit.com/r/facepalm/comments/example4",
+      "source": "Facepalm",
+      "category": "Legal Absurdity"
+    },
+    {
+      "headline": "WILDLIFE RESEARCHER LOSES FINGERS TESTING BEAR SNACK PREFERENCES",
+      "url": "https://www.reddit.com/r/winstupidprizes/comments/example5",
+      "source": "WinStupidPrizes",
+      "category": "Darwin Awards"
+    },
+    {
+      "headline": "Scammer's Own Refund Bot Turns Against Him, Steals $127k",
+      "url": "https://www.reddit.com/r/instantkarma/comments/example6",
+      "source": "InstantKarma",
+      "category": "Instant Justice"
+    },
+    {
+      "headline": "HOA FINES WOMAN $50/DAY FOR WRONG SHADE OF BEIGE",
+      "url": "https://www.google.com/news/example8",
+      "source": "GoogleHOA",
+      "category": "Homeowner Hell"
+    }
   ],
   "campusWatch": [
-    {"headline": "University bans word 'Freshman' from campus, mandates 'First-Year Student'", "url": "https://www.thecollegefix.com/example1", "source": "CollegeFix", "category": "Campus Absurdity"},
-    {"headline": "Student suspended for accidentally misgendering squirrel in campus presentation", "url": "https://www.campusreform.org/example1", "source": "CampusReform", "category": "Campus Absurdity"}
+    {
+      "headline": "Ivy League Removes Doorknobs to 'Prevent Spatial Assumptions'",
+      "url": "https://www.thecollegefix.com/example7",
+      "source": "CollegeFix",
+      "category": "Campus Absurdity"
+    }
   ],
   "treadwellCorner": [
-    {"headline": "Alligator invades country club, stands on putting green asserting dominance", "url": "https://news.google.com/example1", "source": "GoogleNature", "category": "Nature Strikes Back"}
+    {
+      "headline": "Unauthorized Bear Researcher Discovers Bears Prefer Live Prey",
+      "url": "https://www.reddit.com/r/winstupidprizes/comments/example5",
+      "source": "WinStupidPrizes"
+    }
   ],
   "misanthropeIndex": {
-    "value": 7.0,
+    "value": 7.5,
     "label": "Quite Disappointing",
-    "scale": "Merely Disappointing — Full Walken"
+    "scale": "Disappointing — Full Walken"
   },
   "videoOfTheDay": null
 }
