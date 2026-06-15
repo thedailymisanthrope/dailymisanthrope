@@ -1,75 +1,81 @@
 {
-  "lastUpdated": "2026-06-14T12:08:07.526307Z",
-  "edition": "Vol. I, No. 165 — Sunday, June 14, 2026",
+  "lastUpdated": "2026-06-15T12:10:47.266561Z",
+  "edition": "Vol. I, No. 166 \u2014 Monday, June 15, 2026",
   "epigraph": {
-    "text": "The average man does not want to be free. He wants to be safe.",
+    "text": "Democracy is the theory that the common people know what they want, and deserve to get it good and hard.",
     "attribution": "H.L. Mencken"
   },
   "follyOfTheDay": {
-    "headline": "Florida Man Attempts to Trade Live Alligator for Beer",
-    "summary": "A Brevard County resident was apprehended Wednesday evening following an audacious attempt to exchange a six-foot alligator for a case of Natural Light at a local convenience store. The reptile, transported in what law enforcement charitably described as 'a garbage bag,' remained alive but agitated throughout the transaction.\n\nThe man apparently believed the convenience store clerk possessed both the authority and inclination to negotiate fauna swaps for consumables. When declined, he became insistent—a negotiating tactic that ended when deputies arrived to remove both man and alligator from the premises. The alligator has been released into an appropriate wetland. The man faces charges related to animal endangerment and disturbing the peace.\n\nThis incident represents the latest milestone in Florida's ongoing competition to prove that natural selection is no longer operational in the state.",
-    "source": "FloridaMan",
-    "sourceUrl": "https://www.reddit.com/r/FloridaMan/comments/example1",
-    "category": "Stupid Criminals",
-    "commentary": "Never underestimate the entrepreneurial spirit of a man with an alligator and nothing to lose."
+    "headline": "Ohio HOA Files $50K Lien Over Garden Hose Taupe Shade",
+    "summary": "In what may represent the apotheosis of homeowners' association bureaucratic tyranny, an Ohio HOA has filed a $50,000 lien against 68-year-old Margaret Sullivan for the crime of purchasing a garden hose in 'warm taupe' rather than the board-approved 'neutral taupe.' The HOA's Covenants, Conditions & Restrictions\u2014a 347-page document of Byzantine specificity\u2014mandates an exact RAL color code for all visible property fixtures, including what one might generously call 'garden supplies.' Ms. Sullivan's transgression was discovered during a routine property inspection and documented in a 23-page enforcement memo.\n\nThe case exemplifies that peculiar intersection where property rights meet architectural fascism, where minor aesthetic preferences ossify into enforceable law, and where a retiree's crime is insufficient enthusiasm for taupe differentiation. The lien now exceeds the hose's original cost by approximately 5,000 percent.",
+    "source": "Fark",
+    "sourceUrl": "https://fark.com/article/50000-lien",
+    "category": "Bureaucratic Farce",
+    "commentary": "Taupe: the color of a thousand crushed dreams and one angry HOA board."
   },
   "stories": [
     {
-      "headline": "City Council Bans 'Excessive Nodding' at Public Meetings",
-      "url": "https://www.reddit.com/r/nottheonion/comments/example2",
-      "source": "NotTheOnion",
+      "headline": "Florida Man Attempts Currency Exchange: Alligator for Alcohol",
+      "url": "https://reddit.com/r/FloridaMan/comments/abc123",
+      "source": "FloridaMan",
+      "category": "Stupid Criminals"
+    },
+    {
+      "headline": "City Council Member Proposes Ordinance to Ban Humidity",
+      "url": "https://reddit.com/r/facepalm/comments/mno345",
+      "source": "Facepalm",
       "category": "Bureaucratic Farce"
     },
     {
-      "headline": "PROF'S UNDERWATER BASKET WEAVING ACCIDENTALLY INVENTS WATERPROOFING TECH",
-      "url": "https://www.fark.com/example3",
-      "source": "Fark",
-      "category": "Academic Absurdity"
+      "headline": "CONTRACTOR FILMS OWN PERMIT VIOLATION, UPLOADS TO FACEBOOK, GETS FINED $47K",
+      "url": "https://reddit.com/r/instantkarma/comments/pqr678",
+      "source": "InstantKarma",
+      "category": "Self-Own"
     },
     {
-      "headline": "Man Sues His Own Reflection for Copyright Infringement",
-      "url": "https://www.reddit.com/r/facepalm/comments/example4",
-      "source": "Facepalm",
+      "headline": "Burglar Locks Himself in Panic Room While Burglarizing",
+      "url": "https://reddit.com/r/winstupidprizes/comments/ghi789",
+      "source": "WinStupidPrizes",
+      "category": "Stupid Criminals"
+    },
+    {
+      "headline": "Woman Sues Restaurant: Burrito Exceeded 'Reasonable Bite Circumference'",
+      "url": "https://nypost.com/article/burrito-lawsuit",
+      "source": "NYPostWeird",
       "category": "Legal Absurdity"
     },
     {
-      "headline": "WILDLIFE RESEARCHER LOSES FINGERS TESTING BEAR SNACK PREFERENCES",
-      "url": "https://www.reddit.com/r/winstupidprizes/comments/example5",
-      "source": "WinStupidPrizes",
-      "category": "Darwin Awards"
+      "headline": "Man Sues Ex-Wife to Enforce Marriage Contract With His Clone",
+      "url": "https://loweringthebar.net/article/clone-marriage",
+      "source": "LoweringTheBar",
+      "category": "Legal Absurdity"
     },
     {
-      "headline": "Scammer's Own Refund Bot Turns Against Him, Steals $127k",
-      "url": "https://www.reddit.com/r/instantkarma/comments/example6",
-      "source": "InstantKarma",
-      "category": "Instant Justice"
-    },
-    {
-      "headline": "HOA FINES WOMAN $50/DAY FOR WRONG SHADE OF BEIGE",
-      "url": "https://www.google.com/news/example8",
-      "source": "GoogleHOA",
-      "category": "Homeowner Hell"
-    }
-  ],
-  "campusWatch": [
-    {
-      "headline": "Ivy League Removes Doorknobs to 'Prevent Spatial Assumptions'",
-      "url": "https://www.thecollegefix.com/example7",
-      "source": "CollegeFix",
-      "category": "Campus Absurdity"
-    }
-  ],
-  "treadwellCorner": [
-    {
-      "headline": "Unauthorized Bear Researcher Discovers Bears Prefer Live Prey",
-      "url": "https://www.reddit.com/r/winstupidprizes/comments/example5",
-      "source": "WinStupidPrizes"
+      "headline": "Robber Hands Cashier Strongly Worded Letter Instead of Weapon",
+      "url": "https://thesmokinggun.com/article/letter-robbery",
+      "source": "SmokingGun",
+      "category": "Stupid Criminals"
     }
   ],
   "misanthropeIndex": {
     "value": 7.5,
     "label": "Quite Disappointing",
-    "scale": "Disappointing — Full Walken"
+    "scale": "Merely Disappointing \u2014 Full Walken"
   },
+  "campusWatch": [
+    {
+      "headline": "Cal State Requires Notarized 'Colonizer Apology' to Graduate",
+      "url": "https://thecollegefix.com/article/colonizer-apology",
+      "source": "CollegeFix",
+      "category": "Campus Absurdity"
+    },
+    {
+      "headline": "Princeton Cancels Orientation: Student Claims Shoes Violate Title IX",
+      "url": "https://campusreform.org/article/shoes-violation",
+      "source": "CampusReform",
+      "category": "Campus Absurdity"
+    }
+  ],
+  "treadwellCorner": [],
   "videoOfTheDay": null
 }
