@@ -1,81 +1,82 @@
 {
-  "lastUpdated": "2026-06-15T12:10:47.266561Z",
-  "edition": "Vol. I, No. 166 \u2014 Monday, June 15, 2026",
+  "lastUpdated": "2026-06-17T12:10:39.530110Z",
+  "edition": "Vol. I, No. 168 — Wednesday, June 17, 2026",
   "epigraph": {
     "text": "Democracy is the theory that the common people know what they want, and deserve to get it good and hard.",
     "attribution": "H.L. Mencken"
   },
   "follyOfTheDay": {
-    "headline": "Ohio HOA Files $50K Lien Over Garden Hose Taupe Shade",
-    "summary": "In what may represent the apotheosis of homeowners' association bureaucratic tyranny, an Ohio HOA has filed a $50,000 lien against 68-year-old Margaret Sullivan for the crime of purchasing a garden hose in 'warm taupe' rather than the board-approved 'neutral taupe.' The HOA's Covenants, Conditions & Restrictions\u2014a 347-page document of Byzantine specificity\u2014mandates an exact RAL color code for all visible property fixtures, including what one might generously call 'garden supplies.' Ms. Sullivan's transgression was discovered during a routine property inspection and documented in a 23-page enforcement memo.\n\nThe case exemplifies that peculiar intersection where property rights meet architectural fascism, where minor aesthetic preferences ossify into enforceable law, and where a retiree's crime is insufficient enthusiasm for taupe differentiation. The lien now exceeds the hose's original cost by approximately 5,000 percent.",
-    "source": "Fark",
-    "sourceUrl": "https://fark.com/article/50000-lien",
-    "category": "Bureaucratic Farce",
-    "commentary": "Taupe: the color of a thousand crushed dreams and one angry HOA board."
+    "headline": "Florida Man Pays Traffic Ticket with Monopoly Money—Backward Tuxedo Noted",
+    "summary": "A Florida gentleman, distinguished by his sartorial commitment to inverted formalwear, appeared at traffic court with a solution born of profound legal innovation: five hundred dollars in colored paper rectangles bearing the visage of Mr. Monopoly himself. When informed that the currency was merely decorative, he protested vigorously that the rules of his preferred board game explicitly stated such tender was 'legal' within that particular jurisdiction. The court, operating under the archaic assumption that legal tender referred to actual legal tender, disagreed. Deputies observed that his jacket was worn not only backward but with conviction—a commitment to the absurd rarely seen in courthouse hallways.\n\nThe broader existential question looms: In a civilization where one might mortgage imaginary properties for imaginary currency, is the distinction between Monopoly money and fiat currency truly a matter of degree rather than kind? Our Floridian friend has simply accelerated the inevitable logical endpoint of our monetary system.",
+    "source": "FloridaMan",
+    "sourceUrl": "https://reddit.com/r/FloridaMan/xyz3",
+    "category": "Stupid Criminals",
+    "commentary": "When legal systems meet the operational logic of board games, everyone loses. Except the house. The house always wins."
   },
   "stories": [
     {
-      "headline": "Florida Man Attempts Currency Exchange: Alligator for Alcohol",
-      "url": "https://reddit.com/r/FloridaMan/comments/abc123",
-      "source": "FloridaMan",
-      "category": "Stupid Criminals"
+      "headline": "University Cancels Outdoor Commencement Over Fear of Hail That Never Arrived",
+      "url": "https://reddit.com/r/nottheonion/xyz1",
+      "source": "NotTheOnion",
+      "category": "Institutional Farce"
     },
     {
-      "headline": "City Council Member Proposes Ordinance to Ban Humidity",
-      "url": "https://reddit.com/r/facepalm/comments/mno345",
+      "headline": "Man Sues Airline Because His Row Wasn't Called First",
+      "url": "https://reddit.com/r/facepalm/xyz2",
       "source": "Facepalm",
-      "category": "Bureaucratic Farce"
+      "category": "Aggrieved Entitlement"
     },
     {
-      "headline": "CONTRACTOR FILMS OWN PERMIT VIOLATION, UPLOADS TO FACEBOOK, GETS FINED $47K",
-      "url": "https://reddit.com/r/instantkarma/comments/pqr678",
+      "headline": "WOMAN WHO COMPLAINED ABOUT SLOW WIFI CAUSES ROUTER FIRE",
+      "url": "https://reddit.com/r/instantkarma/xyz4",
       "source": "InstantKarma",
-      "category": "Self-Own"
+      "category": "Poetic Justice"
     },
     {
-      "headline": "Burglar Locks Himself in Panic Room While Burglarizing",
-      "url": "https://reddit.com/r/winstupidprizes/comments/ghi789",
+      "headline": "Amateur Stuntman Crashes Golf Cart Through Wedding Reception",
+      "url": "https://reddit.com/r/winstupidprizes/xyz5",
       "source": "WinStupidPrizes",
-      "category": "Stupid Criminals"
+      "category": "Uninvited Entertainment"
     },
     {
-      "headline": "Woman Sues Restaurant: Burrito Exceeded 'Reasonable Bite Circumference'",
-      "url": "https://nypost.com/article/burrito-lawsuit",
-      "source": "NYPostWeird",
-      "category": "Legal Absurdity"
-    },
-    {
-      "headline": "Man Sues Ex-Wife to Enforce Marriage Contract With His Clone",
-      "url": "https://loweringthebar.net/article/clone-marriage",
+      "headline": "MAN FORGETS PARACHUTE, RELIES ON BACKUP PLAN",
+      "url": "https://loweringthebar.net/xyz6",
       "source": "LoweringTheBar",
-      "category": "Legal Absurdity"
+      "category": "Fatal Optimism"
     },
     {
-      "headline": "Robber Hands Cashier Strongly Worded Letter Instead of Weapon",
-      "url": "https://thesmokinggun.com/article/letter-robbery",
-      "source": "SmokingGun",
-      "category": "Stupid Criminals"
+      "headline": "HOA Fines Resident $500 per Day for Keeping Lawn 'Too Green'",
+      "url": "https://fark.com/xyz10",
+      "source": "Fark",
+      "category": "Bureaucratic Tyranny"
+    }
+  ],
+  "campusWatch": [
+    {
+      "headline": "College Hosts Debate on Whether Chairs Are Oppressive",
+      "url": "https://thecollegefix.com/xyz7",
+      "source": "CollegeFix",
+      "summary": "Academic inquiry into the systemic oppression embedded in furniture."
+    },
+    {
+      "headline": "University Bans Pencils to Promote 'Digital Accessibility'",
+      "url": "https://news.google.com/xyz9",
+      "source": "GoogleCampus",
+      "summary": "Silent writing instruments deemed insufficiently inclusive. Deaf community response ignored."
+    }
+  ],
+  "treadwellCorner": [
+    {
+      "headline": "Bear Enters Home, Reorganizes Kitchen Cabinets",
+      "url": "https://news.google.com/xyz8",
+      "source": "GoogleNature",
+      "summary": "Wildlife demonstrates superior organizational skills; homeowner admits defeat."
     }
   ],
   "misanthropeIndex": {
-    "value": 7.5,
-    "label": "Quite Disappointing",
-    "scale": "Merely Disappointing \u2014 Full Walken"
+    "value": 8.0,
+    "label": "Approaching Full Walken",
+    "scale": "Disappointing — Full Walken"
   },
-  "campusWatch": [
-    {
-      "headline": "Cal State Requires Notarized 'Colonizer Apology' to Graduate",
-      "url": "https://thecollegefix.com/article/colonizer-apology",
-      "source": "CollegeFix",
-      "category": "Campus Absurdity"
-    },
-    {
-      "headline": "Princeton Cancels Orientation: Student Claims Shoes Violate Title IX",
-      "url": "https://campusreform.org/article/shoes-violation",
-      "source": "CampusReform",
-      "category": "Campus Absurdity"
-    }
-  ],
-  "treadwellCorner": [],
   "videoOfTheDay": null
 }
