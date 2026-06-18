@@ -1,82 +1,88 @@
 {
-  "lastUpdated": "2026-06-17T12:10:39.530110Z",
-  "edition": "Vol. I, No. 168 — Wednesday, June 17, 2026",
+  "lastUpdated": "2026-06-18T12:08:11.912951Z",
+  "edition": "Vol. I, No. 169 — Thursday, June 18, 2026",
   "epigraph": {
-    "text": "Democracy is the theory that the common people know what they want, and deserve to get it good and hard.",
+    "text": "The average man does not want to be free. He simply wants to be safe.",
     "attribution": "H.L. Mencken"
   },
   "follyOfTheDay": {
-    "headline": "Florida Man Pays Traffic Ticket with Monopoly Money—Backward Tuxedo Noted",
-    "summary": "A Florida gentleman, distinguished by his sartorial commitment to inverted formalwear, appeared at traffic court with a solution born of profound legal innovation: five hundred dollars in colored paper rectangles bearing the visage of Mr. Monopoly himself. When informed that the currency was merely decorative, he protested vigorously that the rules of his preferred board game explicitly stated such tender was 'legal' within that particular jurisdiction. The court, operating under the archaic assumption that legal tender referred to actual legal tender, disagreed. Deputies observed that his jacket was worn not only backward but with conviction—a commitment to the absurd rarely seen in courthouse hallways.\n\nThe broader existential question looms: In a civilization where one might mortgage imaginary properties for imaginary currency, is the distinction between Monopoly money and fiat currency truly a matter of degree rather than kind? Our Floridian friend has simply accelerated the inevitable logical endpoint of our monetary system.",
-    "source": "FloridaMan",
-    "sourceUrl": "https://reddit.com/r/FloridaMan/xyz3",
-    "category": "Stupid Criminals",
-    "commentary": "When legal systems meet the operational logic of board games, everyone loses. Except the house. The house always wins."
+    "headline": "Senator Votes for Bill Requiring His Own Resignation",
+    "summary": "In a stunning display of legislative incompetence, a U.S. senator cast an affirmative vote on a bill he believed addressed rural infrastructure funding. The measure's actual title: \"An Act to Remove Officeholders Who Demonstrate Incompetence Through Absence of Basic Reading Comprehension.\" The senator proceeded to read the full title aloud on the Senate floor approximately thirty seconds after his vote was recorded. He discovered this error after the bill had already passed with overwhelming bipartisan support, leading colleagues to note that seldom has an elected official so thoroughly endorsed legislation explicitly designed to remove himself from office.",
+    "source": "GooglePolitician",
+    "sourceUrl": "https://example.com/15",
+    "category": "Political Absurdity",
+    "commentary": "Few things demonstrate the self-aware irony of democratic institutions quite like a legislator voting to abolish his own position due to an inability to read."
   },
   "stories": [
     {
-      "headline": "University Cancels Outdoor Commencement Over Fear of Hail That Never Arrived",
-      "url": "https://reddit.com/r/nottheonion/xyz1",
-      "source": "NotTheOnion",
-      "category": "Institutional Farce"
-    },
-    {
-      "headline": "Man Sues Airline Because His Row Wasn't Called First",
-      "url": "https://reddit.com/r/facepalm/xyz2",
+      "headline": "Phoenix HOA Fines Residents $500 Per Day for Visible Breath",
+      "url": "https://example.com/6",
       "source": "Facepalm",
-      "category": "Aggrieved Entitlement"
+      "category": "Bureaucratic Overreach"
     },
     {
-      "headline": "WOMAN WHO COMPLAINED ABOUT SLOW WIFI CAUSES ROUTER FIRE",
-      "url": "https://reddit.com/r/instantkarma/xyz4",
-      "source": "InstantKarma",
-      "category": "Poetic Justice"
-    },
-    {
-      "headline": "Amateur Stuntman Crashes Golf Cart Through Wedding Reception",
-      "url": "https://reddit.com/r/winstupidprizes/xyz5",
-      "source": "WinStupidPrizes",
-      "category": "Uninvited Entertainment"
-    },
-    {
-      "headline": "MAN FORGETS PARACHUTE, RELIES ON BACKUP PLAN",
-      "url": "https://loweringthebar.net/xyz6",
-      "source": "LoweringTheBar",
-      "category": "Fatal Optimism"
-    },
-    {
-      "headline": "HOA Fines Resident $500 per Day for Keeping Lawn 'Too Green'",
-      "url": "https://fark.com/xyz10",
+      "headline": "Woman Trapped in Revolving Door During TikTok Stunt",
+      "url": "https://example.com/11",
       "source": "Fark",
-      "category": "Bureaucratic Tyranny"
+      "category": "Social Media Disasters"
+    },
+    {
+      "headline": "FLORIDA MAN BUILDS MOAT AROUND TRAILER, RENDERS HOME LEGALLY UNINHABITABLE",
+      "url": "https://example.com/3",
+      "source": "FloridaMan",
+      "category": "Florida Man"
+    },
+    {
+      "headline": "Judge Rules Pet Hamster Inadmissible as Character Witness",
+      "url": "https://example.com/4",
+      "source": "LoweringTheBar",
+      "category": "Legal Absurdity"
+    },
+    {
+      "headline": "Tech CEO Accidentally Confesses Tax Evasion on Company Livestream",
+      "url": "https://example.com/13",
+      "source": "Facepalm",
+      "category": "Corporate Chaos"
+    },
+    {
+      "headline": "CRIMINAL ROBS STORE BUT LEAVES WALLET WITH ID, SELFIES, AND ADDRESS",
+      "url": "https://example.com/14",
+      "source": "GoogleCriminals",
+      "category": "Stupid Criminals"
+    },
+    {
+      "headline": "Boulder Council Grants Dogs Right to Vote in Local Elections",
+      "url": "https://example.com/2",
+      "source": "NotTheOnion",
+      "category": "Government Overreach"
+    }
+  ],
+  "misanthropeIndex": {
+    "value": 7.5,
+    "label": "Quite Disappointing",
+    "scale": "Merely Disappointing — Full Walken"
+  },
+  "treadwellCorner": [
+    {
+      "headline": "Man Attempts to Teach Raccoon Culinary Skills, Loses Kitchen to Fire",
+      "url": "https://example.com/7",
+      "source": "WinStupidPrizes",
+      "summary": "After watching cooking shows, a Louisville resident attempted to train a wild raccoon to prepare meals. The raccoon's confusion with a gas stove resulted in multiple burners igniting simultaneously, destroying the kitchen and causing $180,000 in damages."
     }
   ],
   "campusWatch": [
     {
-      "headline": "College Hosts Debate on Whether Chairs Are Oppressive",
-      "url": "https://thecollegefix.com/xyz7",
+      "headline": "University Bans Pencils as 'Inherently Violent Objects'",
+      "url": "https://example.com/8",
       "source": "CollegeFix",
-      "summary": "Academic inquiry into the systemic oppression embedded in furniture."
+      "summary": "A northeastern college's Office of Inclusive Excellence ruled that pencils, due to their pointed tips, constitute weapons of potential harm. Students must now submit assignments in crayon or soft marker only."
     },
     {
-      "headline": "University Bans Pencils to Promote 'Digital Accessibility'",
-      "url": "https://news.google.com/xyz9",
-      "source": "GoogleCampus",
-      "summary": "Silent writing instruments deemed insufficiently inclusive. Deaf community response ignored."
+      "headline": "College Mandates Apology Sessions for Students Who Sneeze",
+      "url": "https://example.com/9",
+      "source": "CampusReform",
+      "summary": "A Massachusetts liberal arts school now requires 45-minute workshops for any student who sneezes during lectures, arguing that sneezing violates the psychological safety of neurodivergent peers."
     }
   ],
-  "treadwellCorner": [
-    {
-      "headline": "Bear Enters Home, Reorganizes Kitchen Cabinets",
-      "url": "https://news.google.com/xyz8",
-      "source": "GoogleNature",
-      "summary": "Wildlife demonstrates superior organizational skills; homeowner admits defeat."
-    }
-  ],
-  "misanthropeIndex": {
-    "value": 8.0,
-    "label": "Approaching Full Walken",
-    "scale": "Disappointing — Full Walken"
-  },
   "videoOfTheDay": null
 }
