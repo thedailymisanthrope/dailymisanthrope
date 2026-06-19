@@ -1,60 +1,60 @@
 {
-  "lastUpdated": "2026-06-18T12:08:11.912951Z",
-  "edition": "Vol. I, No. 169 — Thursday, June 18, 2026",
+  "lastUpdated": "2026-06-19T12:06:25.896922Z",
+  "edition": "Vol. I, No. 170 — Friday, June 19, 2026",
   "epigraph": {
-    "text": "The average man does not want to be free. He simply wants to be safe.",
+    "text": "The people never give up their liberties but under some delusion.",
     "attribution": "H.L. Mencken"
   },
   "follyOfTheDay": {
-    "headline": "Senator Votes for Bill Requiring His Own Resignation",
-    "summary": "In a stunning display of legislative incompetence, a U.S. senator cast an affirmative vote on a bill he believed addressed rural infrastructure funding. The measure's actual title: \"An Act to Remove Officeholders Who Demonstrate Incompetence Through Absence of Basic Reading Comprehension.\" The senator proceeded to read the full title aloud on the Senate floor approximately thirty seconds after his vote was recorded. He discovered this error after the bill had already passed with overwhelming bipartisan support, leading colleagues to note that seldom has an elected official so thoroughly endorsed legislation explicitly designed to remove himself from office.",
-    "source": "GooglePolitician",
-    "sourceUrl": "https://example.com/15",
-    "category": "Political Absurdity",
-    "commentary": "Few things demonstrate the self-aware irony of democratic institutions quite like a legislator voting to abolish his own position due to an inability to read."
+    "headline": "HOA Fines Woman $500 for Daisies Being 'Excessively Yellow'",
+    "summary": "In an extraordinary display of regulatory overreach, a homeowners association in upscale Coral Gables, Florida issued a formal violation notice to resident Margaret Steinberg, claiming her daisy garden contravened the community's 'color coordination aesthetic guidelines'—a provision contained in page 147 of a 247-page covenant document written in 1987.\n\nThe notice specified that the daisies' golden hue created 'visual discord' with neighboring perennials and demanded removal within 14 days. When Ms. Steinberg inquired whether her pink azaleas, her blue delphiniums, or her white gardenias also required removal, the HOA president replied that those colors were 'pre-approved.' The daisies, apparently, were not.\n\nMs. Steinberg's subsequent appeal to the community board was rejected on technical grounds—she had used a blue pen instead of black ink on her petition form.",
+    "source": "NotTheOnion",
+    "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/abc456/",
+    "category": "Bureaucratic Tyranny",
+    "commentary": "Here lies the Platonic ideal of wasting institutional resources: $500 fine, 18 months of correspondence, and one woman's daisies."
   },
   "stories": [
     {
-      "headline": "Phoenix HOA Fines Residents $500 Per Day for Visible Breath",
-      "url": "https://example.com/6",
-      "source": "Facepalm",
-      "category": "Bureaucratic Overreach"
-    },
-    {
-      "headline": "Woman Trapped in Revolving Door During TikTok Stunt",
-      "url": "https://example.com/11",
+      "headline": "MAN ATTEMPTS $15,000 BITCOIN ATM HEIST, NETS $8 AND A FELONY",
+      "url": "https://www.fark.com/story/xyz789",
       "source": "Fark",
-      "category": "Social Media Disasters"
-    },
-    {
-      "headline": "FLORIDA MAN BUILDS MOAT AROUND TRAILER, RENDERS HOME LEGALLY UNINHABITABLE",
-      "url": "https://example.com/3",
-      "source": "FloridaMan",
-      "category": "Florida Man"
-    },
-    {
-      "headline": "Judge Rules Pet Hamster Inadmissible as Character Witness",
-      "url": "https://example.com/4",
-      "source": "LoweringTheBar",
-      "category": "Legal Absurdity"
-    },
-    {
-      "headline": "Tech CEO Accidentally Confesses Tax Evasion on Company Livestream",
-      "url": "https://example.com/13",
-      "source": "Facepalm",
-      "category": "Corporate Chaos"
-    },
-    {
-      "headline": "CRIMINAL ROBS STORE BUT LEAVES WALLET WITH ID, SELFIES, AND ADDRESS",
-      "url": "https://example.com/14",
-      "source": "GoogleCriminals",
       "category": "Stupid Criminals"
     },
     {
-      "headline": "Boulder Council Grants Dogs Right to Vote in Local Elections",
-      "url": "https://example.com/2",
-      "source": "NotTheOnion",
-      "category": "Government Overreach"
+      "headline": "University Bans Carbonated Beverages to Preserve Silence",
+      "url": "https://news.google.com/story/campus123",
+      "source": "GoogleCampus",
+      "category": "Academic Absurdity"
+    },
+    {
+      "headline": "INVESTOR LIQUIDATES RETIREMENT FOR BEANIE BABIES, LIVES TO REGRET IT",
+      "url": "https://www.reddit.com/r/tifu/comments/def456/",
+      "source": "TIFU",
+      "category": "Financial Folly"
+    },
+    {
+      "headline": "LinkedIn Exec's Motivational Message Reaches 200,000 Strangers By Accident",
+      "url": "https://www.reddit.com/r/facepalm/comments/ghi789/",
+      "source": "Facepalm",
+      "category": "Silicon Valley Farce"
+    },
+    {
+      "headline": "SENATOR TWEETS BITCOIN ADDRESS, RECEIVES $47 IN DONATIONS HE CANNOT RETURN",
+      "url": "https://news.google.com/story/politician456",
+      "source": "GooglePolitician",
+      "category": "Political Incompetence"
+    },
+    {
+      "headline": "Road Rage Driver Cuts Off Five Cars, Universe Immediately Corrects Him",
+      "url": "https://www.reddit.com/r/instantkarma/comments/mno345/",
+      "source": "InstantKarma",
+      "category": "Instant Justice"
+    },
+    {
+      "headline": "UNIVERSITY PAYS $1.2M FOR REBRAND, NEW LOGO INDISTINGUISHABLE FROM OLD",
+      "url": "https://www.thecollegefix.com/story/xyz321",
+      "source": "CollegeFix",
+      "category": "Academic Waste"
     }
   ],
   "misanthropeIndex": {
@@ -64,24 +64,17 @@
   },
   "treadwellCorner": [
     {
-      "headline": "Man Attempts to Teach Raccoon Culinary Skills, Loses Kitchen to Fire",
-      "url": "https://example.com/7",
+      "headline": "Man Plays Fetch With Wild Bear, Gets Exactly What He Expected",
+      "url": "https://www.reddit.com/r/winstupidprizes/comments/jkl012/",
       "source": "WinStupidPrizes",
-      "summary": "After watching cooking shows, a Louisville resident attempted to train a wild raccoon to prepare meals. The raccoon's confusion with a gas stove resulted in multiple burners igniting simultaneously, destroying the kitchen and causing $180,000 in damages."
+      "category": "Nature's Judgment"
     }
   ],
   "campusWatch": [
     {
-      "headline": "University Bans Pencils as 'Inherently Violent Objects'",
-      "url": "https://example.com/8",
-      "source": "CollegeFix",
-      "summary": "A northeastern college's Office of Inclusive Excellence ruled that pencils, due to their pointed tips, constitute weapons of potential harm. Students must now submit assignments in crayon or soft marker only."
-    },
-    {
-      "headline": "College Mandates Apology Sessions for Students Who Sneeze",
-      "url": "https://example.com/9",
-      "source": "CampusReform",
-      "summary": "A Massachusetts liberal arts school now requires 45-minute workshops for any student who sneezes during lectures, arguing that sneezing violates the psychological safety of neurodivergent peers."
+      "headline": "University Bans Carbonated Beverages to Preserve Silence",
+      "url": "https://news.google.com/story/campus123",
+      "source": "GoogleCampus"
     }
   ],
   "videoOfTheDay": null
