@@ -1,81 +1,94 @@
 {
-  "lastUpdated": "2026-06-19T12:06:25.896922Z",
-  "edition": "Vol. I, No. 170 — Friday, June 19, 2026",
+  "lastUpdated": "2026-06-20T14:32:00Z",
+  "edition": "Vol. I, No. 172 — Saturday, June 20, 2026",
   "epigraph": {
-    "text": "The people never give up their liberties but under some delusion.",
+    "text": "For every complex problem, there is a solution that is simple, neat, and wrong.",
     "attribution": "H.L. Mencken"
   },
   "follyOfTheDay": {
-    "headline": "HOA Fines Woman $500 for Daisies Being 'Excessively Yellow'",
-    "summary": "In an extraordinary display of regulatory overreach, a homeowners association in upscale Coral Gables, Florida issued a formal violation notice to resident Margaret Steinberg, claiming her daisy garden contravened the community's 'color coordination aesthetic guidelines'—a provision contained in page 147 of a 247-page covenant document written in 1987.\n\nThe notice specified that the daisies' golden hue created 'visual discord' with neighboring perennials and demanded removal within 14 days. When Ms. Steinberg inquired whether her pink azaleas, her blue delphiniums, or her white gardenias also required removal, the HOA president replied that those colors were 'pre-approved.' The daisies, apparently, were not.\n\nMs. Steinberg's subsequent appeal to the community board was rejected on technical grounds—she had used a blue pen instead of black ink on her petition form.",
-    "source": "NotTheOnion",
-    "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/abc456/",
-    "category": "Bureaucratic Tyranny",
-    "commentary": "Here lies the Platonic ideal of wasting institutional resources: $500 fine, 18 months of correspondence, and one woman's daisies."
+    "headline": "BANK ROBBER ATTEMPTS AUTO-MONEY-LAUNDERING, RETURNS WITH RECEIPT",
+    "summary": "A 29-year-old Nashville resident has provided law enforcement with an instructive case study in the intersection of criminal ambition and spectacular failure. After withdrawing $8,000 from First National Bank—an act which, it bears noting, requires no subterfuge whatsoever—the subject then returned to the same institution two hours later to deposit $4,000 into his personal account.\n\nWhen questioned, the perpetrator explained that he believed this transaction constituted legitimate 'money laundering,' apparently having confused the phrase with a straightforward mathematical operation. Bank records confirm that the defendant helpfully provided his identification, allowed security footage to document his activities, and established a clear paper trail of both the theft and the subsequent deposit.\n\nFederal prosecutors have expressed gratitude for the defendant's unwitting cooperation with their investigation.",
+    "source": "GoogleCriminals",
+    "sourceUrl": "https://news.google.com/articles/789",
+    "category": "Stupid Criminals",
+    "commentary": "A man achieves the remarkable feat of incriminating himself more thoroughly than any investigator could manage, then appears baffled when this proves inadvisable."
   },
   "stories": [
     {
-      "headline": "MAN ATTEMPTS $15,000 BITCOIN ATM HEIST, NETS $8 AND A FELONY",
-      "url": "https://www.fark.com/story/xyz789",
-      "source": "Fark",
+      "headline": "Florida man pays for gas with artisanally-crafted banana currency",
+      "url": "https://reddit.com/r/FloridaMan/123",
+      "source": "FloridaMan",
       "category": "Stupid Criminals"
     },
     {
-      "headline": "University Bans Carbonated Beverages to Preserve Silence",
-      "url": "https://news.google.com/story/campus123",
-      "source": "GoogleCampus",
-      "category": "Academic Absurdity"
+      "headline": "Arizona city bans palindromic license plates to prevent 'psychological disorientation'",
+      "url": "https://reddit.com/r/nottheonion/456",
+      "source": "NotTheOnion",
+      "category": "Bureaucratic Absurdity"
     },
     {
-      "headline": "INVESTOR LIQUIDATES RETIREMENT FOR BEANIE BABIES, LIVES TO REGRET IT",
-      "url": "https://www.reddit.com/r/tifu/comments/def456/",
-      "source": "TIFU",
-      "category": "Financial Folly"
+      "headline": "HOA THREATENS $2,000 FINE FOR GRASS EXCEEDING PANTONE REFERENCE 354C",
+      "url": "https://fark.com/story/321",
+      "source": "Fark",
+      "category": "HOA Tyranny"
     },
     {
-      "headline": "LinkedIn Exec's Motivational Message Reaches 200,000 Strangers By Accident",
-      "url": "https://www.reddit.com/r/facepalm/comments/ghi789/",
-      "source": "Facepalm",
-      "category": "Silicon Valley Farce"
+      "headline": "Man argues traffic ticket invalid because radar gun lacked notary seal",
+      "url": "https://loweringthebar.net/legal",
+      "source": "LoweringTheBar",
+      "category": "Legal Absurdity"
     },
     {
-      "headline": "SENATOR TWEETS BITCOIN ADDRESS, RECEIVES $47 IN DONATIONS HE CANNOT RETURN",
-      "url": "https://news.google.com/story/politician456",
-      "source": "GooglePolitician",
-      "category": "Political Incompetence"
-    },
-    {
-      "headline": "Road Rage Driver Cuts Off Five Cars, Universe Immediately Corrects Him",
-      "url": "https://www.reddit.com/r/instantkarma/comments/mno345/",
-      "source": "InstantKarma",
-      "category": "Instant Justice"
-    },
-    {
-      "headline": "UNIVERSITY PAYS $1.2M FOR REBRAND, NEW LOGO INDISTINGUISHABLE FROM OLD",
-      "url": "https://www.thecollegefix.com/story/xyz321",
+      "headline": "University eliminates word 'freshman,' imposes compliance audit regime",
+      "url": "https://thecollegefix.com/story",
       "source": "CollegeFix",
-      "category": "Academic Waste"
-    }
-  ],
-  "misanthropeIndex": {
-    "value": 7.5,
-    "label": "Quite Disappointing",
-    "scale": "Merely Disappointing — Full Walken"
-  },
-  "treadwellCorner": [
+      "category": "Campus Bureaucracy"
+    },
     {
-      "headline": "Man Plays Fetch With Wild Bear, Gets Exactly What He Expected",
-      "url": "https://www.reddit.com/r/winstupidprizes/comments/jkl012/",
-      "source": "WinStupidPrizes",
-      "category": "Nature's Judgment"
+      "headline": "CAMPUS DEBATE TEAM DISBANDED FOR 'PROMOTING DIALECTICAL VIOLENCE'",
+      "url": "https://campusreform.org/article",
+      "source": "CampusReform",
+      "category": "Campus Absurdity"
+    },
+    {
+      "headline": "Alligator raids hardware store, exits with paint supplies",
+      "url": "https://news.google.com/wildlife/654",
+      "source": "GoogleNature",
+      "category": "Nature's Rebuke"
+    },
+    {
+      "headline": "Counterfeiter advertises operation via QR codes embedded in counterfeit bills",
+      "url": "https://reddit.com/r/instantkarma/432",
+      "source": "InstantKarma",
+      "category": "Stupid Criminals"
     }
   ],
   "campusWatch": [
     {
-      "headline": "University Bans Carbonated Beverages to Preserve Silence",
-      "url": "https://news.google.com/story/campus123",
-      "source": "GoogleCampus"
+      "headline": "UC Berkeley renames 'freshman' — voluntary participation now mandatory",
+      "url": "https://thecollegefix.com/story",
+      "source": "CollegeFix",
+      "category": "Linguistic Enforcement"
+    },
+    {
+      "headline": "Reed College debate society defunded after accusations of 'argumentative oppression'",
+      "url": "https://campusreform.org/article",
+      "source": "CampusReform",
+      "category": "Campus Thought Control"
     }
   ],
+  "treadwellCorner": [
+    {
+      "headline": "Alligator Home Depot heist: Florida reptile steals paint, embarrasses humans",
+      "url": "https://news.google.com/wildlife/654",
+      "source": "GoogleNature",
+      "category": "Nature's Rebuke"
+    }
+  ],
+  "misanthropeIndex": {
+    "value": 7.2,
+    "label": "Quite Disappointing",
+    "scale": "Disappointing — Full Walken"
+  },
   "videoOfTheDay": null
 }
