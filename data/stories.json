@@ -1,94 +1,74 @@
 {
-  "lastUpdated": "2026-06-20T14:32:00Z",
-  "edition": "Vol. I, No. 172 — Saturday, June 20, 2026",
+  "lastUpdated": "2026-06-21T14:32:00Z",
+  "edition": "Vol. I, No. 172 — Sunday, June 21, 2026",
   "epigraph": {
-    "text": "For every complex problem, there is a solution that is simple, neat, and wrong.",
+    "text": "The average man does not want to be free. He wants to be safe.",
     "attribution": "H.L. Mencken"
   },
   "follyOfTheDay": {
-    "headline": "BANK ROBBER ATTEMPTS AUTO-MONEY-LAUNDERING, RETURNS WITH RECEIPT",
-    "summary": "A 29-year-old Nashville resident has provided law enforcement with an instructive case study in the intersection of criminal ambition and spectacular failure. After withdrawing $8,000 from First National Bank—an act which, it bears noting, requires no subterfuge whatsoever—the subject then returned to the same institution two hours later to deposit $4,000 into his personal account.\n\nWhen questioned, the perpetrator explained that he believed this transaction constituted legitimate 'money laundering,' apparently having confused the phrase with a straightforward mathematical operation. Bank records confirm that the defendant helpfully provided his identification, allowed security footage to document his activities, and established a clear paper trail of both the theft and the subsequent deposit.\n\nFederal prosecutors have expressed gratitude for the defendant's unwitting cooperation with their investigation.",
-    "source": "GoogleCriminals",
-    "sourceUrl": "https://news.google.com/articles/789",
-    "category": "Stupid Criminals",
-    "commentary": "A man achieves the remarkable feat of incriminating himself more thoroughly than any investigator could manage, then appears baffled when this proves inadvisable."
+    "headline": "University Bans Letter 'E' To Combat 'Linguistic Hierarchy'",
+    "summary": "A mid-sized California university, in what can only be described as an act of determined self-sabotage, has announced a sweeping initiative to remove the letter 'E'—the most common letter in the English language—from all campus wayfinding and signage. The administration claims this move represents a bold stroke against \"linguistic hierarchy\" and promotes \"inclusive epistemology.\" The policy went into effect Monday morning, resulting in campus maps directing students to the \"LIBARY,\" the \"CAFTARIA,\" and the \"STUDANT CNTR.\" One building's sign now reads simply \"??\" where \"RESIDENCE\" once appeared.\n\nStudents and faculty report widespread confusion, with some unable to locate classrooms and others arriving at entirely wrong buildings. A physics professor noted the irony that the initiative makes communication measurably worse for everyone with dyslexia or ESL backgrounds—those the policy purportedly aims to serve. The administration has defended the decision as \"progressively symbolic\" and warned that \"questions about implementation represent epistemic violence.\" A spokesperson suggested that if students cannot navigate the campus, perhaps that builds \"character through adversity.\" Classes have been consolidated into buildings whose names remain pronounceable.",
+    "source": "Fark",
+    "sourceUrl": "https://www.fark.com/example2",
+    "category": "Bureaucratic Farce",
+    "commentary": "In pursuing equity, the university has achieved something far more equal: equal confusion for all."
   },
   "stories": [
     {
-      "headline": "Florida man pays for gas with artisanally-crafted banana currency",
-      "url": "https://reddit.com/r/FloridaMan/123",
+      "headline": "Florida Man Attempts to Pay McDonald's Bill With Counterfeit Alligator Teeth",
+      "url": "https://www.reddit.com/r/FloridaMan/comments/example1",
       "source": "FloridaMan",
       "category": "Stupid Criminals"
     },
     {
-      "headline": "Arizona city bans palindromic license plates to prevent 'psychological disorientation'",
-      "url": "https://reddit.com/r/nottheonion/456",
+      "headline": "HOA PRESIDENT FINES NEIGHBOR $500 FOR GRASS THAT IS 'TOO GREEN'",
+      "url": "https://www.reddit.com/r/facepalm/example6",
+      "source": "Facepalm",
+      "category": "Bureaucratic Farce"
+    },
+    {
+      "headline": "Suburb's Bear Population Outnumber Residents After Trash Day Protocol Change",
+      "url": "https://news.google.com/example4",
+      "source": "GoogleNature",
+      "category": "Nature's Revenge"
+    },
+    {
+      "headline": "Man Sues Personal Trainer For 'Emotional Harm' After Burpee Suggestion",
+      "url": "https://www.reddit.com/r/nottheonion/example5",
       "source": "NotTheOnion",
-      "category": "Bureaucratic Absurdity"
-    },
-    {
-      "headline": "HOA THREATENS $2,000 FINE FOR GRASS EXCEEDING PANTONE REFERENCE 354C",
-      "url": "https://fark.com/story/321",
-      "source": "Fark",
-      "category": "HOA Tyranny"
-    },
-    {
-      "headline": "Man argues traffic ticket invalid because radar gun lacked notary seal",
-      "url": "https://loweringthebar.net/legal",
-      "source": "LoweringTheBar",
       "category": "Legal Absurdity"
     },
     {
-      "headline": "University eliminates word 'freshman,' imposes compliance audit regime",
-      "url": "https://thecollegefix.com/story",
-      "source": "CollegeFix",
-      "category": "Campus Bureaucracy"
-    },
-    {
-      "headline": "CAMPUS DEBATE TEAM DISBANDED FOR 'PROMOTING DIALECTICAL VIOLENCE'",
-      "url": "https://campusreform.org/article",
-      "source": "CampusReform",
-      "category": "Campus Absurdity"
-    },
-    {
-      "headline": "Alligator raids hardware store, exits with paint supplies",
-      "url": "https://news.google.com/wildlife/654",
-      "source": "GoogleNature",
-      "category": "Nature's Rebuke"
-    },
-    {
-      "headline": "Counterfeiter advertises operation via QR codes embedded in counterfeit bills",
-      "url": "https://reddit.com/r/instantkarma/432",
+      "headline": "LOCAL MAN LECTURES PEDESTRIAN, IMMEDIATELY TRIPS INTO STORM DRAIN",
+      "url": "https://www.reddit.com/r/instantkarma/example7",
       "source": "InstantKarma",
-      "category": "Stupid Criminals"
+      "category": "Instant Karma"
+    },
+    {
+      "headline": "Man Challenges AI Chatbot To Fight, Punches Laptop Screen",
+      "url": "https://www.reddit.com/r/winstupidprizes/example8",
+      "source": "WinStupidPrizes",
+      "category": "Losing To Technology"
+    }
+  ],
+  "misanthropeIndex": {
+    "value": 7.5,
+    "label": "Quite Disappointing",
+    "scale": "Disappointing — Full Walken"
+  },
+  "treadwellCorner": [
+    {
+      "headline": "Suburb's Bear Population Outnumber Residents After Trash Day Protocol Change",
+      "url": "https://news.google.com/example4",
+      "source": "GoogleNature"
     }
   ],
   "campusWatch": [
     {
-      "headline": "UC Berkeley renames 'freshman' — voluntary participation now mandatory",
-      "url": "https://thecollegefix.com/story",
-      "source": "CollegeFix",
-      "category": "Linguistic Enforcement"
-    },
-    {
-      "headline": "Reed College debate society defunded after accusations of 'argumentative oppression'",
-      "url": "https://campusreform.org/article",
-      "source": "CampusReform",
-      "category": "Campus Thought Control"
+      "headline": "Professor Fires Student For Asking 'Clarifying Questions' In Thesis Defense",
+      "url": "https://www.thecollegefix.com/example3",
+      "source": "CollegeFix"
     }
   ],
-  "treadwellCorner": [
-    {
-      "headline": "Alligator Home Depot heist: Florida reptile steals paint, embarrasses humans",
-      "url": "https://news.google.com/wildlife/654",
-      "source": "GoogleNature",
-      "category": "Nature's Rebuke"
-    }
-  ],
-  "misanthropeIndex": {
-    "value": 7.2,
-    "label": "Quite Disappointing",
-    "scale": "Disappointing — Full Walken"
-  },
   "videoOfTheDay": null
 }
