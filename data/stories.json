@@ -1,54 +1,76 @@
 {
-  "lastUpdated": "2026-06-21T14:32:00Z",
-  "edition": "Vol. I, No. 172 — Sunday, June 21, 2026",
+  "lastUpdated": "2026-06-22T12:07:33.060764Z",
+  "edition": "Vol. I, No. 173 — Monday, June 22, 2026",
   "epigraph": {
-    "text": "The average man does not want to be free. He wants to be safe.",
+    "text": "Democracy is the theory that the common people know what they want, and deserve to get it good and hard.",
     "attribution": "H.L. Mencken"
   },
   "follyOfTheDay": {
-    "headline": "University Bans Letter 'E' To Combat 'Linguistic Hierarchy'",
-    "summary": "A mid-sized California university, in what can only be described as an act of determined self-sabotage, has announced a sweeping initiative to remove the letter 'E'—the most common letter in the English language—from all campus wayfinding and signage. The administration claims this move represents a bold stroke against \"linguistic hierarchy\" and promotes \"inclusive epistemology.\" The policy went into effect Monday morning, resulting in campus maps directing students to the \"LIBARY,\" the \"CAFTARIA,\" and the \"STUDANT CNTR.\" One building's sign now reads simply \"??\" where \"RESIDENCE\" once appeared.\n\nStudents and faculty report widespread confusion, with some unable to locate classrooms and others arriving at entirely wrong buildings. A physics professor noted the irony that the initiative makes communication measurably worse for everyone with dyslexia or ESL backgrounds—those the policy purportedly aims to serve. The administration has defended the decision as \"progressively symbolic\" and warned that \"questions about implementation represent epistemic violence.\" A spokesperson suggested that if students cannot navigate the campus, perhaps that builds \"character through adversity.\" Classes have been consolidated into buildings whose names remain pronounceable.",
-    "source": "Fark",
-    "sourceUrl": "https://www.fark.com/example2",
+    "headline": "Suburb Threatens Homeowner With $150K in Fines Over Mailbox Hue",
+    "summary": "A suburban homeowner has fallen victim to the remorseless machinery of bureaucratic zealotry after painting his mailbox the objectively indistinguishable shade of hunter green instead of the mandated forest green. The HOA board, armed with bylaws and devoid of mercy, has commenced daily fines of $5,000—a sum that would bankrupt most families within a month, yet somehow remains justified by gentlemen in polo shirts who derive their only sense of power from the persecution of their neighbors.\n\nThe accused homeowner, caught between compliance and financial ruin, has become the latest martyr to the HOA industrial complex: that uniquely American institution wherein the ornamental acquisition of minor authority drives otherwise ordinary men to acts of bureaucratic sadism. In response, one might reasonably ask whether the distinction between these two shades of green is perceptible to the human eye, or merely to the diseased imagination of committee members seeking validation.",
+    "source": "GoogleHOA",
+    "sourceUrl": "https://www.example.com/hoa-mailbox",
     "category": "Bureaucratic Farce",
-    "commentary": "In pursuing equity, the university has achieved something far more equal: equal confusion for all."
+    "commentary": "A reminder that evil often wears a polo shirt and a laminated badge. The mailbox has won."
   },
   "stories": [
     {
-      "headline": "Florida Man Attempts to Pay McDonald's Bill With Counterfeit Alligator Teeth",
-      "url": "https://www.reddit.com/r/FloridaMan/comments/example1",
+      "headline": "Florida Man Attempts to Trade Alligator for Beer, Faces Serious Consequences",
+      "url": "https://www.example.com/florida-alligator-beer",
       "source": "FloridaMan",
       "category": "Stupid Criminals"
     },
     {
-      "headline": "HOA PRESIDENT FINES NEIGHBOR $500 FOR GRASS THAT IS 'TOO GREEN'",
-      "url": "https://www.reddit.com/r/facepalm/example6",
+      "headline": "Man Proposes With Ring That Once Belonged to Girlfriend's Ex-Husband",
+      "url": "https://www.example.com/tifu-ring",
+      "source": "TIFU",
+      "category": "Romantic Disasters"
+    },
+    {
+      "headline": "CITY COUNCIL UNANIMOUSLY VOTES TO HONOR LOCAL HERO, REALIZES SUBJECT DIED IN 1987",
+      "url": "https://www.example.com/street-rename-fail",
       "source": "Facepalm",
-      "category": "Bureaucratic Farce"
+      "category": "Government Incompetence"
     },
     {
-      "headline": "Suburb's Bear Population Outnumber Residents After Trash Day Protocol Change",
-      "url": "https://news.google.com/example4",
+      "headline": "Zoo Visitor Ignores Warning Signs, Gets Educated by Territorial Peacock",
+      "url": "https://www.example.com/peacock-attack",
       "source": "GoogleNature",
-      "category": "Nature's Revenge"
+      "category": "Nature's Justice"
     },
     {
-      "headline": "Man Sues Personal Trainer For 'Emotional Harm' After Burpee Suggestion",
-      "url": "https://www.reddit.com/r/nottheonion/example5",
-      "source": "NotTheOnion",
-      "category": "Legal Absurdity"
-    },
-    {
-      "headline": "LOCAL MAN LECTURES PEDESTRIAN, IMMEDIATELY TRIPS INTO STORM DRAIN",
-      "url": "https://www.reddit.com/r/instantkarma/example7",
-      "source": "InstantKarma",
+      "headline": "BURGLAR BREAKS LEG ESCAPING HOUSE, CALLS 911 HIMSELF FOR ASSISTANCE",
+      "url": "https://www.example.com/burglar-911",
+      "source": "WinStupidPrizes",
       "category": "Instant Karma"
     },
     {
-      "headline": "Man Challenges AI Chatbot To Fight, Punches Laptop Screen",
-      "url": "https://www.reddit.com/r/winstupidprizes/example8",
-      "source": "WinStupidPrizes",
-      "category": "Losing To Technology"
+      "headline": "Car Thief Becomes Trapped in Vehicle With Aggressive German Shepherd",
+      "url": "https://www.example.com/car-thief-dog",
+      "source": "InstantKarma",
+      "category": "Poetic Justice"
+    },
+    {
+      "headline": "Woman Sues Pharmacy for Successfully Selling Her Weight Loss Pills",
+      "url": "https://www.example.com/pharmacy-lawsuit",
+      "source": "Fark",
+      "category": "Legal Absurdity"
+    }
+  ],
+  "campusWatch": [
+    {
+      "headline": "Major University Bans Word 'Christmas' From Official Holiday Materials",
+      "url": "https://www.example.com/college-christmas-ban",
+      "source": "CollegeFix",
+      "category": "Campus Insanity"
+    }
+  ],
+  "treadwellCorner": [
+    {
+      "headline": "Man Loses Argument With Peacock, Sustains 47 Stitches",
+      "url": "https://www.example.com/peacock-attack",
+      "source": "GoogleNature",
+      "category": "Humans vs Nature"
     }
   ],
   "misanthropeIndex": {
@@ -56,19 +78,5 @@
     "label": "Quite Disappointing",
     "scale": "Disappointing — Full Walken"
   },
-  "treadwellCorner": [
-    {
-      "headline": "Suburb's Bear Population Outnumber Residents After Trash Day Protocol Change",
-      "url": "https://news.google.com/example4",
-      "source": "GoogleNature"
-    }
-  ],
-  "campusWatch": [
-    {
-      "headline": "Professor Fires Student For Asking 'Clarifying Questions' In Thesis Defense",
-      "url": "https://www.thecollegefix.com/example3",
-      "source": "CollegeFix"
-    }
-  ],
   "videoOfTheDay": null
 }
