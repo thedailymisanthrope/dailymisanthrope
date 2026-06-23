@@ -1,76 +1,60 @@
 {
-  "lastUpdated": "2026-06-22T12:07:33.060764Z",
-  "edition": "Vol. I, No. 173 — Monday, June 22, 2026",
+  "lastUpdated": "2026-06-23T12:08:21.876653Z",
+  "edition": "Vol. I, No. 174 — Tuesday, June 23, 2026",
   "epigraph": {
-    "text": "Democracy is the theory that the common people know what they want, and deserve to get it good and hard.",
+    "text": "One horse-laugh is worth ten thousand syllogisms. It is not only more effective; it is also vastly more agreeable.",
     "attribution": "H.L. Mencken"
   },
   "follyOfTheDay": {
-    "headline": "Suburb Threatens Homeowner With $150K in Fines Over Mailbox Hue",
-    "summary": "A suburban homeowner has fallen victim to the remorseless machinery of bureaucratic zealotry after painting his mailbox the objectively indistinguishable shade of hunter green instead of the mandated forest green. The HOA board, armed with bylaws and devoid of mercy, has commenced daily fines of $5,000—a sum that would bankrupt most families within a month, yet somehow remains justified by gentlemen in polo shirts who derive their only sense of power from the persecution of their neighbors.\n\nThe accused homeowner, caught between compliance and financial ruin, has become the latest martyr to the HOA industrial complex: that uniquely American institution wherein the ornamental acquisition of minor authority drives otherwise ordinary men to acts of bureaucratic sadism. In response, one might reasonably ask whether the distinction between these two shades of green is perceptible to the human eye, or merely to the diseased imagination of committee members seeking validation.",
+    "headline": "HOA Fines Man for 'Excessive Happiness' While Gardening",
+    "summary": "A Pennsylvania homeowners association has discovered what may be the final frontier of regulatory overreach: the criminalization of joy. After a resident was spotted smiling while tending his modest vegetable garden, the HOA board issued a formal citation alleging 'inappropriately exuberant facial expressions' and demanding $500 per day in fines until his countenance could be rendered suitably dour.\n\nThe citation claims his 'visible contentment' constitutes a violation of neighborhood aesthetic standards, a provision the resident disputes was ever mentioned in the covenants. Board minutes suggest the complaint originated with a neighbor who found his cheerfulness 'demoralizing' and believed it set a dangerous precedent for optimism in the community.\n\nLegal experts are divided on whether facial expressions fall under HOA jurisdiction, though one constitutional scholar noted that this may represent the first recorded instance of a governing body attempting to regulate the internal emotional state of its residents through external manifestations thereof.",
     "source": "GoogleHOA",
-    "sourceUrl": "https://www.example.com/hoa-mailbox",
+    "sourceUrl": "https://news.google.com/articles/hoa-excessive-happiness",
     "category": "Bureaucratic Farce",
-    "commentary": "A reminder that evil often wears a polo shirt and a laminated badge. The mailbox has won."
+    "commentary": "The HOA has finally found the one thing worse than unsightly lawn ornaments: visible satisfaction with one's own life."
   },
   "stories": [
     {
-      "headline": "Florida Man Attempts to Trade Alligator for Beer, Faces Serious Consequences",
-      "url": "https://www.example.com/florida-alligator-beer",
-      "source": "FloridaMan",
+      "headline": "Florida Man Attempts to Pay for Gas with Vintage Postage Stamps",
+      "url": "https://www.fark.com/stories/florida-postage-stamps",
+      "source": "Fark",
       "category": "Stupid Criminals"
     },
     {
-      "headline": "Man Proposes With Ring That Once Belonged to Girlfriend's Ex-Husband",
-      "url": "https://www.example.com/tifu-ring",
-      "source": "TIFU",
-      "category": "Romantic Disasters"
-    },
-    {
-      "headline": "CITY COUNCIL UNANIMOUSLY VOTES TO HONOR LOCAL HERO, REALIZES SUBJECT DIED IN 1987",
-      "url": "https://www.example.com/street-rename-fail",
-      "source": "Facepalm",
-      "category": "Government Incompetence"
-    },
-    {
-      "headline": "Zoo Visitor Ignores Warning Signs, Gets Educated by Territorial Peacock",
-      "url": "https://www.example.com/peacock-attack",
-      "source": "GoogleNature",
-      "category": "Nature's Justice"
-    },
-    {
-      "headline": "BURGLAR BREAKS LEG ESCAPING HOUSE, CALLS 911 HIMSELF FOR ASSISTANCE",
-      "url": "https://www.example.com/burglar-911",
-      "source": "WinStupidPrizes",
-      "category": "Instant Karma"
-    },
-    {
-      "headline": "Car Thief Becomes Trapped in Vehicle With Aggressive German Shepherd",
-      "url": "https://www.example.com/car-thief-dog",
-      "source": "InstantKarma",
-      "category": "Poetic Justice"
-    },
-    {
-      "headline": "Woman Sues Pharmacy for Successfully Selling Her Weight Loss Pills",
-      "url": "https://www.example.com/pharmacy-lawsuit",
-      "source": "Fark",
+      "headline": "Federal Judge Issues Injunction Banning Litigant from Using Phrase 'Legally Speaking'",
+      "url": "https://www.reddit.com/r/nottheonion/comments/xyz123",
+      "source": "NotTheOnion",
       "category": "Legal Absurdity"
-    }
-  ],
-  "campusWatch": [
+    },
     {
-      "headline": "Major University Bans Word 'Christmas' From Official Holiday Materials",
-      "url": "https://www.example.com/college-christmas-ban",
-      "source": "CollegeFix",
-      "category": "Campus Insanity"
-    }
-  ],
-  "treadwellCorner": [
+      "headline": "WOMAN SUES WEATHER SERVICE FOR MISLEADING RAIN FORECAST",
+      "url": "https://www.reddit.com/r/facepalm/comments/abc456",
+      "source": "Facepalm",
+      "category": "Bureaucratic Farce"
+    },
     {
-      "headline": "Man Loses Argument With Peacock, Sustains 47 Stitches",
-      "url": "https://www.example.com/peacock-attack",
-      "source": "GoogleNature",
-      "category": "Humans vs Nature"
+      "headline": "HOA Fines Homeowner $500 Per Day for Excessive Happiness (Smiling Too Much in Front Yard)",
+      "url": "https://news.google.com/articles/hoa-excessive-happiness",
+      "source": "GoogleHOA",
+      "category": "Bureaucratic Farce"
+    },
+    {
+      "headline": "Burglar Trips Alarm After Ignoring Prominent Warning Sign, Arrested Before Exiting Store",
+      "url": "https://www.reddit.com/r/instantkarma/comments/def789",
+      "source": "InstantKarma",
+      "category": "Stupid Criminals"
+    },
+    {
+      "headline": "MAN ACCEPTS DARE TO RIDE MOTORCYCLE WITH EYES CLOSED ON I-95",
+      "url": "https://www.reddit.com/r/winstupidprizes/comments/ghi012",
+      "source": "WinStupidPrizes",
+      "category": "Stupid Decisions"
+    },
+    {
+      "headline": "Roommate Uses $350 in Luxury Skincare Products to Polish Furniture",
+      "url": "https://www.reddit.com/r/tifu/comments/jkl345",
+      "source": "TIFU",
+      "category": "Domestic Absurdity"
     }
   ],
   "misanthropeIndex": {
@@ -78,5 +62,25 @@
     "label": "Quite Disappointing",
     "scale": "Disappointing — Full Walken"
   },
+  "treadwellCorner": [
+    {
+      "headline": "Alligator Invades Walmart, Spends 45 Minutes in Sporting Goods",
+      "url": "https://news.google.com/articles/alligator-walmart",
+      "source": "GoogleNature",
+      "summary": "A 7-foot alligator breached a Florida Walmart's entrance and wandered the fishing and camping aisles for nearly an hour before being herded out by wildlife officers."
+    }
+  ],
+  "campusWatch": [
+    {
+      "headline": "University Cancels Orientation Scavenger Hunt as 'Exclusionary'",
+      "url": "https://www.thecollegefix.com/university-cancels-orientation",
+      "source": "CollegeFix"
+    },
+    {
+      "headline": "Students Petition to Remove Archimedes from Physics Curriculum as Eurocentric",
+      "url": "https://www.campusreform.org/archimedes-petition",
+      "source": "CampusReform"
+    }
+  ],
   "videoOfTheDay": null
 }
